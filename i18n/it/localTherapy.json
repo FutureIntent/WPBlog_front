@@ -1,0 +1,110 @@
+{
+  "metaData": {
+    "title": "Macchina per la crioterapia localizzata - una macchina per la crioterapia locale per curare il tuo corpo",
+    "description": "Una macchina per la crioterapia locale è un dispositivo efficace che può curare quasi ogni parte del corpo. Si tratta di un metodo totalmente sicuro che porta grandi risultati. I dispositivi per la crioterapia locale possono essere utilizzati senza il rischio di congelamento"
+  },
+  "heroBanner": {
+    "heading": "Sperimenta la crioterapia localizzata"
+  },
+  "productName": "X˚Cryo",
+  "whatIs": {
+    "imageAlt": "Prodotto terapeutico locale",
+    "heading": "Cos'è il CTN X°Cryo?",
+    "slide1": "Il principio di funzionamento di X°Cryo si basa sull'alto volume e sulla velocità dell'aria raffreddata, che offre un metodo molto efficace ma totalmente sicuro per produrre uno shock termico sull'area trattata, senza alcun rischio di congelamento o altri effetti collaterali",
+    "slide2": "Si tratta di un dispositivo elettrico, compatto e mobile con teste di trattamento multiple. È una soluzione semplice ed efficace che aiuta a ridurre il dolore e a rendere più rapido il processo di recupero. È stato progettato per trattare la pelle, le articolazioni e i muscoli di tutto il corpo",
+    "slide3": "Tutto ciò che serve è una presa di corrente disponibile. Non è necessaria un'installazione speciale. La macchina è dotata di quattro ruote che la rendono mobile. Questa tecnologia è ideale per potenziare le prestazioni atletiche e il recupero dopo un infortunio o uno stiramento.",
+    "slide4": "La crioterapia vi aiuterà ad accelerare il recupero muscolare e a migliorarne l'elasticità. È molto utile per trattare i dolori alla schiena, al collo e alle spalle. L'aria raffreddata riduce il gonfiore e la ritenzione di liquidi, i dolori articolari e le infiammazioni",
+    "specs": {
+      "spec1": "Schermo tattile HD da...pollici",
+      "spec2": "Tubo di trattamento piccolo Φ12mm (diametro)",
+      "spec3": "Tubo di trattamento grande Φ20mm",
+      "spec4": "Selezione degli applicatori di trattamento",
+      "spec5": "Livelli di velocità dell'aria 1-3",
+      "spec6": "Tempo di lavoro 0-60 minuti",
+      "spec7": "Temperatura di uscita -20°C con capacità effettiva di estrazione del calore di -60°C",
+      "spec8": "Potenza del compressore 500W",
+      "spec9": "Potenza di dissipazione del calore 2000W",
+      "spec10": "Potenza frigorifera 1800W",
+      "spec11": "Flusso d'aria massimo 75m3/ora",
+      "spec12": "Potenza assorbita 1 KVA",
+      "spec13": "Peso 65 kg",
+      "spec14": "Dimensioni 73cm*44cm*75cm",
+      "spec15": "Alimentazione 220V AC 50Hz. 110V AC 60Hz (disponibile come ordine personalizzato)"
+    }
+  },
+  "showCase": {
+    "card1": {
+      "title": "Design",
+      "caption": "Fabbricato, progettato e prodotto nei paesi nordici"
+    },
+    "card2": {
+      "title": "Senza azoto",
+      "caption": "Introduzione ai trattamenti di crioterapia senza azoto liquido"
+    },
+    "card3": {
+      "title": "Connesso",
+      "caption": "Sempre online tramite il wifi integrato. X°Cryo si aggiorna automaticamente tramite Internet"
+    },
+    "card4": {
+      "title": "Freddo",
+      "caption": "L'effetto dell'X°Cryo è di -60° celsius sulla pelle."
+    }
+  },
+  "meetAllYourNeeds": {
+    "preHeading": "Crioterapia locale",
+    "heading": "Soddisfare ogni tua esigenza",
+    "wellness": {
+      "title": "Benessere",
+      "caption": "La crioterapia può aumentare il benessere generale e attivare il rilascio di neurotrasmettitori benefici"
+    },
+    "sport": {
+      "title": "Atletica e sport",
+      "caption": "X°Cryo riduce i tempi di recupero dei muscoli, permettendo di ottenere risultati migliori più velocemente"
+    },
+    "health": {
+      "title": "Salute e recupero",
+      "caption": "Ottimo per le tensioni muscolari generali e per i muscoli doloranti in qualsiasi parte del corpo"
+    }
+  },
+  "howItWork": {
+    "card1": "Produce un flusso d'aria continuo ad alto volume e velocità con un'eccellente capacità di estrazione del calore",
+    "card2": "Il sistema di raffreddamento si basa su un compressore elettrico avanzato e su una tecnologia di scambio termico che garantisce un funzionamento continuo senza necessità di manutenzione.",
+    "card3": "L'alta velocità del flusso d'aria consente il crio-raffreddamento delle aree di trattamento a una temperatura dell'aria più elevata rispetto al passato, rendendo i trattamenti sicuri al 100%.",
+    "card4": "Una tipica sessione di trattamento per area dura da 3 a 5 minuti. Schermo touch screen da 8 pollici con interfaccia utente di facile utilizzo"
+  },
+  "showCaseTreatment": {
+    "card1": "Trattamento del ginocchio",
+    "card2": "Trattamento locale",
+    "card3": "Trattamento del gomito",
+    "card4": "Trattamento della regione della spalla"
+  },
+  "treatments": {
+    "fast": {
+      "title": "Trattamenti rapidi",
+      "caption": "Un trattamento con l'X°Cryo richiede solo 3 minuti"
+    },
+    "low": {
+      "title": "Bassi costi di gestione",
+      "caption": "L'X°Cryo non necessita di azoto liquido per essere utilizzato"
+    }
+  },
+  "bodyBenefits": {
+    "heading": "Benefici per il corpo",
+    "tab1": {
+      "title": "Bellezza",
+      "content": "Inverte i segni dell'invecchiamento, favorisce la tonicità della pelle, riduce la cellulite, aumenta la produzione di collagene e fornisce un trattamento efficace di vari disturbi della pelle. I trattamenti crio facciali sono ideali anche per eliminare gonfiori, cedimenti cutanei e acne"
+    },
+    "tab2": {
+      "title": "Sport",
+      "content": "La crioterapia è una comoda soluzione all-in-one che può essere utilizzata in ambito sportivo per trattare gli infortuni. La tecnologia può aumentare il benessere, ridurre il dolore e migliorare la circolazione sanguigna. L'aria raffreddata lenisce i sintomi dolorosi dopo lo stiramento alla schiena, al collo e alle spalle"
+    },
+    "tab3": {
+      "title": "Salute",
+      "content": "Con l'aiuto di questa macchina, è possibile accelerare il processo di recupero dopo un infortunio o un'operazione medica. Dà sollievo dai dolori cronici e articolari. Riduce il tempo di recupero dei muscoli, consentendo di riprendere l'attività fisica in poco tempo"
+    },
+    "tab4": {
+      "title": "Benessere",
+      "content": "L'apparecchio aumenta il benessere generale degli atleti e delle persone che scelgono uno stile di vita attivo. L'apparecchio è ottimo per ridurre la tensione muscolare e i muscoli doloranti in qualsiasi parte del corpo. Sarai in grado di continuare la tua routine di allenamento quotidiano in tempi più brevi."
+    }
+  }
+}

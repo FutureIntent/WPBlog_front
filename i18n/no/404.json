@@ -1,0 +1,10 @@
+{
+  "metaData": {
+    "title": "Side ikke funnet"
+  },
+    "error": "Feil",
+    "notFound": "Ikke funnet",
+  "message": "Side ikke funnet. Du kan besøke hjemmesiden eller navigere i menyene.",
+  "goToHomepage": "Gå til hjemmesiden",
+  "showNavigation": "Vis side Navigering"
+}

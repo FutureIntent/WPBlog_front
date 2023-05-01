@@ -1,0 +1,111 @@
+{
+  "metaData": {
+    "title": "Lokalisert kryoterapimaskin – en lokal kryoterapimaskin for å kurere kroppen din",
+    "description": "En lokal kryoterapimaskin er en effektiv enhet som kan kurere nesten alle deler av kroppen. Dette er en helt sikker metode som gir gode resultater. Lokale kryoterapiapparater kan brukes uten risiko for frostskader."
+  },
+  "heroBanner": {
+    "heading": "Opplev Lokalisert Kryoterapi"
+  },
+  "productName": "X˚Cryo",
+  "whatIs": {
+    "imageAlt": "Lokalt terapiprodukt",
+    "heading": "Hva er CTN X°Cryo?",
+    "slide1": "X°Cryo-driftsprinsippet er basert på høyt volum og hastighet på den avkjølte luften, som gir en svært effektiv, men helt sikker metode for å produsere termisk sjokk til det behandlede området uten risiko for frostskader eller andre bivirkninger.",
+    "slide2": "Dette er en elektrisk, kompakt og mobil enhet med flere behandlingshoder. Det er en enkel og effektiv løsning som vil bidra til å redusere smerte og gjøre utvinningsprosessen raskere. Den ble designet for å behandle hud, ledd og muskler rundt i kroppen.",
+    "slide3": "Alt du trenger er en stikkontakt tilgjengelig. Det ville ikke være behov for spesiell installasjon. Maskinen har fire hjul som gjør den mobil. Denne teknologien er ideell for å øke ytelse og restitusjon etter en skade eller en strekkskade.",
+    "slide4": "Kryoterapi vil hjelpe deg å akselerere muskelgjenoppretting og forbedre elastisiteten. Det er veldig nyttig når det kommer til behandling av rygg-, nakke- og skuldersmerter. Den avkjølte luften vil redusere hevelse og væskeretensjon, leddsmerter og betennelser.",
+    "specs": {
+      "spec1": "tommers HD-berøringsskjerm",
+      "spec2": "Lite behandlingsrør Φ12mm (diameter)",
+      "spec3": "Stort behandlingsrør Φ20mm",
+      "spec4": "Valg av behandlingsapplikatorer",
+      "spec5": "Lufthastighetsnivåer 1-3",
+      "spec6": "Arbeidstid 0-60 minutter",
+      "spec7": "Utløpstemperatur -20°C med faktisk varmeavtrekkskapasitet på -60°C",
+      "spec8": "Kompressoreffekt 500W",
+      "spec9": "Varmeavledningseffekt 2000W",
+      "spec10": "Kjøleeffekt 1800W",
+      "spec11": "Maximum air flow 75m3/hour",
+      "spec12": "Strømforbruk 1 KVA",
+      "spec13": "Vekt 65 kg",
+      "spec14": "Dimensjon 73cm*44cm*75cm",
+      "spec15": "Strømforsyning 220V AC 50Hz. 110V AC 60Hz (tilgjengelig som spesialbestilling)"
+    }
+  },
+  "showCase": {
+    "card1": {
+      "title": "Design",
+      "caption": "Lagd, designet og produsert i Norden"
+    },
+    "card2": {
+      "title": "Nitrogenfri",
+      "caption": "Introduserer flytende nitrogenfrie kryoterapibehandlinger"
+    },
+    "card3": {
+      "title": "Tilkoblet",
+      "caption": "Alltid online over den innebygde wifi. X°Cryo oppdateres automatisk over internett"
+    },
+    "card4": {
+      "title": "Kulde",
+      "caption": "Effekten av X°Cryo er -60° celsius på huden"
+    }
+  },
+  "meetAllYourNeeds": {
+    "preHeading": "Lokal kryoterapi",
+    "heading": "Dekker alle dine behov",
+    "wellness": {
+      "title": "Velvære",
+      "caption": "Kryoterapi kan øke din generelle velvære og øke nevrotransmitterfunksjon"
+    },
+    "sport": {
+      "title": "Sport og Idrett",
+      "caption": "X°Cryo reduserer restitusjonstiden for musklene, slik at du kan få bedre resultater raskere"
+    },
+    "health": {
+      "title": "Helse og Restitusjon",
+      "caption": "Flott for generelle muskelspenninger og ømme muskler hvor som helst på kroppen"
+    }
+  },
+  "buyToday": "Buy x°cryo today",
+  "howItWork": {
+    "card1": "Produserer kontinuerlig luftstrøm med høyt volum og hastighet med utmerket varmeavtrekksevne.",
+    "card2": "Kjølesystemet er basert på avansert elektrisk kompressor og varmevekslerteknologi som gir vedlikeholdsfri kontinuerlig drift.",
+    "card3": "Høy luftstrømshastighet muliggjør kryokjøling av behandlingsområdene ved høyere lufttemperatur enn tidligere, noe som gjør behandlingene 100% sikre.",
+    "card4": "En typisk behandlingsøkt per område varer fra 3 til 5 minutter. 8 tommers berøringsskjerm med brukervennlig grensesnitt."
+  },
+  "showCaseTreatment": {
+    "card1": "Knebehandling",
+    "card2": "Lokalbehandling",
+    "card3": "Albuebehandling",
+    "card4": "Skulderbehandling"
+  },
+  "treatments": {
+    "fast": {
+      "title": "Raske behandlinger",
+      "caption": "En behandling med The X°Cryo tar bare 3 kjappe minutter"
+    },
+    "low": {
+      "title": "Lave driftskostnader",
+      "caption": "X°Cryo krever ikke flytende nitrogen for å bruke"
+    }
+  },
+  "bodyBenefits": {
+    "heading": "Kroppsfordeler",
+    "tab1": {
+      "title": "Skjønnhet",
+      "content": "Reverserer aldringstegn, fremmer hudtonen, reduserer cellulitter, øker kollagenproduksjonen og gir effektiv behandling av ulike hudsykdommer. Cryo ansiktsbehandlinger er også ideelle for å redusere hevelser, slapp hud og akne."
+    },
+    "tab2": {
+      "title": "Sport",
+      "content": "Kryoterapi er en praktisk alt-i-ett-løsning som kan brukes i sport for å behandle skader. Teknologien kan øke din velvære, redusere smerte og forbedre blodsirkulasjonen. Avkjølt luft vil lindre smertefulle symptomer etter strekk i rygg, nakke og skulder."
+    },
+    "tab3": {
+      "title": "Helse",
+      "content": "Ved hjelp av denne maskinen kan du øke restitusjonsprosessen etter en skade eller en medisinsk operasjon. Det gir lindring fra kroniske og leddsmerter. Det reduserer restitusjonstiden til musklene, noe som vil tillate deg å gjenoppta fysisk aktivitet på kort tid."
+    },
+    "tab4": {
+      "title": "Velvære",
+      "content": "Maskinen øker generelt velvære til idrettsutøvere og personer som har en aktiv livsstil. Produktet er flott for å redusere muskelspenninger og ømme muskler i alle deler av kroppen. Du vil kunne fortsette din daglige treningsrutine raskere."
+    }
+  }
+}

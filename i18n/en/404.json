@@ -1,0 +1,10 @@
+{
+  "metaData": {
+    "title": "Page not found"
+  },
+    "error": "Error",
+    "notFound": "Not found",
+  "message": "Page not found. You can visit Homepage or navigate in the menus.",
+  "goToHomepage": "Go to Homepage",
+  "showNavigation": "Show site Navigation"
+}

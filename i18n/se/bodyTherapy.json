@@ -1,0 +1,123 @@
+{
+  "metaData": {
+    "title": "Cryolipolysis maskin att minska fettnivån",
+    "description": "Cryolipo maskin är fettfrysningsutrustning som hjälper att skapa en idealisk kropp utan allvarlig kamp och operation. Denna icke-kirurgiska behandling är mycket effektiv om användas på rätt sätt."
+  },
+  "productName": "X°Tone",
+  "heading": "X°Tone",
+  "subHeading": "Ett sannt genombrott inom kroppsskulptering",
+  "whatIs": {
+    "imageAlt": "Xtone produkt",
+    "slides": {
+      "slide1": {
+        "title": "Perfekt kropp med cryo fett frysmaskin",
+        "content": "Man behöver inte delta i en olidlig kamp för att skapa en idealisk kropp, för med X°Tone får man snabba resultat! De moderna och effektiva icke-kirurgiska fettreducerande behandlingarna som erbjuds av kryolipolysmaskinen hjälper att uppnå den perfekta formen efter bara några få behandlingar.",
+        "content2": "Att frysa fett är nästan smärtfri procedur även om man har en låg smärttröskel. Med den lokala eller totala effekten kan man bränna fett i vissa områden och fortsätta idrotta och leva en hälsosam livsstil."
+      },
+      "slide2": {
+        "title": "Hälsosam viktminskning med cryolipo maskin",
+        "content": "Glöm utmattande träningar, dieter och plastikkirurgsbesök. Det behövs inte längre! Med hjälp av fettfrysningsmaskin kan man uppnå önskade resultat snabbt. Du får önskade form av höfter, ben, armar och midja utan ansträngningar. Allt man behöver göra är att välja rätt X°Tone maskinen!",
+        "content2": "Vi presenterar modeller av olika konfigurationer, som var och en har sina egna egenskaper och användningsfördelar. Alla kan användas hemma, på privata kliniker och i centra för estetisk skönhet och medicin."
+      },
+      "slide3": {
+        "title": "Kroppsföryngring",
+        "content": "Om man letar efter ungdomens hemligheter, är X°Tone redo att upptäcka en av dem. På grund av exponering för kyla kan maskinen påskynda processen för cellregenerering, kollagenproduktionen och annan \"föryngring \" frågor som finns i kroppen.",
+        "content2": "Genom att använda en kurs tillsammans med anti-aging ansiktsbehandling får man ett perfekt och långvarigt resultat. Om anti-aging ansiktskrämer har den första lyfteffekten efter 3 veckor, med X°Tone kan man se det redan om 2 veckor!"
+      },
+      "slide4": {
+        "title": "Accelererad sårläkning och snabb återhämtning",
+        "content": "X°Tone kan användas för postoperativ och posttraumatisk rehabilitering. Med en unik exponeringsmetod som stimulerar accelerationen av vävnadsregenerering, hjälper procedurerna med cryolipo apparater att bli av med smärta och förbättra välbefinnandet.",
+        "content2": "En säker och effektiv exponeringsmetod har en jättepositiv effekt på muskelsystemet och minskar smärta efter de två första procedurerna! Med lokal kryoterapi och medicinering kan man också påskynda processen att absorbera medicin genom att öka den allmänna tonen."
+      }
+    },
+    "specs": {
+      "spec1": "tums HD-pekskärm",
+      "spec2": "Litet behandlingsrör 12mm (diameter)",
+      "spec3": "Stort behandlingsrör 20mm",
+      "spec4": "Val av behandlingsapplikatorer",
+      "spec5": "Lufthastighetsnivåer 1-3",
+      "spec6": "Arbetstid 0-60 minuter",
+      "spec7": "Utloppstemperatur -20°C med faktisk värmeuttagskapacitet på -60°C",
+      "spec8": "Kompressoreffekt 500W",
+      "spec9": "Värmeavledningseffekt 2000W",
+      "spec10": "Kyleffekt 1800W",
+      "spec11": "Max luftflöde 75m3/timme",
+      "spec12": "Strömförbrukning 1 KVA",
+      "spec13": "Vikt 65 kg",
+      "spec14": "Mått 73cm*44cm*75cm",
+      "spec15": "Strömförsörjning 220V AC 50Hz. 110V AC 60Hz (tillgänglig att beställa)"
+    }
+  },
+  "showCase": {
+    "card1": {
+      "title": "Muskeluppbyggnad",
+      "caption": "Denna teknologi tonar och bygger upp muskelvävnaden under det behandlade området effektivt."
+    },
+    "card2": {
+      "title": "Tids sparande",
+      "caption": "Ett pass på 30 minuter motsvarar 10x40 minuter på gymmet."
+    },
+    "card3": {
+      "title": "Verktyg",
+      "caption": "Cryolipo maskin kommer med två stora applikatorer."
+    },
+    "card4": {
+      "title": "Säkerhet",
+      "caption": "100 % effektivitet och säkerhet har bevisats i praktiken."
+    }
+  },
+  "gainingResult": {
+    "caption": "Ultimat kroppsskulptering",
+    "header": "Få bästa resultat",
+    "point1": {
+      "title": "Stimulering",
+      "caption": "Cryolipolysis maskin X°Tone kan användas att stimulera muskeltonus och minska oönskat kroppsfett."
+    },
+    "point2": {
+      "title": "Avslappning",
+      "caption": "X°Tone kan användas att kämpa smärta. Detta kan göras genom att modulera antalet smärtsignaler till hjärnan, avslappna muskler eller släppa ut naturliga smärtstillande medel - endorfiner."
+    },
+    "point3": {
+      "title": "Återhämtning utan problem",
+      "caption": "Snabbare återhämtning från operation och skador. X°Tone kan hjälpa till med muskelstimuleringen för att öka muskelstyrkan efter långa perioder av inaktivitet på grund av skador, operationer, osv."
+    }
+  },
+  "howDoesItWorkCards": {
+    "card1": "Högintensiv elektromagnetisk stimulering erbjuder kontinuerliga och högfrekventa muskelsammandragningar utan muskelavslappning, vilket tvingar muskeln att arbeta med maximal kapacitet.",
+    "card2": "Att använda MMS resulterar i bästa träningsresultat som förbättrar muskeltonen snabbare än traditionell träning. Den intensiva muskelsammandragningen utlöser en stor mängd fettnedbrytning.",
+    "card3": "Med det bästa 4D-systemet (varje typ av maskin har samma teknologi) fryses och förbränns fetter 30 gånger mer effektivt än under vanlig gymmträning."
+  },
+  "rolledByPartner": {
+    "caption": "Ett sannt genombrott inom kroppsskulptering",
+    "heading": "Lanserat av vår partner CTN",
+    "subHeading": "Förutom en lokal effekt på kroppsfettet och påskynda blodcirkulationen hjälper denna exceptionella och trendiga produkt att banta utan stora ansträngningar. Det har praktiskt taget inga kontraindikationer, men ändå rekommenderas det att besöka läkare innan behandling.",
+    "point1": {
+      "title": "Unikhet",
+      "caption": "X°Tone är en professionell maskin att minska volymer i olika delar av kroppen. Den fungerar bättre än klassisk vakuummassage eftersom den kombinerar skulptering och vakuumeffekt."
+    },
+    "point2": {
+      "title": "Ovanlig upplevelse",
+      "caption": "Med X°Tone kan man få en heltäckande wellness effekt från att kyla huden och frysa fett till att stimulera blodkärlsarbetet och hela lymfsystemet. Denna kryolipolysteknologi är den bästa, icke-invasiva metoden som kan skydda huden och ge en perfekt kryogen effekt."
+    },
+    "point3": {
+      "title": "Utmärkta resultat",
+      "caption": "Patienter med minimalt kroppsfett märker bevarandet av resultatet inom 6 månader efter kryoterapi. Det slutliga resultatet påverkas både av kvaliteten på kyleffekten på kroppen och sådana faktorer som näring, livsstil, alkoholkonsumtion, osv."
+    }
+  },
+  "muscleImpact": {
+    "heading": "Muskelpåverkan",
+    "card1": {
+      "title": "Magnetisk muskelstimulering",
+      "caption": "Genom MMS-teknologi kan autologa muskler erhålla fantastiska träningsresultat med kontinuerlig expansion och kontraktion, vilket påverkar och omformar muskelvävnadens inre struktur effektivt. MMS främjar tillväxten av myofibriller (muskelförstoring) och producerar nya proteinkedjor och muskelfibrer (muskelhyperplasi) samt ökar muskeldensitet och volym."
+    },
+    "card2": {
+      "title": "Resultat",
+      "caption": "MMS-teknologi bidrar till intensiva muskelsammandragningar som orsakar accelererad nedbrytning av fettsyror och utflöde av lipider från de förstörda fettcellerna. De frigjorda lipiderna omvandlas till blodsocker under de följande veckorna och avlägsnas genom normal ämnesomsättning. MMS stärker muskelvävnaden och förstör oönskade fettavlagringar samtidigt. För första gången har vi ett sådant erbjudande tillgängligt."
+    }
+  },
+  "beforeAfter": {
+    "heading": "Före / Efter behandling",
+    "imageAlt": "Före / Efter behandling, bakgrund",
+    "comparison": "Jämförelse"
+  }
+}

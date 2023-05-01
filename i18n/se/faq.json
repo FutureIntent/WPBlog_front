@@ -1,0 +1,24 @@
+{
+  "metaData": {
+    "title": "FAQ | Cryo°Center"
+  },
+  "preHeading": "Info",
+  "heading": "FAQ",
+  "caption": "De vanligaste frågorna och svaren",
+  "q1": {
+    "q": "Är x°cryo säker?",
+    "a": "Grundprincipen för kylterapi är enkel – kyld luft riktas mot ett skadat område. I grund och botten fungerar det som en kall kompress men på ett mycket mer effektivt sätt. Att applicera kall luft på ett inflammerat område är en välkänd metod och det är helt säkert."
+  },
+  "q2": {
+    "q": "Är flytande kväve nödvändig?",
+    "a": "Teknologi bygger inte på att använda flytande kväve att utföra kryoterapi. Du behöver det inte eftersom i denna enhet kyls luften med hjälp av el. Funktionsprincipen bygger på en stor mängd kyld luft och det behövs inget flytande kväve."
+  },
+  "q3": {
+    "q": "Vilka är driftskostnaderna?",
+    "a": "Det skulle inte bli några driftskostnader förutom el räkningar. Allt du behöver är ett eluttag för att koppla in den. Denna typ av utrustning kan användas när som helst. Du behöver inte köpa ytterligare delar eller komponenter att köra den."
+  },
+  "q4": {
+    "q": "Vad behöver jag för att använda den?",
+    "a": "Du behöver inget annat än enheten. Sätt på den med hjälp av en grön strömbrytare och välj ett område på kroppen du vill behandla. Denna utrustning är för en vanlig användare – du behöver inga speciella färdigheter att utföra proceduren."
+  }
+}

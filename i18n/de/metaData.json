@@ -1,0 +1,20 @@
+{
+  "home": {
+    "title": "Startseite | Cryozentrum"
+  },
+  "localTherapy": {
+    "title": "X°Cryo | Cryozentrum"
+  },
+  "faceTherapy": {
+    "title": "X˚Cryo Maske | Cryozentrum"
+  },
+  "bodyTherapy": {
+    "title": "X˚Tone | Cryozentrum"
+  },
+  "fullBodyTherapy": {
+    "title": " X˚Kabine | Cryozentrum"
+  },
+  "skinTherapy": {
+    "title": "X˚Boosters | Cryozentrum"
+  }
+}

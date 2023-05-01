@@ -1,0 +1,157 @@
+{
+  "metaData": {
+    "title": "X˚Cabin | Cryo°Center"
+  },
+  "productName": "X˚Cabin",
+  "heading": "CRYO°CABIN",
+  "caption": "Accelerate your body’s natural recovery with super cooling.",
+  "stats": {
+    "minute": "Minute session",
+    "calories": "Calories",
+    "degree": "Degrees Celsius",
+    "display": "Inch HD display"
+  },
+  "whatIs": {
+    "heading": "What is Cryo°Cabin?",
+    "imageAlt": "Full body therapy product",
+    "slide1": "Whole body cryotherapy is a three-minute treatment using extreme cold, via liquid nitrogen mist, on the body’s surface which in turn enhances positive effects on health and wellness, sports recovery, pain management and even beauty.",
+    "slide2": "This cabin will treat the whole body by exposing it to temperatures below -100C. The body will instinctively react by boosting its own healing abilities. The hormones and enzymes will be released so the body would recover in a more efficient way.",
+    "slide3": "This is unique equipment with a Nordic design and a huge 10’’ display for thermal images. Exterior and interior colors can be customized. This machine has been designed for all who want to become healthier and reduce pain in any part of the body.",
+    "slide4": "Spend around 3 minutes to acquire many health-enhancing benefits. You can use this machine for post-surgical healing, asthma treatment, different kinds of inflammations and even depression. The level of lactic acid will be drastically decreased as well.",
+    "specs": {
+      "spec1": "inch HD touch screen",
+      "spec2": "Small treatment tube Φ12mm (diameter)",
+      "spec3": "Large treatment tube Φ20mm",
+      "spec4": "Selection of treatment applicators",
+      "spec5": "Air velocity levels 1-3",
+      "spec6": "Working time 0-60 minutes",
+      "spec7": "Outflow temperature -20°C with actual heat extraction capacity of -60°C",
+      "spec8": "Compressor power 500W",
+      "spec9": "Heat dissipation power 2000W",
+      "spec10": "Refrigeration output 1800W",
+      "spec11": "Maximum air flow 75m3/hour",
+      "spec12": "Power consumption 1 KVA",
+      "spec13": "Weight 65kg",
+      "spec14": "Dimension 73cm*44cm*75cm",
+      "spec15": "Power supply 220V AC 50Hz. 110V AC 60Hz (Available as custom order)"
+    }
+  },
+  "showCase": {
+    "card1": {
+      "title": "Patented tech",
+      "caption": "Vortex cooling makes the vapor flow around the body, instead of directly at the body."
+    },
+    "card2": {
+      "title": "Gas efficient",
+      "caption": "Regulated valve control system means less consumption for the average session."
+    },
+    "card3": {
+      "title": "Wireless",
+      "caption": "Support, maintenance and remote diagnostics through WIFI."
+    },
+    "card4": {
+      "title": "Advanced safety",
+      "caption": "Ultrasonic head sensor, dual emergency shut-off, active circulation and active ventilation."
+    }
+  },
+  "ultimateEnhancement": {
+    "caption": "Complete solution",
+    "heading": "Ultimate Enhancement",
+    "point1": {
+      "title": "Health & Wellness",
+      "caption": "The extremely low temperatures in a whole body cryotherapy chamber enacts an amazing physiological response on the body."
+    },
+    "point2": {
+      "title": "Sports & Fitness",
+      "caption": "Whole body cryotherapy acts at a muscular and cardiovascular level, therefore, when applied before intense exercise it increases physical performance and resistance."
+    },
+    "point3": {
+      "title": "Beauty and weight loss",
+      "caption": "A WBC session can burn from 300 to 800 calories, depending on the physiological characteristics of each person."
+    }
+  },
+  "healthSupport": {
+    "title": "Health support",
+    "caption": "Exposing the whole body to sub zero temperatures reaching down to -160 degrees Celsius. This 3 minute session provides many health enhancing benefits, such as:",
+    "card1": "Post surgical healing, asthma, joint inflammation, hormone deficiencies, depression, fatigue",
+    "card2": "Reduces the levels of lactic acid in blood almost immediately to the normal levels",
+    "card3": "Skin disorders like allergies and psoriasis"
+  },
+  "cryoBenefits": {
+    "heading": "Cryotherapy Benefits",
+    "tab1": "Health & wellness",
+    "tab2": "Sports and fitness",
+    "tab3": "Beauty & weight loss",
+    "healthBenefits": {
+      "card1": {
+        "title": "Recovery after exercise",
+        "description": "As whole body cryotherapy helps to reduce inflammation, pain is reduced and the body is better able to heal itself and promote muscle recovery. Unlike with ice baths you can also resume exercise immediately after a cryotherapy session."
+      },
+      "card2": {
+        "title": "Become calm and peaceful",
+        "description": "Cryotherapy influences the autonomic nervous system so a person can feel relaxation. This is a great tool for dealing with anxiety and depression. You can subject your body to the treatment on a daily basis just to reduce stress or cure a headache."
+      },
+      "card3": {
+        "title": "Feel refreshed",
+        "description": "If cryotherapy sessions are applied to a body on a daily basis, this person would feel lasting positive effects due to the decrease in the stress hormone cortisol level. The more cryotherapy sessions the better you will feel after every treatment."
+      },
+      "card4": {
+        "title": "More energy",
+        "description": "After the body has been exposed to low temperatures it will physiologically respond to it by trying to keep an average temperature. The nervous system will activate a vasoconstriction process so the pains from the inflammations would be reduced."
+      }
+    },
+    "sportBenefits": {
+      "card1": {
+        "title": "Achieve better results",
+        "description": "Cryotherapy helps muscles to become more adapted for the upcoming training. After a short cryo session, the blood flow will be increased. Enzymes, nutrients and hormones will be released into the blood system so the athlete can become stronger and faster."
+      },
+      "card2": {
+        "title": "Faster recovery after training",
+        "description": "After almost every training certain areas of a body experience inflammations. But the pain can be dramatically reduced – cryotherapy also helps muscles to recover. On the next day, you will feel more energetic and healthy."
+      },
+      "card3": {
+        "title": "Faster trauma recovery",
+        "description": "Almost in every sport, there is a chance to get a trauma. The cryo treatment session will significantly reduce the time needed to soothe the inflammation. The pain will be gone in a minute and the muscles start to regenerate much faster."
+      },
+      "card4": {
+        "title": "Emotional stability",
+        "description": "After the treatment has started the endorphins and neuropeptides are generated so a person would feel a feeling of calmness, relief, joy and contentment. It is very important for the athlete to create a positive state of mind."
+      }
+    },
+    "beautyBenefits": {
+      "card1": {
+        "title": "Boost the caloric burn",
+        "description": "Even after the first session, an average person will be able to burn 300-800 calories depending on the physiological specifications of a body. If you will combine cryotherapy with proper physical training, the result will be formidable."
+      },
+      "card2": {
+        "title": "Reduce cellulite symptoms",
+        "description": "After the skin and the whole body have been subjected to the cool air the blood circulation will be increased. The tissue irrigation will be improved so the fat level from the lymphatic system will slowly decrease. Just perform the procedure on a daily basis."
+      },
+      "card3": {
+        "title": "Toxin level reduction",
+        "description": "Blood circulation increase will promote cellular exchange so the toxins will be eliminated faster and more efficiently. You will become healthier just by subjecting yourself to cryotherapy treatment on a daily basis. The healing effect is great."
+      },
+      "card4": {
+        "title": "Skin regeneration",
+        "description": "The extreme temperatures of the cryotherapy equipment will boost blood circulation and collagen generation. The skin will become firm and more elastic due to the natural renewing process. After a few treatment procedures, you will look slightly younger."
+      }
+    }
+  },
+  "businessSolutions": {
+    "heading": "Business Solutions",
+    "line1": "We offer your business a complete solution when you buy your CTN Cryocabin from us.",
+    "line2": "We deliver and install your equipment and in addition to this we’ve have had help from our own interiour designer in order to provide you with a complete package with materials to create the spacial room needed for the true Cryocabin-experience. Walls, Roll-ups, flooring, stools etc. This toghether with printed information folders to give your customers first class information.",
+    "line3": "Everything included in the price and help your business get started and increase sales, straight away."
+  },
+  "studies": {
+    "heading": "Whole body cryotherapies studies",
+    "caption": "The history of whole body cryotherapy (WBC) originates from Japan in 1978 when Dr Yamaguchi started using freezing treatments of short duration on his patients skin to treat rheumatoid arthritis for pain relief purposes. The same principle was then used in Europe where ”Cryocabins” were developed to treat the whole body more efficiently.",
+    "browseStudies": "Browse study links",
+    "pdfs": {
+      "study1": "Effects of Whole-Body cryotherapy vs. Far-Infrared vs. Passive Modalities on Recovery",
+      "study2": "Acute Effects of Whole-Body cryotherapy on Sit-and-Reach Amplitude in Women and Men.",
+      "study3": "Five-Day Whole-Body Cryostimulation of High- Ranking Professional Tennis Players.",
+      "study4": "Impact of 10 Sessions of Whole Body Cryostimulation on Aerobic and Anaerobic Capacity..."
+    }
+  }
+}

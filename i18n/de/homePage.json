@@ -1,0 +1,117 @@
+{
+  "metaData": {
+    "title": "Kryotherapiemaschine zum Verkauf | Kryomaschine von THEC kaufen",
+    "description": "Cryosculptor ist ein zuverlässiges Unternehmen, das im Bereich der Bereitstellung von Kryomaschinen tätig ist. Es gibt 5 Arten von Kryotherapiemaschinen, die Sie kaufen können. Steigern Sie Ihre Leistungsfähigkeit und Ihr Wohlbefinden  mit Cryosculptor!"
+  },
+  "subHeader": "Leben Sie Ihr Leben in vollen Zügen.",
+  "services": {
+    "title": "Dienstleistungen",
+    "localTherapy": {
+      "category": "Lokale Therapie",
+      "headline": "Steigern Sie Ihre Leistungsfähigkeit, Ihr Wohlbefinden und Ihre Schönheit.",
+      "description": "Die lokale Therapie mit Kryotherapiegeräten ist die beste Methode der Körperformung. Sie wirkt lokal auf den Körper, korrigiert die Unebenheiten der Haut und regt die Zellerneuerung an. Sie ist absolut sicher und äußerst wirksam. Nur mit dieser Methode können Sie in 99% der Fälle individuelle Unebenheiten beseitigen und Ihrem Körper ein völlig neues, gesundes und attraktives Aussehen verleihen! Mit X°Cryo können Sie lokalisiertes Fett bekämpfen und den ersten Schritt zu einem perfekten Körper machen!"
+    },
+    "faceTherapy": {
+      "category": "Gesichtstherapie",
+      "headline": "Verbessern Sie Ihre allgemeine Schönheit und Ästhetik",
+      "description": "Die Gesichtstherapie mit der X°Kryomaske ist die neueste Methode zur Verjüngung und Stimulierung der Zellerneuerung, dank derer Sie die Alterung verlangsamen und einen unglaublichen Lifting-Effekt erzielen können. Sie verfügt über sichere und hochpräzise Sensoren, die die Temperatur der Kryokomponenten regulieren, um das beste Verjüngungsergebnis zu erzielen. Bei regelmäßiger Anwendung hilft die Kryomaske, die Poren zu verengen, Giftstoffe zu entfernen und die Haut zu erneuern!"
+    },
+    "bodyTherapy": {
+      "category": "Körpertherapie",
+      "headline": "Verbessern Sie Ihren Muskeltonus",
+      "description": "Die Körpertherapie X°Tone ist ein System, das für die lokale Einwirkung auf die Körperteile entwickelt wurde. Dank der verbesserten Formel und der patentierten Technologie der Tiefenwirkung auf die Haut mit Fettablagerungen, erlauben diese Methoden, einen harten und gesunden Körper zu formen. Ein einziger Therapiekurs kann 3 Monate Fitnessstudio ersetzen!"
+    },
+    "fullBodyTherapy": {
+      "category": "Ganzkörpertherapie",
+      "headline": "Beschleunigen Sie die natürliche Wiederherstellung Ihres Körpers",
+      "description": "Die Ganzkörpertherapie X°Kabine ist eine komplette Einrichtung, die Ihnen helfen kann, alle Ihre Wellness-Ziele zu erreichen. Damit können Sie ein echtes Arbeitspferd für Ihr Haus kaufen! Es braucht keinen großen Platz für die Aufstellung - es kann leicht in einem Hausflur, einer Garage oder einem Dachboden platziert werden. Es kann problemlos mehrere Geräte zur Körperformung ersetzen und wird damit zu einem echten Mini-Zentrum für ästhetische Schönheit und Medizin in Ihrem Haus."
+    },
+    "skinTherapy": {
+      "category": "Hauttherapie",
+      "headline": "Stärken und verjüngen Sie Ihre Haut",
+      "description": "Die Hauttherapie Eacryocabins X° ist eine innovative Lösung, die Aufmerksamkeit verdient. Sie ist ideal für alle, die eine schnelle und wirksame Korrektur des eigenen Körpers oder seiner Teile durchführen wollen. Damit können Sie 88% der optischen Mängel und die ersten Anzeichen des Alterns am Körper nach nur einer vollständigen Behandlung beseitigen. Für den Anfang genügt es, ein passendes Gerät auszuwählen und seine Beschreibung zu lesen - über die Besonderheiten der Wirkung und das Endergebnis."
+    }
+  },
+  "cryotherapy": {
+    "title": "Kryotherapie",
+    "general": {
+      "title": "Allgemeines",
+      "description": "Die Kryotherapie basiert auf der schnellen und kontrollierten Abkühlung von Gewebe. Das Verfahren steigert die körpereigene Durchblutung sowie die Ausschüttung von Wohlfühl-Endorphinen und dem entzündungshemmenden Protein Noradrenalin. Die Technik ist eine sehr effiziente und völlig sichere Methode, um den therapeutischen Wärmeschock im behandelten Bereich ohne das Risiko von Erfrierungen oder anderen Nebenwirkungen zu erzeugen."
+    },
+    "beauty": {
+      "title": "Schönheit",
+      "description": "Beschleunigt die Muskelregeneration, reduziert die Milchsäure und verbessert die Muskelbeweglichkeit und die allgemeine Elastizität. Hilft bei allen Sportverletzungen, Rücken-, Nacken- und Schulterschmerzen, Verstauchungen, Zerrungen und anderen Weichteilbeschwerden."
+    },
+    "sports": {
+      "title": "Sport",
+      "description": "Fördert die schnelle Gewichtsabnahme, kann zur Wiederherstellung nach hartem Training oder vor der Vorbereitung auf einen Wettkampf verwendet werden."
+    },
+    "health": {
+      "title": "Gesundheit",
+      "description": "Stimuliert die Arbeit der Blutgefäße, fördert die Entfernung von Giftstoffen und die Wiederherstellung des Körpers. Es hat eine äußerst positive Wirkung, hat ein Minimum an Kontraindikationen für die Verwendung."
+    },
+    "wellness": {
+      "title": "Wohlbefinden",
+      "description": "Verbessert das allgemeine Wohlbefinden, indem es den Körper auf zellulärer Ebene erneuert. Es hat einen erheblichen Einfluss auf das Funktionieren der inneren Organe, die Verhinderung und Prävention von Fettleibigkeit."
+    },
+    "recovery": {
+      "title": "Wiederherstellung",
+      "description": "Empfohlen für Sportler und Menschen, die schwere Krankheiten hinter sich haben. Hilft bei der Genesung durch effektive und schnelle Rehabilitation."
+    }
+  },
+  "cryotherapyBenefits": {
+    "title": "Vorteile der Kryotherapie",
+    "efficiency": {
+      "title": "Wirksamkeit",
+      "description": "Kryotherapiegeräte sind hochwirksam - 99 von 100 Kunden halten sie für die besten im Kampf um einen gesunden Körper!"
+    },
+    "safety": {
+      "title": "Sicherheit",
+      "description": "Die Kryokammer und ihre anderen Varianten wurden im Labor getestet - die hohe Effizienz ihrer Arbeit schadet der Gesundheit nicht"
+    },
+    "noAge": {
+      "title": "Keine Altersbeschränkung",
+      "description": "Es wird empfohlen, Manipulationen ab einem Alter von 5 Jahren durchzuführen (vorher kontraindiziert), da der Körper möglicherweise nicht richtig auf einen starken Temperaturabfall reagiert."
+    },
+    "easySetup": {
+      "title": "Einfache Einrichtung",
+      "description": "Das Kit wird mit einer Gebrauchsanweisung geliefert, nach der die Einrichtung und Installation des Geräts nicht länger als 10 Minuten dauern wird!"
+    },
+    "minimum": {
+      "title": "Minimale Kontraindikationen",
+      "description": "Die Kryotherapie wird für schwangere und stillende Frauen sowie für Patienten mit Krebs und schweren Autoimmunkrankheiten nicht empfohlen."
+    }
+  },
+  "industries": {
+    "title": "Industrien",
+    "physicalTherapy": "Physikalische Therapie",
+    "athletics": "Athletik",
+    "gyms": " Fitnessstudios",
+    "military": "Militär",
+    "sportsMedicine": "Sportmedizin",
+    "spa": "Medizinische SPAs",
+    "plastic": "Plastische Chirurgie",
+    "strength": "Krafttraining",
+    "wellness": "Wellness-Zentren"
+  },
+  "ourVision": "Unsere Zielsetzung ist es, Menschen zu helfen, ihr Leben in vollen Zügen zu genießen. Wir realisieren dieses Ziel durch bahnbrechende Innovationen, die sich vor allem auf die sichere und effiziente Kühlmethode, die Kryotherapie, konzentrieren. Unsere Kryobehandlungen wirken nachweislich entzündungshemmend und schmerzlindernd, beugen Verletzungen vor und steigern die Regenerationsfähigkeit der Muskeln. Ganz zu schweigen vom Schönheitsaspekt, der die Beseitigung von Akne, die Verlangsamung des Alterungsprozesses, die Förderung der Gewichtsabnahme, die Verringerung von Cellulitis und andere Aspekte umfasst. Unsere Behandlungen sind frei von flüssigem Stickstoff, hundertprozentig sicher und ohne jegliche Nebenwirkungen. Indem Sie THEC in Ihren Alltag integrieren, investieren Sie in sich selbst und in Ihre Gesundheit und können Ihr Leben in vollen Zügen genießen.",
+  "aboutUs": [
+    "THEC wurde 2021 von einem Serienunternehmer gegründet, der schon seit langem daran interessiert ist, Lösungen zur Verbesserung der allgemeinen Gesundheit der Menschen zu finden. Als er den Gründer von CTN, J.P. Martins, kennenlernte, spürte er, dass das die perfekte Verbindung sein würde, um sein Ziel zu erreichen, den Menschen die Möglichkeit zu geben, ihr Leben in vollen Zügen zu genießen. Die Partnerschaft ist der Ausgangspunkt für viele neue Erfindungen, die noch kommen werden.",
+    "THEC arbeitet nur mit Therapeuten zusammen, die unser Schulungsprogramm durchlaufen und ein Zertifikat erhalten haben, um unsere Geräte bedienen zu dürfen. Sie finden unsere lizenzierten Therapeuten in ausgewählten Physiotherapiepraxen, Fitnesszentren, medizinischen Kliniken und Schönheitskliniken. Wenn Sie selbst Therapeut werden möchten, kontaktieren Sie uns bitte unter"
+  ],
+  "contact": {
+    "forSales": "Für Verkaufsanfragen - bitte anrufen",
+    "forOther": "Für andere Anfragen - bitte anrufen"
+  },
+  "warranty": {
+    "titleLeft": "Garantie und Support",
+    "textLeft": "Alle Geräte haben eine Herstellergarantie, so dass Sie die Kryo-Sauna jederzeit reparieren oder gegen ein anderes, identisches Gerät austauschen können. Fast alle Geräte sind im Verkauf und können in den nächsten Tagen bestellt werden.",
+    "titleRight": "Wir bieten",
+    "list": {
+      "item1": "Gebrauchsanweisung und Dokumentationen",
+      "item2": "Tutorial und Anleitungen",
+      "item3": "Wartungsarbeiten und Reparaturen",
+      "item4": "24/7 Online-Unterstützung"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "metaData": {
+    "title": "Kryoterapifranchise – ta reda på kryoterapifranchisekostnaden från THEC",
+    "description": "Kryobastu kan bli din första biljett till en värld av seriösa pengar. Följ 3-stegs partnerskapsprogrammet och starta ditt första projekt under vårt övervakning."
+  },
+  "heading": "Business & kryo",
+  "caption": "Om kryoterapi franchise",
+  "howWeWork": {
+    "heading": "Hur vi arbetar",
+    "imageAlt": "Franchisesystem",
+    "description": {
+      "title": "Schemabeskrivning",
+      "rentPlan": {
+        "title": "Hyra plan",
+        "caption": "Pris / royalty",
+        "income": "Hyresintäkter",
+        "yours": "Dina intäkter",
+        "royalty": "Royalty %"
+      },
+      "caption": "Genom att följa vårt 3-stegs system kan du snabbt starta ditt projekt under vår ledning.",
+      "step1": "Bygg & Leasing. Våra franchiseavtal erbjuder dig de bästa bygg- och reparationslösningarna, med vilka du kan optimera arbete och ge de bästa förutsättningarna för besökare.",
+      "step2": "Utbildning & Utrustning. Tillsammans kan vi bygga ett professionellt lag som tydligt förstår nischens huvuddrag och tillgodoser tjänster på högsta nivå.",
+      "step3": "Marknadsföringsstöd. Vårt huvudmål är att lansera din kryoterapiverksamhet och erbjuda den bästa marknadsföringen genom sociala medier och andra potentiellt viktiga plattformar."
+    }
+  },
+  "warranty": {
+    "titleLeft": "Garanti & Stöd",
+    "textLeft": "Ett viktigt steg att utveckla sitt eget varumärke är franchise, som leder till en operativ verksamhet och låter tillämpa idéer utvecklade av de bästa proffs. Efter att ha gjort det en gång får man ett nästan obegränsat flöde av kunder och möjlighet att ändra bästa praxis för marknadsförings-, ekonomi-, teknik- och designavdelningar. På THEC är vi redo att erbjuda dig endast de bästa förutsättningarna för att öppna en liten avdelning eller ett helt centrum för estetisk skönhet och medicin i din stad. Med vår hjälp kan man locka många kunder som vill få verkliga resultat och kan betala pengar för det! THECs kryoterapimöjligheter är ägnade till att hålla affärsstrategi enkel och ovärderlig bland alla liknande och triviala lösningar. Det är innovation, djärv presentation och implementering av högteknologisk teknik med kreativa idéer som sätter trenden under 2000-talet.",
+    "titleRight": "Vi tillhandahåller",
+    "list": {
+      "item1": "Manual & Dokumentation",
+      "item2": "Handledning och instruktioner",
+      "item3": "Servicearbeten och reparationer",
+      "item4": "24/7 online stöd"
+    }
+  },
+  "collaborate": {
+    "heading": "Vill du samarbeta med oss?",
+    "caption": "Läs mer om planer"
+  }
+}

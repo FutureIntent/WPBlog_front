@@ -1,0 +1,41 @@
+{
+  "metaData": {
+    "title": "Hvor mye koster oppstart av kryoterapi? Start en kryoterapivirksomhet med THEC",
+    "description": "Kryoterapibedriftens fortjeneste avhenger delvis av dine markedsføringsevner. Men det er ikke å nekte for at dette utstyret blir mer og mer populært hver eneste dag."
+  },
+  "heading": "Business & cryo",
+  "caption": "Om kryoterapi franchise",
+  "howWeWork": {
+    "heading": "Hvordan vi jobber",
+    "imageAlt": "Franchiseordning",
+    "description": {
+      "title": "Ordningsbeskrivelse",
+      "rentPlan": {
+        "title": "Leie plan",
+        "caption": "Pris / Royalty-forhold",
+        "income": "Leieinntekter",
+        "yours": "Inntektene dine",
+        "royalty": "Royalty %"
+      },
+      "caption": "Ved å følge vårt 3-trinns forretningsstøttesystem for partnere kan du raskt starte prosjektet ditt under vår ledelse.",
+      "step1": "Bygg og leasing. Våre franchiser tilbyr deg de beste konstruksjons- og reparasjonsløsningene, som du vil kunne optimere din bedrifts arbeid med og gi de beste forholdene for besøkende som mottar.",
+      "step2": "Opplæring og utstyr. Sammen kan vi bygge et profesjonelt team som tydelig forstår hovedtrekkene i nisjen og leverer tjenester på høyeste nivå.",
+      "step3": "Markedsføring og støtte. Vårt hovedmål er å lansere din kryoterapivirksomhet og tilby den beste kampanjen gjennom sosiale medier og andre potensielt viktige plattformer."
+    }
+  },
+  "warranty": {
+    "titleLeft": "Garanti og støtte",
+    "textLeft": "Et viktig skritt mot utviklingen av ditt eget cryo-merke er starten på en franchise, som lar deg få en operativ virksomhet og bruke ideer utviklet av de beste spesialistene. Etter å ha gjort det én gang, får du en nesten ubegrenset strøm av kunder og muligheten til å endre beste praksis fra markedsførings-, økonomi-, teknisk- og designavdelingene. Hos THEC er vi klare til å tilby deg kun de beste betingelsene for å åpne en liten avdeling eller et helt senter for estetisk skjønnhet og medisin i byen din. Med vår hjelp vil du kunne tiltrekke deg mange interesserte kunder som ønsker å se reelle resultater og er villige til å betale penger for det! THEC kryoterapi-franchisemuligheter er dedikert til å holde forretningsstrategien din enkel og uvurderlig blant alle lignende og trivielle løsninger. Det er for innovasjon, dristig presentasjon og implementering av høyteknologiske teknologier med kreative ideer som setter trenden i det 21. århundre.",
+    "titleRight": "Vi sørger for",
+    "list": {
+      "item1": "Manual og dokumentasjon",
+      "item2": "Opplæring og instruksjoner",
+      "item3": "Servicearbeid og reparasjoner",
+      "item4": "24/7 kundeservice på nett"
+    }
+  },
+  "collaborate": {
+    "heading": "Vil du samarbeide med oss?",
+    "caption": "Lær mer om planene"
+  }
+}

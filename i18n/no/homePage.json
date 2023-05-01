@@ -1,0 +1,117 @@
+{
+  "metaData": {
+    "title": "Kryoterapi maskin til salgs | Kjøp kryomaskin fra THEC",
+    "description": "Cryosculptor er et pålitelig selskap som jobber innen kryomaskintilførselssfæren. Det er 5 typer kryoterapimaskiner du kan kjøpe. Øk ytelsen og restitusjonen din med Cryosculptor!"
+  },
+  "subHeader": "Lev livet til det fulleste.",
+  "services": {
+    "title": "Tjenester",
+    "localTherapy": {
+      "category": "Lokal terapi",
+      "headline": "Øk ytelsen, restitusjonen og skjønnheten.",
+      "description": "Lokal terapi med kryoterapimaskiner er den beste metoden for kroppssforming. Det har en lokal påvirkning på kroppen, justerer ujevnheter i huden og stimulerer cellefornyelse. Det er helt trygt og ekstremt effektivt. Bare med dens hjelp vil du bli kvitt individuelle ufullkommenheter i 99% av tilfellene og gi kroppen et helt nytt — sunt og attraktivt utseende! Med X°Cryo kan du bekjempe lokalisert fett og ta det første symptomersteget mot en perfekt kropp!"
+    },
+    "faceTherapy": {
+      "category": "Ansiktsterapi",
+      "headline": "Forbedre din generelle skjønnhet og estetikk",
+      "description": "Ansiktsterapi med X°Cryo Mask er den nyeste metoden for foryngelse og stimulering av cellefornyelse, takket være den kan du bremse aldring og få en utrolig løftende effekt. Den har sikre og høypresisjonssensorer som regulerer temperaturen på kryokomponentene for å oppnå det beste foryngelsesresultatet. Ved konstant bruk hjelper kryomasken til å begrense porene, fjerne giftstoffer og fornye huden!"
+    },
+    "bodyTherapy": {
+      "category": "Kroppsterapi",
+      "headline": "Forbedre muskeltoningen",
+      "description": "Kroppsterapi X°Tone er et system designet for lokal påvirkning på kroppsdeler. Takket være den forbedrede formelen og den patenterte teknologien med dyp virkning på huden med fettavleiringer, lar metodene deg danne en hard og sunn kropp. Bare ett terapikurs kan erstatte 3 måneder i treningsstudioet!"
+    },
+    "fullBodyTherapy": {
+      "category": "Helkroppsterapi",
+      "headline": "Fremskynd kroppens naturlige restitusjon",
+      "description": "Helkroppsterapi X°Cabin er et komplett anlegg som kan hjelpe deg med å nå alle dine velværemål. Med den kan du kjøpe en ekte arbeidshest til huset ditt! Den trenger ikke stor plass for plassering - den kan enkelt plasseres i en hall, garasje eller loft. Den kan enkelt erstatte flere kroppsformende enheter, og bli et ekte minisenter for estetisk skjønnhet og medisin i hjemmet ditt."
+    },
+    "skinTherapy": {
+      "category": "Hudterapi",
+      "headline": "Boost og gjør huden din ung",
+      "description": "Hudterapi eacryocabins X° er en innovativ løsning som fortjener oppmerksomhet. Den er ideell for alle som ønsker å utføre en rask og effektiv korreksjon av kroppen eller dens deler. Med dens hjelp kan du bli kvitt 88% av visuelle ufullkommenheter og de første tegnene på aldring av kroppen, etter bare ett helt behandlingsforløp. Til å begynne med er det nok å velge en passende enhet og studere beskrivelsen - funksjonene til virkningen og det endelige resultatet."
+    }
+  },
+  "cryotherapy": {
+    "title": "Kryoterapi",
+    "general": {
+      "title": "Generell",
+      "description": "Kryoterapi er basert på rask og kontrollert avkjøling av vev. Prosessen øker kroppens egen blodsirkulasjon samt frigjøring av feel-good endorfiner og det antiinflammatoriske proteinet noradrenalin. Teknikken er en svært effektiv og helt sikker metode for å produsere det terapeutiske termiske sjokket til det behandlede området uten risiko for frostskader eller andre bivirkninger."
+    },
+    "beauty": {
+      "title": "Skjønnhet",
+      "description": "Øker muskel restitusjon, reduserer melkesyre og forbedrer muskelmobilitet og generell elastisitet. Hjelper med alle idrettsskader, rygg-, nakke- og skuldersmerter, forstuinger, strekk og andre muskelsmerter."
+    },
+    "sports": {
+      "title": "Sport",
+      "description": "Fremmer raskt vekttap, kan brukes til restitusjon etter hard trening eller før forberedelse til en konkurranse."
+    },
+    "health": {
+      "title": "Helse",
+      "description": "Stimulerer arbeidet i blodårene, fremmer fjerning av giftstoffer og fornyelse av kroppen. Det har en ekstremt positiv effekt, har et minimum av kontraindikasjoner for bruk."
+    },
+    "wellness": {
+      "title": "Velvære",
+      "description": "Forbedrer det generelle velværet ved å fornye kroppen på cellenivå. Det har en betydelig innvirkning på funksjonen til indre organer, forebygger og forebygger overvekt."
+    },
+    "recovery": {
+      "title": "Gjenoppretting",
+      "description": "Anbefales for idrettsutøvere og personer som har hatt alvorlige sykdommer. Bidrar til å bli frisk gjennom effektiv og rask rehabilitering."
+    }
+  },
+  "cryotherapyBenefits": {
+    "title": "Fordeler med Kryoterapi",
+    "efficiency": {
+      "title": "Effektivitet",
+      "description": "Kryoterapiutstyr er svært effektivt — 99 av 100 kunder anser det som det beste i kampen for en sunn kropp!"
+    },
+    "safety": {
+      "title": "Sikkerhet",
+      "description": "Kryokammer og dets andre varianter har blitt testet i laboratoriet - den høye effektiviteten av arbeidet skader ikke helsen"
+    },
+    "noAge": {
+      "title": "Ingen aldersbegrensninger",
+      "description": "Det anbefales å utføre manipulasjoner fra 5 år (tidligere kontraindisert), siden kroppen kanskje ikke reagerer riktig på et kraftig temperaturfall."
+    },
+    "easySetup": {
+      "title": "Enkelt oppsett",
+      "description": "Settet kommer med en bruksanvisning, med oppsett og installasjon av utstyret ikke tar mer enn 10 minutter!"
+    },
+    "minimum": {
+      "title": "Minimum kontraindikasjoner",
+      "description": "Kryoterapi anbefales ikke for gravide og ammende kvinner, samt personer med kreft og alvorlige autoimmune sykdommer."
+    }
+  },
+  "industries": {
+    "title": "Industrier",
+    "physicalTherapy": "Fysioterapi",
+    "athletics": "Idrett",
+    "gyms": "Treningsstudio",
+    "military": "Militær",
+    "sportsMedicine": "Sportsmedisin",
+    "spa": "Medisinsk SPA",
+    "plastic": "Plastisk Kirurgi",
+    "strength": "Styrketrening",
+    "wellness": "Vellværesentre"
+  },
+  "ourVision": "Vår visjon er å hjelpe folk til å nyte livet sitt til det fulleste. Vi gjør det gjennom banebrytende innovasjon med fokus hovedsakelig på den sikre og effektive kjølemetoden, kryoterapi. Våre kryobehandlinger har bevist effekt på å redusere betennelse og smerte, forebygge skader og øke muskelens evne til å regenerere. For ikke å nevne, skjønnhetsaspektet som inkluderer å bli kvitt akne, redusere aldring, fremme vekttap, redusere cellulitter og andre andre. Våre behandlinger er flytende nitrogenfrie, hundre prosent sikre uten bivirkninger. Ved å gjøre THEC til en del av hverdagen din, investerer du i deg selv og din generelle helse og sørger for å leve livet ditt til det fulleste.",
+  "aboutUs": [
+    "THEC ble grunnlagt i 2021 av seriegründer som har hatt en lang livsinteresse i å finne løsninger for å forbedre folks generelle helse. Da han ble introdusert for CTNs grunnlegger, J.P. Martins, følte han at dette ville være den perfekte matchen for å utføre hans visjon om at folk skal nyte livet sitt til det fulle. Partnerskapet er utgangspunktet for mange nye oppfinnelser som kommer.",
+    "THEC jobber kun med terapeuter som har gått gjennom vårt opplæringsprogram og mottatt et sertifikat for å betjene maskinene våre. Du finner våre lisensierte utøvere på utvalgte fysioterapeutklinikker, treningssentre, medisinske klinikker og skjønnhetsklinikker. Ønsker du å bli praktiker selv, ta kontakt med oss ​​på"
+  ],
+  "contact": {
+    "forSales": "For salgshenvendelser - ring",
+    "forOther": "For andre spørsmål - ring"
+  },
+  "warranty": {
+    "titleLeft": "Garanti & Kundestøtte",
+    "textLeft": "Alt utstyr har produsentgaranti, slik at du alltid kan reparere eller bytte kryobadstuer med en annen, identisk. Nesten alle enheter er i salg og tilgjengelig for bestilling i løpet av de kommende dagene.",
+    "titleRight": "Vi sørger for",
+    "list": {
+      "item1": "Manual % Dokumentasjon",
+      "item2": "Opplæring og instruksjoner",
+      "item3": "Servicearbeid og reparasjoner",
+      "item4": "24/7 kundeservice på nett"
+    }
+  }
+}

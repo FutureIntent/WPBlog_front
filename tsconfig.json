@@ -1,0 +1,103 @@
+{
+  "exclude": [
+    "node_modules",
+    "**/node_modules",
+    "**/.cache/*",
+    "**/public"
+  ],
+  "include": [
+    ".eslintrc.js",
+    "**/gatsby/**/*",
+    "**/src/**/*",
+    "**/__mocks__/**/*",
+    "**/test/**/*",
+    "**/index.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    "**/**.test.*"
+  ],
+  "compilerOptions": {
+    "baseUrl": ".",
+    "target": "es5",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true,
+    "checkJs": true,
+    "declaration": true,
+    "outDir": "lib",
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": true,
+    "removeComments": false,
+    "preserveConstEnums": true,
+    "paths": {
+      "@assets": [
+        "static/assets/"
+      ],
+      "@assets/*": [
+        "static/assets/*"
+      ],
+      "@theme": [
+        "src/theme/"
+      ],
+      "@theme/*": [
+        "src/theme/*"
+      ],
+      "@pages": [
+        "src/pages"
+      ],
+      "@pages/*": [
+        "src/pages/*"
+      ],
+      "@components/*": [
+        "src/components/*"
+      ],
+      "@providers": [
+        "src/providers"
+      ],
+      "@providers/*": [
+        "src/providers/*"
+      ],
+      "@utils/*": [
+        "src/utils/*"
+      ],
+      "@hooks": [
+        "src/hooks"
+      ],
+      "@hooks/*": [
+        "src/hooks/*"
+      ],
+      "@services/*": [
+        "src/services/*"
+      ],
+      "@static/*": [
+        "static/*"
+      ],
+      "@i18n/*": [
+        "i18n/*"
+      ],
+      "@src/*": [
+        "src/*"
+      ]
+    },
+    "typeRoots": [
+      "node_modules/@types",
+      "src/types"
+    ]
+  }
+}

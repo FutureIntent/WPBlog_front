@@ -1,0 +1,13 @@
+{
+  "businessAndCryo": {
+    "warranty": {
+      "titleLeft": "Garantía y Soporte",
+      "textLeft": "Un paso importante hacia el desarrollo de su propia marca de Crio es el inicio de una franquicia, que le permitirá conseguir un negocio operativo y aplicar ideas desarrolladas por los mejores especialistas. Una vez hecho esto, usted obtiene un flujo de clientes casi ilimitado y la oportunidad de alternar las mejores prácticas de los departamentos de marketing, económico, técnico y de diseño. En THEC, estamos listos para ofrecerle solo las mejores condiciones para abrir, desde un pequeño lugar, hasta un centro completo de belleza y medicina estética en su ciudad. ¡Con nuestra ayuda, usted podrá atraer a muchos clientes interesados que desean ver resultados reales y están dispuestos a pagar dinero por ello! Las oportunidades de franquicia de crioterapia de THEC están dedicadas a mantener su estrategia de negocio, de forma simple e indispensable, en medio de otras soluciones similares y triviales. Son la innovación, la presentación audaz, y la implementación de tecnologías high-tech con ideas creativas, las que marcan la tendencia en el siglo 21.",
+      "titleRight": "Nosotros proveemos"
+    }
+  },
+  "404": {
+    "title": "No encontrado",
+    "description": "Usted acaba de dar en una ruta que no existe... es una pena."
+  }
+}

@@ -1,0 +1,42 @@
+{
+    "metaData": {
+      "title": "Franchise de cryothérapie - découvrez le coût de la franchise de cryothérapie auprès de THEC ",
+      "description": " La franchise Cryosauna peut devenir votre premier billet dans un monde d'argent sérieux. Suivez le programme de partenariat en 3 étapes et lancez votre premier projet sous la supervision de notre entreprise."
+    },
+    "heading": "Affaires et cryo",
+    "caption": "À propos de la franchise de cryothérapie",
+    "howWeWork": {
+      "heading": "Comment nous travaillons",
+      "imageAlt": "Régime de franchise",
+      "description": {
+        "title": "Descriptif du régime",
+        "rentPlan": {
+          "title": "Plan de loyer",
+          "caption": "Rapport prix / redevance",
+          "income": "Revenus locatifs",
+          "yours": "Vos revenus",
+          "royalty": "Royalties %"
+        },
+        "caption": "En suivant notre système d'assistance aux entreprises partenaires en 3 étapes, vous pouvez rapidement lancer votre projet sous notre direction.",
+        "step1": "Construction et Location. Nos franchises vous offrent les meilleures solutions de construction et de réparation, avec lesquelles vous pourrez optimiser le travail de votre entreprise et offrir les meilleures conditions d'accueil aux visiteurs.",
+        "step2": "Formation et équipement. Ensemble, nous pouvons constituer une équipe professionnelle qui comprendra clairement les principales caractéristiques du créneau et fournira des services au plus haut niveau.",
+        "step3": "Commercialisation et assistance. Notre objectif principal est de lancer votre entreprise de cryothérapie et d'offrir la meilleure promotion via les médias sociaux et d'autres plateformes potentiellement importantes."
+      }
+    },
+    "warranty": {
+      "titleLeft": "Garantie et assistance",
+      "textLeft": "Une étape importante vers le développement de votre propre marque cryo est le démarrage d'une franchise, qui vous permet d'obtenir une entreprise opérationnelle et d'appliquer les idées développées par les meilleurs spécialistes. Après l'avoir fait une fois, vous obtenez un flux de clients presque illimité et la possibilité de changer les meilleures pratiques des départements marketing, économique, technique et design. Chez THEC, nous sommes prêts à vous offrir uniquement les meilleures conditions pour ouvrir un petit département ou tout un centre d'esthétique et de médecine dans votre ville. Avec notre aide, vous pourrez attirer de nombreux clients intéressés qui souhaitent voir de vrais résultats et sont prêts à payer pour cela! Les opportunités de franchise de cryothérapie THEC sont dédiées à garder votre stratégie commerciale simple et inestimable parmi toutes les solutions similaires et triviales. C'est l'innovation, la présentation audacieuse et la mise en œuvre de technologies de haute technologie avec des idées créatives qui définissent la tendance du 21e siècle.",
+      "titleRight": "Nous fournissons",
+      "list": {
+        "item1": "Manuel et documentations",
+        "item2": "Tutoriel et instructions",
+        "item3": "Travaux de maintenance et réparations",
+        "item4": "24/7 support en ligne"
+      }
+    },
+    "collaborate": {
+      "heading": "Vous souhaitez collaborer avec nous ?",
+      "caption": "En savoir plus sur les plans"
+    }
+  }
+  

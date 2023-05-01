@@ -1,0 +1,132 @@
+{
+  "products": {
+    "localTherapy": "X˚Cryo",
+    "faceTherapy": "X˚Cryo Mask",
+    "bodyTherapy": "X˚Tone",
+    "fullBodyTherapy": "X˚Cabin",
+    "skinTherapy": "X˚Boosters"
+  },
+  "getStarted": "Komma igång",
+  "watchVideo": "Titta på video",
+  "features": "Funktioner",
+  "viewTechSpecs": "Se tekniska specifikationer",
+  "viewPrices": "Se priser",
+  "technicalSpecification": "Tekniska specifikationer",
+  "galleryImage": "Bildgalleri",
+  "browseGallery": "Bläddra i galleriet",
+  "browsePrices": "Bläddra bland priser",
+  "goToPrices": "Gå till Priser",
+  "opportunities": {
+    "heading": "Möjligheter",
+    "card1": {
+      "title": "Träning",
+      "caption": "Vi förser alla våra kunder med allt nödvändigt material och utbildning att köra X°Cryo."
+    },
+    "card2": {
+      "title": "Rätt till din port",
+      "caption": "'Vi levererar X°Cryo direkt till dig i Sverige, Norge, Danmark och Island."
+    },
+    "card3": {
+      "title": "Förtroende & säkerhet",
+      "caption": "Vår kryomaskin håller högsta standard när det gäller produktsäkerhet."
+    },
+    "card4": {
+      "title": "Behöver du hjälp?",
+      "caption": "."
+    }
+  },
+  "delivery": {
+    "heading": "Leverans",
+    "slide1": "Vi levererar X°Cryo, X°Tone och Cryocabin direkt till dig i Sverige, Norge, Danmark och Island.",
+    "slide2": "Vi tar fullt ansvar under leveransprocessen så att utrustningen utsättas inte för skador.",
+    "slide3": "Vårt företag värdesätter varje kund och vi levererar produkten så snabbt som möjligt.",
+    "slide4": "Ange bara ditt namn, e-post och telefon. Vår operatör kommer att kontakta dig att organisera en leveransprocess."
+  },
+  "howDoesItWork": "Hur funderar det...",
+  "gotQuestions": "Frågor?",
+  "orYouCanSendUsMessage": "Du kan skicka ett meddelande till oss",
+  "feelFreeToCallUs": "eller ring oss",
+  "iAgreeCryo": "Jag samtycker till att mina personuppgifter behandlas i enlighet med CryoCenters",
+  "privacyPolicy": "Integritetspolicy",
+  "form": {
+    "name": "Namn",
+    "email": "E-post",
+    "phone": "Telefon",
+    "message": "Meddelande",
+    "optional": "Valfri",
+    "send": "Skicka",
+    "required": {
+      "name": "Namn krävs",
+      "email": "E-post krävs"
+    },
+    "error": {
+      "name": "Namnet ska bestå av minst 2 tecken",
+      "email": "Fel e-postformat",
+      "phone": "Ogiltigt telefonnummerformat",
+      "message": "Tecken bör inte överstiga 200 symboler",
+      "policy": "Du bör godkänna vår integritetspolicy för att fortsätta"
+    }
+  },
+  "order": "Beställning",
+  "getStartedCaption": "Slutför din beställning. Vi kommer att kontakta dig när vi är redo att skicka produkter.",
+  "contactUs": "Kontakta oss",
+  "gallery": "Galleri",
+
+  "studiesTopics": "Studies & Topics",
+  "contacts": "Contacts",
+  "makeACall": "Make a call",
+  "cta": {
+    "title": "",
+    "button": "Visit page"
+  },
+  "copyright": "On our website you can find the entire range of cryolipolysis devices. Each of them is guaranteed to be surprised with its functionality, price, and will be an extremely successful purchase. With it, your business will attract the attention of many hi-tech connoisseurs. Make sure of it right now by leaving a request and announcing the sale or purchase of equipment for aesthetic procedures.",
+  "workingHours": {
+    "title": "We work on:",
+    "weekdays": "Monday to Friday"
+  },
+  "termsOfUse": "Terms of use",
+  "backToTop": "Back to top",
+  "navigation": {
+    "home": "Home",
+    "cryotherapy": {
+      "title": "Cryotherapy",
+      "localTherapy": "Local Therapy – X˚Cryo",
+      "faceTherapy": "Face Therapy – X˚Cryo Mask",
+      "bodyTherapy": "Body Therapy - X Tone",
+      "skinTherapy": "Skin Therapy - X˚Cryo Boosters",
+      "fullBodyTherapy": "Full Body Therapy - XCabin"
+    },
+    "services": {
+      "title": "Services",
+      "markets": "Markets",
+      "businessAndCryo": "Business & Cryo",
+      "prices": "Prices",
+      "costOf": "Cost of a coolsculpting machine",
+      "startupCost": "Cryotherapy startup cost"
+    },
+    "info": {
+      "title": "Info",
+      "blog": "Blog",
+      "faq": "FAQ",
+      "press": "Press",
+      "gallery": "Gallery"
+    },
+    "aboutUs": "About us",
+    "contacts": "Contacts"
+  },
+  "pricesPlan": {
+    "planA": "Plan A",
+    "planB": "Plan B",
+    "planC": "Plan C",
+    "month": "Month",
+    "royalty": "Royalty"
+  },
+  "buyToday": {
+    "heading": "Köp x°cryo idag",
+    "startingFrom": "Starting from",
+    "includesAll": "Includes all applicators and training",
+    "browseFaq": "Browse FAQ",
+    "or": "Or",
+    "sendQuestion": "Send question"
+  }
+}

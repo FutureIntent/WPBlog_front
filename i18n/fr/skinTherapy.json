@@ -1,0 +1,47 @@
+{
+    "metaData": {
+      "title": "X˚Boosters | Cryo°Centre"
+    },
+    "productName": "Boosters",
+    "heading": "X°Cryo™ boosters",
+    "subHeading": "Poussez votre traitement X˚Cryo ",
+    "whatIs": {
+      "imageAlt": "Image du produit Boosters",
+      "heading": "Qu'est-ce que X°Cryo Booster?",
+      "slide1": "Le principe de fonctionnement de X°Cryo est basé sur un volume et une vitesse élevés de l'air refroidi, ce qui fournit une méthode très efficace mais totalement sûre pour produire un choc thermique sur la zone traitée sans aucun risque de gelures ou d'autres effets secondaires.",
+      "slide2": "Il s'agit d'un appareil électrique, compact et mobile avec plusieurs têtes de traitement. C'est une solution simple et efficace qui aiderait à réduire la douleur et à accélérer le processus de récupération. Il a été conçu pour traiter la peau, les articulations et les muscles du corps.",
+      "slide3": "Tout ce dont vous avez besoin est une prise électrique disponible. Il n'y aurait pas besoin d'installation spéciale. La machine a quatre roues ce qui la rend mobile. Cette technologie est idéale pour booster les performances sportives et la récupération après une blessure ou un étirement.",
+      "slide4": " La cryothérapie vous aidera à accélérer la récupération musculaire et à améliorer son élasticité. Il est très utile lorsqu'il s'agit de traiter les douleurs du dos, du cou et des épaules. L'air refroidi réduira l'enflure et la rétention de liquide, les douleurs articulaires et l'inflammation.",
+      "specs": {
+        "spec1": "Ecran tactile HD en pouces ",
+        "spec2": "Petit tube de traitement Φ12mm (diametre)",
+        "spec3": "Grand tube de traitement Φ20mm",
+        "spec4": "Sélection d'applicateurs de traitement",
+        "spec5": "Niveaux de vitesse de l'air 1-3",
+        "spec6": "Temps de travail 0-60 minutes ",
+        "spec7": "Température de refoulement -20°C avec une capacité d'extraction de chaleur réelle de -60°C",
+        "spec8": "Puissance du compresseur 500W",
+        "spec9": "Puissance de dissipation thermique 2000W",
+        "spec10": "Puissance frigorifique 1800W",
+        "spec11": "Débit d'air maximal 75m3/heure",
+        "spec12": "Consommation d'énergie 1 KVA",
+        "spec13": "Poids 65kg ",
+        "spec14": "Dimension 73cm*44cm*75cm",
+        "spec15": "Source de courant 220V AC 50Hz. 110V AC 60Hz (Disponible en commande personnalisée)"
+      }
+    },
+    "getYourBooster": "Obtenez votre Booster",
+    "dermaProduct": {
+      "caption1": "L'eau micellaire en une étape, un composé d'huile d'argan et de nombreux autres ingrédients doux pour la peau. Augmente le thermochoc de la peau, soulage efficacement les symptômes cutanés et les infections telles que l'acné et d'autres infections cutanées.",
+      "caption2": "L'huile d'argan apaise, hydrate et garde la peau fraîche même après le traitement, idéale pour éliminer les poches. Fait partie de la méthode de traitement brevetée X°Cryo™. Les ingrédients spéciaux comprennent l'extrait de fenaison, l'extrait de viande de porc, l'extrait de bouleau de fer, l'extrait de sauge, le zinc et la vitamine C."
+    },
+    "fysioProduct": {
+      "caption1": "Un produit développé pour les traitements de cryothérapie liés à la physiothérapie. En plus des ingrédients de base, ce produit comprend Panthénol, huile de menthe poivrée, extrait de genévrier, extrait de houblon, extrait moulu, extrait de fleur, vitamine C et rétinol.",
+      "caption2": "Ce produit est spécifiquement destiné au traitement des douleurs musculaires et articulaires."
+    },
+    "hairProduct": {
+      "caption1": "Produit conçu pour restaurer et revitaliser le secteur de la coiffure.",
+      "caption2": "Améliore nettement le rythme et la durée du traitement du cuir chevelu. Comprend des ingrédients normaux, entre autres les boosters suivants: huile de ricin, extrait de racine de bardane, extrait de gingembre et extrait d'ortie, tous d'excellents ingrédients connus pour stimuler et favoriser la croissance des cheveux."
+    }
+  }
+  

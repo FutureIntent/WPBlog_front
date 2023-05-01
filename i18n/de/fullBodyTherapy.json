@@ -1,0 +1,158 @@
+{
+  "metaData": {
+    "title": "Ein Kryosauna-Gerät ist ideal für die natürliche Wiederherstellung. Kryosauna von THEC kaufen",
+    "description": "Viele Krankenhäuser wollen die Kryosauna kaufen, weil sie bei den Kunden sehr beliebt ist. Sie bietet die Möglichkeit zur natürlichen Wiederherstellung durch Unterkühlung. Sie können auch Kalorien verbrennen und das allgemeine Wohlbefinden steigern."
+  },
+  "productName": "X˚Kabine",
+  "heading": "CRYO°KABINE",
+  "caption": "Beschleunigen Sie die natürliche Wiederherstellung Ihres Körpers mit Superkühlung.",
+  "stats": {
+    "minute": "Minute Sitzung",
+    "calories": "Kalorien",
+    "degree": "Grad Celsius",
+    "display": "Zoll HD-Display"
+  },
+  "whatIs": {
+    "heading": "Was ist Kryo-Kabine?",
+    "imageAlt": "Ganzkörpertherapie-Produkt",
+    "slide1": "Die Ganzkörperkältetherapie ist eine dreiminütige Behandlung, bei der extreme Kälte mittels Flüssigstickstoffnebel auf der Körperoberfläche angewendet wird, was wiederum positive Auswirkungen auf Gesundheit und Wohlbefinden, sportliche Wiederherstellung, Schmerzmanagement und sogar Schönheit hat.",
+    "slide2": "Diese Kabine behandelt den gesamten Körper, indem sie ihn Temperaturen unter -100°C aussetzt. Der Körper wird instinktiv reagieren, indem er seine eigenen Heilungsfähigkeiten steigert. Hormone und Enzyme werden freigesetzt, so dass sich der Körper effizienter wiederherstellen kann.",
+    "slide3": "Das ist ein einzigartiges Gerät mit einem nordischen Design und einem riesigen 10-Zoll-Display für Wärmebilder. Die Außen- und Innenfarben können individuell angepasst werden. Dieses Gerät wurde für alle entwickelt, die gesünder werden und Schmerzen in jedem Teil des Körpers reduzieren wollen.",
+    "slide4": "Verbringen Sie etwa 3 Minuten, um viele gesundheitsfördernde Vorteile zu erwerben. Sie können dieses Gerät zur Behandlung von postoperativen Beschwerden, Asthma, verschiedenen Arten von Entzündungen und sogar Depressionen einsetzen. Auch der Milchsäurespiegel wird drastisch gesenkt.",
+    "specs": {
+      "spec1": "Zoll-HD-Touchscreen",
+      "spec2": "Kleines Behandlungsrohr Φ12mm (Durchmesser)",
+      "spec3": "Große Behandlungsröhre Φ20mm",
+      "spec4": "Auswahl der Behandlungsapplikatoren",
+      "spec5": "Luftgeschwindigkeitsstufen 1-3",
+      "spec6": " Arbeitsdauer 0-60 Minuten",
+      "spec7": "Ausblastemperatur -20°C bei tatsächlicher Wärmeentzugsleistung von -60°C",
+      "spec8": "Kompressorleistung 500W",
+      "spec9": "Wärmeabgabeleistung 2000W",
+      "spec10": "Kühlleistung 1800W",
+      "spec11": "Maximaler Luftdurchsatz 75m3/Stunde",
+      "spec12": "Leistungsaufnahme 1 KVA",
+      "spec13": "Gewicht 65kg",
+      "spec14": "Abmessung 73cm*44cm*75cm",
+      "spec15": "Stromversorgung 220V AC 50Hz. 110V AC 60Hz (als Sonderbestellung erhältlich)"
+    }
+  },
+  "showCase": {
+    "card1": {
+      "title": "Patentierte Technik",
+      "caption": "Die Wirbelkühlung sorgt dafür, dass der Wasserdampf um den Körper herum und nicht direkt auf den Körper trifft."
+    },
+    "card2": {
+      "title": "effizientes Gas",
+      "caption": "Geregeltes Ventilsteuerungssystem bedeutet weniger Verbrauch für die durchschnittliche Sitzung."
+    },
+    "card3": {
+      "title": "Drahtlos",
+      "caption": "Support, Wartung und Ferndiagnose über WIFI."
+    },
+    "card4": {
+      "title": "Erweiterte Sicherheit",
+      "caption": "Ultraschall-Kopfsensor, doppelte Notabschaltung, aktive Zirkulation und aktive Belüftung."
+    }
+  },
+  "ultimateEnhancement": {
+    "caption": "Vollständige Lösung",
+    "heading": "Ultimative Verbesserung",
+    "point1": {
+      "title": "Gesundheit & Wellness",
+      "caption": "Die extrem niedrigen Temperaturen in einer Ganzkörper-Kryotherapiekammer bewirken eine erstaunliche physiologische Reaktion des Körpers."
+    },
+    "point2": {
+      "title": "Sport & Fitness",
+      "caption": "Die Ganzkörperkältetherapie wirkt auf muskulärer und kardiovaskulärer Ebene und erhöht daher, wenn sie vor einer intensiven sportlichen Betätigung angewendet wird, die körperliche Leistungsfähigkeit und Widerstandsfähigkeit."
+    },
+    "point3": {
+      "title": "Schönheit und Gewichtsabnahme",
+      "caption": "Eine WBC-Sitzung kann je nach den physiologischen Merkmalen jeder Person zwischen 300 und 800 Kalorien verbrennen."
+    }
+  },
+  "healthSupport": {
+    "title": "Gesundheitsunterstützung",
+    "caption": "Der ganze Körper wird Temperaturen unter Null ausgesetzt, die bis zu -160 Grad Celsius reichen. Diese 3-minütige Sitzung bietet viele gesundheitsfördernde Vorteile, wie zum Beispiel:",
+    "card1": "postoperative Heilung, Asthma, Gelenkentzündungen, Hormonmangel, Depression, Müdigkeit",
+    "card2": "Senkt den Milchsäuregehalt im Blut fast sofort auf das normale Niveau",
+    "card3": "Hautkrankheiten wie Allergien und Schuppenflechte"
+  },
+  "cryoBenefits": {
+    "heading": "Vorteile der Kryotherapie",
+    "tab1": "Gesundheit und Wellness",
+    "tab2": "Sport und Fitness",
+    "tab3": "Schönheit und Abnehmen",
+    "healthBenefits": {
+      "card1": {
+        "title": "Wiederherstellung nach dem Training",
+        "description": "Da die Ganzkörperkältetherapie zur Verringerung von Entzündungen beiträgt, werden Schmerzen gelindert und der Körper kann sich besser selbst heilen und die Wiederherstellung der Muskeln fördern. Anders als bei Eisbädern können Sie nach einer Kryotherapie-Sitzung auch sofort wieder mit dem Training beginnen."
+      },
+      "card2": {
+        "title": "Werden Sie ruhig und friedlich",
+        "description": "Die Kryotherapie beeinflusst das autonome Nervensystem, so dass eine Person Entspannung verspüren kann. Das ist ein großartiges Mittel zur Behandlung von Angstzuständen und Depressionen. Sie können Ihren Körper täglich dieser Behandlung unterziehen, um Stress abzubauen oder Kopfschmerzen zu behandeln."
+      },
+      "card3": {
+        "title": "Fühlen Sie sich erfrischt",
+        "description": "Wenn ein Körper täglich mit Kryotherapie behandelt wird, spürt er durch die Senkung des Stresshormonspiegels Cortisol dauerhaft positive Auswirkungen. Je mehr Kryotherapiesitzungen, desto besser fühlen Sie sich nach jeder Behandlung."
+      },
+      "card4": {
+        "title": "Mehr Energie",
+        "description": "Nachdem der Körper niedrigen Temperaturen ausgesetzt war, reagiert er physiologisch darauf, indem er versucht, eine durchschnittliche Temperatur zu halten. Das Nervensystem aktiviert einen Prozess der Gefäßverengung, so dass die Schmerzen durch die Entzündungen reduziert werden."
+      }
+    },
+    "sportBenefits": {
+      "card1": {
+        "title": "Erzielen Sie bessere Ergebnisse",
+        "description": "Die Kryotherapie hilft den Muskeln, sich besser auf das bevorstehende Training einzustellen. Nach einer kurzen Kältesitzung wird der Blutfluss erhöht. Enzyme, Nährstoffe und Hormone werden in den Blutkreislauf freigesetzt, so dass der Sportler stärker und schneller werden kann."
+      },
+      "card2": {
+        "title": "Schnellere Wiederherstellung nach dem Training",
+        "description": "Nach fast jedem Training kommt es an bestimmten Stellen des Körpers zu Entzündungen. Aber die Schmerzen können drastisch reduziert werden - die Kryotherapie hilft auch den Muskeln, sich zu erholen. Am nächsten Tag werden Sie sich energiegeladener und gesünder fühlen."
+      },
+      "card3": {
+        "title": "Schnellere Wiederherstellung nach einem Trauma",
+        "description": "Fast bei jeder Sportart besteht die Möglichkeit, sich eine Verletzung zuzuziehen. Die Kryobehandlung verkürzt deutlich die Zeit, die benötigt wird, um die Entzündung zu lindern. Der Schmerz verschwindet in einer Minute und die Muskeln regenerieren sich viel schneller."
+      },
+      "card4": {
+        "title": "Emotionale Stabilität",
+        "description": "Nach Beginn der Behandlung werden Endorphine und Neuropeptide ausgeschüttet, so dass eine Person ein Gefühl der Ruhe, Erleichterung, Freude und Zufriedenheit verspürt. Für einen Sportler ist es sehr wichtig, einen positiven Geisteszustand zu schaffen."
+      }
+    },
+    "beautyBenefits": {
+      "card1": {
+        "title": "Steigern Sie die Kalorienverbrennung",
+        "description": "Schon nach der ersten Sitzung kann eine durchschnittliche Person 300-800 Kalorien verbrennen, je nach den physiologischen Eigenschaften des Körpers. Wenn Sie die Kryotherapie mit einem angemessenen körperlichen Training kombinieren, wird das Ergebnis beachtlich sein."
+      },
+      "card2": {
+        "title": "Cellulitis-Symptome reduzieren",
+        "description": "Nachdem die Haut und der ganze Körper der kühlen Luft ausgesetzt wurden, wird die Blutzirkulation erhöht. Die Gewebespülung wird verbessert, so dass der Fettgehalt des Lymphsystems langsam abnimmt. Führen Sie die Kur einfach täglich durch."
+      },
+      "card3": {
+        "title": "Senkung des Toxinspiegels",
+        "description": "Die Erhöhung der Blutzirkulation fördert den Austausch der Zellen, so dass die Giftstoffe schneller und effizienter ausgeschieden werden. Sie werden gesünder, wenn Sie sich täglich einer Kryotherapiebehandlung unterziehen. Die heilende Wirkung ist groß."
+      },
+      "card4": {
+        "title": "Hautregeneration",
+        "description": "Die extremen Temperaturen des Kryotherapiegeräts fördern die Blutzirkulation und die Kollagenbildung. Die Haut wird durch den natürlichen Erneuerungsprozess straffer und elastischer. Nach ein paar Behandlungen werden Sie etwas jünger aussehen."
+      }
+    }
+  },
+  "businessSolutions": {
+    "heading": "Geschäftslösungen",
+    "line1": "Wir bieten Ihrem Unternehmen eine Komplettlösung, wenn Sie Ihre CTN-Kryokabine bei uns kaufen.",
+    "line2": "Wir liefern und installieren Ihre Ausrüstung und zusätzlich haben wir die Hilfe unseres eigenen Innenarchitekten in Anspruch genommen, um Ihnen ein komplettes Paket mit Materialien zur Verfügung zu stellen, um den Raum zu schaffen, den Sie für das echte Cryocabin-Erlebnis benötigen. Wände, Roll-ups, Bodenbeläge, Hocker usw. Dazu gibt es gedruckte Informationsmappen, um Ihre Kunden erstklassig zu informieren.",
+    "line3": "Alles im Preis inbegriffen und hilft Ihrem Unternehmen, sofort zu starten und den Umsatz zu steigern."
+  },
+  "studies": {
+    "heading": "Studien zur Ganzkörperkältetherapie",
+    "caption": "Die Geschichte der Ganzkörperkältetherapie (WBC) stammt aus Japan, wo Dr. Yamaguchi 1978 begann, rheumatoide Arthritis durch kurzzeitige Gefrierbehandlungen auf der Haut seiner Patienten zu behandeln, um Schmerzen zu lindern. Das gleiche Prinzip wurde dann in Europa angewandt, wo \"Kryokabinen\" entwickelt wurden, um den ganzen Körper effizienter behandeln zu können",
+    "browseStudies": "Studienlinks durchsuchen",
+    "pdfs": {
+      "study1": "Auswirkungen von Ganzkörperkältetherapie vs. Fern-Infrarot vs. passive Modalitäten auf die Wiederherstellung",
+      "study2": "Akute Auswirkungen der Ganzkörperkältetherapie auf die Amplitude von Sit-and-Reach bei Frauen und Männern",
+      "study3": "Fünftägige Ganzkörperkältestimulation von hochrangigen professionellen Tennisspielern",
+      "study4": "Auswirkungen von 10 Sitzungen Ganzkörperkältestimulation auf die aerobe und anaerobe Kapazität..."
+    }
+  }
+}

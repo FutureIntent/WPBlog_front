@@ -1,0 +1,13 @@
+{
+  "businessAndCryo": {
+    "warranty": {
+      "titleLeft": "Garanti & Stöd",
+      "textLeft": "Ett viktigt steg mot utvecklingen av ditt eget varumärke är franchise, som låter dig få en funderande verksamhet och tillämpa idéer utvecklade av de bästa proffs. Efter att ha gjort det en gång får du ett nästan obegränsat flöde av kunder och möjlighet att ändra bästa praxis för marknadsförings-, ekonomi-, teknik- och designavdelningarna. På THEC är vi redo att erbjuda dig endast de bästa förutsättningarna för att öppna en liten avdelning eller centrum för estetisk skönhet och medicin i din stad. Med vår hjälp kan du locka många kunder som vill se verkliga resultat och kan betala pengar för det! THECs kryoterapimöjligheter är ägnade till att hålla din affärsstrategi enkel och ovärderlig bland alla liknande lösningar. Det är innovation, djärv presentation och implementering av högteknologisk teknik med kreativa idéer som sätter trenden under 2000-talet.",
+      "titleRight": "Vi tillhandahåller"
+    }
+  },
+  "404": {
+    "title": "Hittades inte",
+    "description": "Du tog en väg som inte existerar... synd."
+  }
+}

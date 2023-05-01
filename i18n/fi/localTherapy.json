@@ -1,0 +1,111 @@
+{
+    "metaData": {
+      "title": "Paikallinen kryoterapiakone - paikallinen kylmähoitokone, joka parantaa kehoasi",
+      "description": "Paikallinen kylmähoitokone on tehokas laite, jolla voidaan parantaa lähes mikä tahansa kehon osa. Kyseessä on täysin turvallinen menetelmä, joka tuottaa hyviä tuloksia. Paikallisia kylmähoitolaitteita voidaan käyttää ilman paleltumariskiä."
+    },
+    "heroBanner": {
+      "heading": "Kokeile paikallista kylmähoitoa"
+    },
+    "productName": "X˚Cryo",
+    "whatIs": {
+      "imageAlt": "Paikallinen hoitotuote",
+      "heading": "Mikä on CTN X°Cryo?",
+      "slide1": "X°Cryon toimintaperiaate perustuu jäähdytetyn ilman suureen tilavuuteen ja nopeuteen, mikä tarjoaa erittäin tehokkaan mutta täysin turvallisen menetelmän lämpöshokin tuottamiseksi hoidettavalle alueelle ilman paleltumien tai muiden sivuvaikutusten riskiä.",
+      "slide2": "Tämä on sähköinen, kompakti ja siirrettävä laite, jossa on useita hoitopäitä. Se on helppo ja tehokas ratkaisu, joka auttaa vähentämään kipua ja nopeuttamaan toipumisprosessia. Se on suunniteltu hoitamaan ihoa, niveliä ja lihaksia koko kehossa.",
+      "slide3": "Tarvitset vain pistorasian. Erityistä asennusta ei tarvita. Koneella on neljä pyörää, mikä tekee siitä siirrettävän. Tämä laite on ihanteellinen väline urheilusuoritusten parantamiseen ja palautumiseen loukkaantumisen tai venytysten jälkeen.",
+      "slide4": "Kylmähoito auttaa sinua nopeuttamaan lihasten palautumista ja parantamaan niiden kimmoisuutta. Se on erittäin kätevä selkä-, niska- ja hartiakipujen hoidossa. Jäähdytetty ilma vähentää turvotusta ja nesteen kertymistä, nivelkipua ja tulehdusta.",
+      "specs": {
+        "spec1": "tuuman HD-kosketusnäyttö",
+        "spec2": "Pieni hoitoputki Φ12mm (halkaisija)",
+        "spec3": "Suuri hoitoputki Φ20mm",
+        "spec4": "Hoitolaitteiden valinta",
+        "spec5": "Ilman nopeustasot 1-3",
+        "spec6": "Toiminta-aika 0-60 minuuttia",
+        "spec7": "Lähtevän virran lämpötila -20 °C, kun varsinainen lämmöntuotantokyky on -60 °C",
+        "spec8": "Kompressorin teho 500W",
+        "spec9": "Lämmönhäviöteho 2000W",
+        "spec10": "Jäähdytysteho 1800W",
+        "spec11": "Suurin ilmavirta 75m3/tunti",
+        "spec12": "Tehon kulutus 1 KVA",
+        "spec13": "Paino 65kg",
+        "spec14": "Mitat 73cm*44cm*75cm",
+        "spec15": "Virtalähde 220V AC 50Hz. 110V AC 60Hz (saatavana tilauksesta)"
+      }
+    },
+    "showCase": {
+      "card1": {
+        "title": "Muotoilu",
+        "caption": "Valmistettu, suunniteltu ja tuotettu Pohjoismaissa"
+      },
+      "card2": {
+        "title": "Typpivapaa",
+        "caption": "Nestemäistä typpeä sisältämättömien kylmähoitojen markkinoille tuominen"
+      },
+      "card3": {
+        "title": "Kytketty",
+        "caption": "Aina käytössäsi sisäänrakennetun WiFi:n kautta. X°Cryo päivitetään automaattisesti Internetin kautta"
+      },
+      "card4": {
+        "title": "Kylmä",
+        "caption": "X°Cryon vaikutuksena iholla on -60° asteen lämpötila"
+      }
+    },
+    "meetAllYourNeeds": {
+      "preHeading": "Paikallinen kylmähoito",
+      "heading": "Jokaiseen tarpeeseesi",
+      "wellness": {
+        "title": "Hyvinvointi",
+        "caption": "Kylmähoito voi lisätä yleistä hyvinvointia ja lisätä hyödyllisiä hermovälittäjäaineita"
+      },
+      "sport": {
+        "title": "Urheilu ja liikunta",
+        "caption": "X°Cryo lyhentää lihasten palautumisaikaa, jolloin voit saada parempia tuloksia nopeammin"
+      },
+      "health": {
+        "title": "Terveys ja palautuminen",
+        "caption": "Sopii erinomaisesti yleisiin lihasjännityksiin ja kipeisiin lihaksiin koko kehossa"
+      }
+    },
+    "howItWork": {
+      "card1": "Tuottaa jatkuvan suuren tilavuuden ja nopeuden ilmavirran, jolla on erinomainen lämmönpoistokyky.",
+      "card2": "Jäähdytysjärjestelmä perustuu kehittyneeseen sähkökompressoriin ja lämmönvaihtotekniikkaan, jotka mahdollistavat huoltovapaan jatkuvan toiminnan.",
+      "card3": "Ilmavirran suuri nopeus mahdollistaa hoitoalueiden kryojäähdytyksen aiempaa korkeammassa ilman lämpötilassa, mikä tekee hoidoista 100 % turvallisia.",
+      "card4": "Tyypillinen hoitojakso yhtä aluetta kohti kestää 3-5 minuuttia. Käytössäsi on 8 tuuman kosketusnäyttö, jossa on helppokäyttöinen käyttöliittymä."
+    },
+    "showCaseTreatment": {
+      "card1": "Polven hoito",
+      "card2": "Paikallinen hoito",
+      "card3": "Kyynärpään hoito",
+      "card4": "Olkapään alueen hoito"
+    },
+    "treatments": {
+      "fast": {
+        "title": "Nopeat hoidot",
+        "caption": "Yksi X°Cryo-hoito kestää vain 3 minuuttia"
+      },
+      "low": {
+        "title": "Alhaiset käyttökustannukset",
+        "caption": "X°Cryon käyttö ei vaadi nestemäistä typpeä"
+      }
+    },
+    "bodyBenefits": {
+      "heading": "Kehon edut",
+      "tab1": {
+        "title": "Kauneus",
+        "content": "Ehkäisee ikääntymisen merkkejä, parantaa ihon sävyä, vähentää selluliittia, lisää kollageenin tuotantoa ja hoitaa tehokkaasti erilaisia ihosairauksia. Kryokasvohoidot ovat ihanteellisia myös turvotusten, velttoutuneen ihon ja aknen vähentämiseen."
+      },
+      "tab2": {
+        "title": "Urheilu",
+        "content": "Kylmähoito on kätevä all-in-one-ratkaisu, jota voidaan käyttää urheilussa vammojen hoitoon. Teknologia voi lisätä hyvinvointia, vähentää kipua ja parantaa verenkiertoa. Jäähdytetty ilma lievittää tuskallisia oireita selän, niskan ja hartioiden venytysten jälkeen."
+      },
+      "tab3": {
+        "title": "Terveys",
+        "content": "Tämän laitteen avulla voit nopeuttaa toipumisprosessia vamman tai lääketieteellisen toimenpiteen jälkeen. Se tarjoaa helpotusta kroonisiin ja nivelkipuihin. Se lyhentää lihasten palautumisaikaa, minkä ansiosta voit jatkaa liikkumista nopeammin."
+      },
+      "tab4": {
+        "title": "Hyvinvointi",
+        "content": "Kone lisää urheilijoiden ja aktiivisen elämäntavan valinneiden ihmisten yleistä hyvinvointia. Laite sopii erinomaisesti lihasjännitysten ja kipeiden lihasten oireiden lievittämiseen missä tahansa kehon osassa. Pystyt jatkamaan päivittäistä harjoittelurutiinia nopeammin."
+      }
+    }
+  }
+

@@ -1,0 +1,110 @@
+{
+  "metaData": {
+    "title": "Gerät für lokale Kryotherapie - ein Gerät für lokale Kryotherapie zur Heilung Ihres Körpers",
+    "description": "Ein lokales Kryotherapiegerät ist ein wirksames Gerät, das fast jeden Teil des Körpers heilen kann. Es handelt sich um eine völlig sichere Methode, die hervorragende Ergebnisse bringt. Lokale Kryotherapiegeräte können ohne Risiko von Erfrierungen verwendet werden."
+  },
+  "heroBanner": {
+    "heading": "Lokalisierte Kryotherapie erleben"
+  },
+  "productName": "X˚Cryo",
+  "whatIs": {
+    "imageAlt": "Lokaltherapieprodukt",
+    "heading": "Was ist CTN X°Cryo?",
+    "slide1": "Das Funktionsprinzip von X°Cryo basiert auf dem hohen Volumen und der Geschwindigkeit der gekühlten Luft, was eine sehr effiziente und dennoch völlig sichere Methode darstellt, um einen Thermoschock im behandelten Bereich zu erzeugen, ohne  Risiko von Erfrierungen oder anderen Nebenwirkungen.",
+    "slide2": " Das ist ein elektrisches, kompaktes und mobiles Gerät mit mehreren Behandlungsköpfen. Es ist eine einfache und wirksame Lösung, um Schmerzen zu lindern und den Genesungsprozess zu beschleunigen. Es wurde für die Behandlung von Haut, Gelenken und Muskeln am ganzen Körper entwickelt.",
+    "slide3": "Alles, was Sie brauchen, ist eine verfügbare Steckdose. Eine spezielle Installation ist nicht erforderlich. Das Gerät verfügt über vier Räder, die es mobil machen. Diese Technologie ist ideal für die Steigerung der sportlichen Leistung und die Erholung nach einer Verletzung oder einer Dehnung.",
+    "slide4": "Die Kältetherapie hilft Ihnen, die Wiederherstellung der Muskeln zu beschleunigen und ihre Elastizität zu verbessern. Sie ist sehr nützlich, wenn es um die Behandlung von Rücken-, Nacken- und Schulterschmerzen geht. Die gekühlte Luft reduziert Schwellungen und Flüssigkeitseinlagerungen, Gelenkschmerzen und Entzündungen.",
+    "specs": {
+      "spec1": "Zoll-HD-Touchscreen",
+      "spec2": "Kleine Behandlungsröhre Φ12mm (Durchmesser)",
+      "spec3": "Große Behandlungsröhre Φ20mm",
+      "spec4": "Auswahl der Behandlungsapplikatoren",
+      "spec5": "Luftgeschwindigkeitsstufen 1-3",
+      "spec6": "Verarbeitungszeit 0-60 Minuten",
+      "spec7": "Ausblastemperatur -20°C bei tatsächlicher Wärmeentzugsleistung von -60°C",
+      "spec8": "Kompressorleistung 500W",
+      "spec9": "Wärmeabgabeleistung 2000W",
+      "spec10": "Kühlleistung 1800W",
+      "spec11": "Maximaler Luftdurchsatz 75m3/Stunde",
+      "spec12": "Leistungsaufnahme 1 KVA",
+      "spec13": "Gewicht 65kg",
+      "spec14": "Abmessung 73cm*44cm*75cm",
+      "spec15": "Stromversorgung 220V AC 50Hz. 110V AC 60Hz (als Sonderbestellung erhältlich)"
+    }
+  },
+  "showCase": {
+    "card1": {
+      "title": "Design",
+      "caption": "Manufactured, designed and produced in the Nordic"
+    },
+    "card2": {
+      "title": "Stickstofffrei",
+      "caption": "Einführung von Kryotherapie-Behandlungen ohne flüssigen Stickstoff"
+    },
+    "card3": {
+      "title": "Verbunden",
+      "caption": "Immer online über das eingebaute Wifi. X°Cryo aktualisiert automatisch über das Internet"
+    },
+    "card4": {
+      "title": "Kalt",
+      "caption": "Die Wirkung des X°Cryo ist -60° Celsius auf der Haut"
+    }
+  },
+  "meetAllYourNeeds": {
+    "preHeading": "Lokale Kryotherapie",
+    "heading": "Alle Ihre Bedürfnisse erfüllen",
+    "wellness": {
+      "title": "Wohlbefinden",
+      "caption": "Kryotherapie kann Ihr allgemeines Wohlbefinden steigern und die positiven Neurotransmitter erhöhen"
+    },
+    "sport": {
+      "title": "Leichtathletik und Sport",
+      "caption": "X°Cryo verkürzt die Erholungszeit der Muskeln, wodurch Sie schneller bessere Ergebnisse erzielen können"
+    },
+    "health": {
+      "title": "Gesundheit und Erholung",
+      "caption": "Großartig bei allgemeinen Muskelverspannungen und Muskelkater am ganzen Körper"
+    }
+  },
+  "howItWork": {
+    "card1": "Erzeugt einen kontinuierlichen Luftstrom mit hohem Volumen und hoher Geschwindigkeit und bietet eine hervorragende Wärmeabfuhr.",
+    "card2": "Das Kühlsystem basiert auf einer fortschrittlichen elektrischen Kompressor- und Wärmetauschtechnologie, die einen wartungsfreien Dauerbetrieb ermöglicht.",
+    "card3": "Die hohe Geschwindigkeit des Luftstroms ermöglicht die Kryokühlung der Behandlungsbereiche bei höherer Lufttemperatur als bisher, was die Behandlungen zu 100% sicher macht.",
+    "card4": "Eine typische Behandlungssitzung pro Bereich dauert zwischen 3 und 5 Minuten. 8-Zoll-Touchscreen mit einfach zu bedienender Benutzeroberfläche."
+  },
+  "showCaseTreatment": {
+    "card1": "Kniebehandlung",
+    "card2": "Lokale Behandlung",
+    "card3": "Behandlung des Ellenbogens",
+    "card4": "Behandlung des Schulterbereichs"
+  },
+  "treatments": {
+    "fast": {
+      "title": "Schnelle Behandlungen",
+      "caption": "Eine Behandlung mit dem X°Cryo dauert nur 3 Minuten"
+    },
+    "low": {
+      "title": "Niedrige Betriebskosten",
+      "caption": "Der X°Cryo benötigt keinen flüssigen Stickstoff für den Betrieb"
+    }
+  },
+  "bodyBenefits": {
+    "heading": "Körperliche Leistungen",
+    "tab1": {
+      "title": "Schönheit",
+      "content": "Kehrt die Zeichen der Hautalterung um, fördert die Spannkraft der Haut, reduziert Cellulite, steigert die Kollagenproduktion und bietet eine effiziente Behandlung verschiedener Hauterkrankungen. Kryo-Gesichtsbehandlungen sind auch ideal zur Reduzierung von Schwellungen, schlaffer Haut und Akne."
+    },
+    "tab2": {
+      "title": "Sport",
+      "content": "Die Kryotherapie ist eine bequeme All-in-One-Lösung, die im Sport zur Behandlung von Verletzungen eingesetzt werden kann. Die Technologie kann Ihr Wohlbefinden steigern, Schmerzen lindern und die Blutzirkulation verbessern. Die gekühlte Luft lindert schmerzhafte Symptome nach einer Überdehnung von Rücken, Nacken und Schultern."
+    },
+    "tab3": {
+      "title": "Gesundheit",
+      "content": "Mit diesem Gerät können Sie den Genesungsprozess nach einer Verletzung oder einem medizinischen Eingriff beschleunigen. Es verschafft Linderung bei chronischen und Gelenkschmerzen. Es verkürzt die Erholungszeit der Muskeln, so dass Sie in kürzester Zeit wieder körperlich aktiv sein können."
+    },
+    "tab4": {
+      "title": "Wellness",
+      "content": "Das Gerät erhöht das allgemeine Wohlbefinden der Sportler und Menschen, die einen aktiven Lebensstil wählen. Ein Gerät eignet sich hervorragend zur Reduzierung von Muskelverspannungen und Muskelkater in jedem Teil des Körpers. Sie können Ihr tägliches Trainingsprogramm schneller wieder aufnehmen."
+    }
+  }
+}

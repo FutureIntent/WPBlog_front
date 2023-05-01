@@ -1,0 +1,46 @@
+{
+  "metaData": {
+    "title": "X˚Boosters | Cryo°Center"
+  },
+  "productName": "Boosters",
+  "heading": "X°Cryo™ boosters",
+  "subHeading": "Öka din X˚Cryo behandling",
+  "whatIs": {
+    "imageAlt": "Boosters image",
+    "heading": "Vad är X°Cryo Booster?",
+    "slide1": "Funktionsprincipen X°Cryo är baserad på hög volym och hastighet av den kylda luften, vilket ger en mycket effektiv men ändå helt säker metod att producera termisk chock till det behandlade området utan risk för köldskador eller andra biverkningar.",
+    "slide2": "Detta är en elektrisk, kompakt och mobil enhet med flera behandlingshuvuden. Maskinen är en enkel och effektiv lösning som skulle hjälpa till att minska smärta och göra återhämtningsprocessen snabbare. Den designades att behandla hud, leder och muskler runt om i kroppen.",
+    "slide3": "Allt du behöver är ett eluttag tillgängligt. Det behövs inte någon speciell installation. Maskinen har fyra hjul vilket gör den mobil. Den är idealisk för att öka atletisk prestation och återhämtning efter en skada eller sträckning.",
+    "slide4": "Kryoterapi hjälper att påskynda muskelåterhämtning och förbättra dess elasticitet. Det är mycket användbart när det kommer till behandling av rygg-, nacke- och axelsmärtor. Den kylda luften minskar svullnad och vätskeretention, ledvärk och inflammation.",
+    "specs": {
+      "spec1": "tums HD-pekskärm",
+      "spec2": "Litet behandlingsrör 12mm (diameter)",
+      "spec3": "Stort behandlingsrör 20mm",
+      "spec4": "Val av behandlingsapplikatorer",
+      "spec5": "Lufthastighetsnivåer 1-3",
+      "spec6": "Arbetstid 0-60 minuter",
+      "spec7": "Utloppstemperatur -20°C med faktisk värmeuttagskapacitet på -60°C",
+      "spec8": "Kompressoreffekt 500W",
+      "spec9": "Värmeavledningseffekt 2000W",
+      "spec10": "Kyleffekt 1800W",
+      "spec11": "Max luftflöde 75m3/timme",
+      "spec12": "Strömförbrukning 1 KVA",
+      "spec13": "Vikt 65 kg",
+      "spec14": "Mått 73cm*44cm*75cm",
+      "spec15": "Strömförsörjning 220V AC 50Hz. 110V AC 60Hz (tillgänglig att beställa)"
+    }
+  },
+  "getYourBooster": "Skaffa din booster",
+  "dermaProduct": {
+    "caption1": "Enstegs micellärt vatten - en kombinering av arganolja och många andra hudvänliga ingredienser. Ökar hudens termoshock, lindrar hudsymptom och infektioner som akne och andra.",
+    "caption2": "Arganolja lugnar, återfuktar och håller huden sval även att ta bort svullnader. Det är en del av den patenterade X°Cryo™ behandlingsmetoden. Speciella ingredienser inkluderar höextrakt, grisköttsextrakt, extrakt av järnbjörk, salviaextrakt, zink och vitamin C."
+  },
+  "fysioProduct": {
+    "caption1": "Produkten utvecklad för fysioterapirelaterade kryoterapibehandlingar. Förutom basingredienser innehåller denna produkt t.ex. panthenol, pepparmintsolja, enbärsextrakt, humleextrakt, jordextrakt, blomextrakt, vitamin C och retinol.",
+    "caption2": "Denna produkt är speciellt avsedd att behandla muskel- och ledvärk."
+  },
+  "hairProduct": {
+    "caption1": "Produkt designad att återställa och vitalisera frisyrbranschen.",
+    "caption2": "Förbättrar hastigheten och behandlingstiden för hårbotten. Innehåller normala ingredienser, bland annat följande boosters: ricinolja, kardborrerotextrakt, ingefäraextrakt och nässelextrakt - alla fantastiska ingredienser att öka och främja hårväxt."
+  }
+}

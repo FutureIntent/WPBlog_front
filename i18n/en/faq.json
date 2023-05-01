@@ -1,0 +1,24 @@
+{
+  "metaData": {
+    "title": "FAQ | Cryo°Center"
+  },
+  "preHeading": "Info",
+  "heading": "FAQ",
+  "caption": "Most frequent questions and answers",
+  "q1": {
+    "q": "Is the x°cryo safe ?",
+    "a": "The basic principle of cold therapy is simple – cooled air is directed at an injured area. Basically, it works as a cold compress but in a much more effective way. Applying cold air to an inflamed area is a well-known method and it is completely safe."
+  },
+  "q2": {
+    "q": "Do i need liquid nitrogen ?",
+    "a": "The technology is not based on using liquid nitrogen to perform cryotherapy. You will not need it first because in this device the air is cooled with the help of electricity. The operating principle is based on a high volume of cooled air – there is no need for liquid nitrogen."
+  },
+  "q3": {
+    "q": "What are the running costs ?",
+    "a": "There would be no running costs except for the bills for electricity. All you need is an electrical socket to plug it in. This kind of equipment can be used at any time of the day. You will not need to buy additional parts or components to run the device."
+  },
+  "q4": {
+    "q": "What do I need to operate it ?",
+    "a": "You will not need anything other than the device. Turn it on using a green switch and choose an area of the body you will be treating. This equipment has been designed for a regular user – you will not need any special skills to perform the procedure."
+  }
+}

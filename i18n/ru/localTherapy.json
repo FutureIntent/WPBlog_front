@@ -1,0 +1,111 @@
+{
+  "metaData": {
+    "title": "X°Cryo | Cryo°Center"
+  },
+  "heroBanner": {
+    "heading": "Experience Localized Cryotherapy"
+  },
+  "productName": "X˚Cryo",
+  "whatIsCryo": {
+    "imageAlt": "Local therapy product",
+    "heading": "What is CTN X°Cryo?",
+    "slides": {
+      "slide1": "The X°Cryo operating principle is based on high volume and velocity of the cooled air, which provides very efficient yet totally safe method to produce thermal shock to the treated area without any risk of frostbites or other side effects.",
+      "slide2": "This is an electric, compact and mobile device with multiple treatment heads. It is an easy and effective solution that would help to reduce pain and make the recovery process faster. It was designed to treat skin, joints and muscles around the body.",
+      "slide3": "All you need is an electricity socket available. There would be no need for special installation. The machine has four wheels which makes it mobile. This technology is ideal for boosting athletic performance and recovery after an injury or a stretch.",
+      "slide4": "Cryotherapy will help you to accelerate muscle recovery and improve its elasticity. It is very useful when it comes to treating back, neck and shoulder pains. The cooled air will reduce swelling and liquid retention, joint pain and inflammation."
+    },
+    "specs": {
+      "spec1": "inch HD touch screen",
+      "spec2": "Small treatment tube Φ12mm (diameter)",
+      "spec3": "Large treatment tube Φ20mm",
+      "spec4": "Selection of treatment applicators",
+      "spec5": "Air velocity levels 1-3",
+      "spec6": "Working time 0-60 minutes",
+      "spec7": "Outflow temperature -20°C with actual heat extraction capacity of -60°C",
+      "spec8": "Compressor power 500W",
+      "spec9": "Heat dissipation power 2000W",
+      "spec10": "Refrigeration output 1800W",
+      "spec11": "Maximum air flow 75m3/hour",
+      "spec12": "Power consumption 1 KVA",
+      "spec13": "Weight 65kg",
+      "spec14": "Dimension 73cm*44cm*75cm",
+      "spec15": "Power supply 220V AC 50Hz. 110V AC 60Hz (Available as custom order)"
+    }
+  },
+  "showCase": {
+    "card1": {
+      "title": "Design",
+      "caption": "Manufactured, designed and produced in the Nordic"
+    },
+    "card2": {
+      "title": "Nitrogen free",
+      "caption": "Introducing liquid nitrogen-free cryotherapy treatments"
+    },
+    "card3": {
+      "title": "Connected",
+      "caption": "Always online over the built-in wifi. X°Cryo updates automatically over the internet"
+    },
+    "card4": {
+      "title": "Cold",
+      "caption": "The effect of the X°Cryo is -60° celsius on the skin"
+    }
+  },
+  "meetAllYourNeeds": {
+    "preHeading": "Local cryotherapy",
+    "heading": "Meeting your every need",
+    "wellness": {
+      "title": "Wellness",
+      "caption": "Cryotherapy can increase your general wellness and increase beneficial neurotransmitters"
+    },
+    "sport": {
+      "title": "Athletics and Sports",
+      "caption": "X°Cryo reduces recovery time of the muscles, allowing you to get better results faster"
+    },
+    "health": {
+      "title": "Health And Recovery",
+      "caption": "Great for general muscle tensions and sore muscles anywhere on the body"
+    }
+  },
+  "howItWork": {
+    "card1": "Produces continuous high volume and velocity air flow with excellent heat extraction capability.",
+    "card2": "Cooling system is based on advanced electric compressor and heat exchange technology providing maintenance free continuous operation.",
+    "card3": "High velocity of air flow enables cryo-cooling of the treatment areas at higher air temperature than previously making the treatments 100% safe.",
+    "card4": "A typical treatment session per area lasts from 3 to 5 minutes. 8 inch touch screen with easy to operate user interface."
+  },
+  "showCaseTreatment": {
+    "card1": "Knee treatment",
+    "card2": "Local treatment",
+    "card3": "Elbow treatment",
+    "card4": "Shoulder area treatment"
+  },
+  "treatments": {
+    "fast": {
+      "title": "Fast treatments",
+      "caption": "One treatment with The X°Cryo takes just 3 simple minutes"
+    },
+    "low": {
+      "title": "Low running costs",
+      "caption": "The X°Cryo requires no liquid nitrogen to use"
+    }
+  },
+  "bodyBenefits": {
+    "heading": "Body benefits",
+    "tab1": {
+      "title": "Beauty",
+      "content": "Reverses signs of ageing, promotes skin tone, reduces cellulite, increases collagen production and provides efficient treatment of variety of skin disorders. Cryo facials are also ideal for reducing puffiness, sagging skin and acne."
+    },
+    "tab2": {
+      "title": "Sports",
+      "content": "Cryotherapy is a convenient all-in-one solution that can be used in sports to treat injuries. The technology can increase your wellness, reduce pain and enhance blood circulation. Cooled air will soothe painful symptoms after back, neck and shoulder stretch."
+    },
+    "tab3": {
+      "title": "Health",
+      "content": "With the help of this machine, you can accelerate the recovery process after an injury or a medical operation. It provides relief from chronic and joint pains. It reduces the recovery time of the muscles, which will allow you to resume physical activity in no time."
+    },
+    "tab4": {
+      "title": "Wellness",
+      "content": "The machine increases the overall wellness of the athletes and people who choose an active lifestyle. A device is great for reducing muscle tension and sore muscles in any part of the body. You will be able to continue your daily workout routine sooner."
+    }
+  }
+}

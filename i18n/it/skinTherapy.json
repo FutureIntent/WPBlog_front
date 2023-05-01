@@ -1,0 +1,46 @@
+{
+  "metaData": {
+    "title": "X˚Booster | Criocentro"
+  },
+  "productName": "Booster",
+  "heading": "Booster X°Cryo™",
+  "subHeading": "Potenzia il tuo trattamento X˚Cryo",
+  "whatIs": {
+    "imageAlt": "Immagine del prodotto Booster",
+    "heading": "Che cos'è X°Cryo Booster?",
+    "slide1": "Il principio di funzionamento di X°Cryo si basa sull'alto volume e sulla velocità dell'aria raffreddata, che fornisce un metodo molto efficiente ma totalmente sicuro per produrre uno shock termico sull'area trattata senza alcun rischio di congelamento o altri effetti collaterali",
+    "slide2": "Si tratta di un dispositivo elettrico, compatto e mobile con teste di trattamento multiple. È una soluzione semplice ed efficace che aiuta a ridurre il dolore e a rendere più rapido il processo di recupero. È stato progettato per il trattamento della pelle, delle articolazioni e dei muscoli di tutto il corpo",
+    "slide3": "Tutto ciò che serve è una presa di corrente disponibile. Non è necessaria un'installazione speciale. La macchina è dotata di quattro ruote che la rendono mobile. Questa tecnologia è ideale per potenziare le prestazioni atletiche e il recupero dopo un infortunio o uno stiramento.",
+    "slide4": "La crioterapia vi aiuterà ad accelerare il recupero muscolare e a migliorarne l'elasticità. È molto utile per trattare i dolori alla schiena, al collo e alle spalle. L'aria raffreddata riduce il gonfiore e la ritenzione idrica, i dolori articolari e le infiammazioni",
+    "specs": {
+      "spec1": "schermo tattile HD da pollici",
+      "spec2": "Tubo di trattamento piccolo Φ12mm (diametro)",
+      "spec3": "Tubo di trattamento grande Φ20mm",
+      "spec4": "Selezione degli applicatori di trattamento",
+      "spec5": "Livelli di velocità dell'aria 1-3",
+      "spec6": "Tempo di lavoro 0-60 minuti",
+      "spec7": "Temperatura di uscita -20°C con capacità effettiva di estrazione del calore di -60°C",
+      "spec8": "Potenza del compressore 500W",
+      "spec9": "Potenza di dissipazione del calore 2000W",
+      "spec10": "Potenza frigorifera 1800W",
+      "spec11": "Flusso d'aria massimo 75m3/ora",
+      "spec12": "Potenza assorbita 1 KVA",
+      "spec13": "Peso 65 kg",
+      "spec14": "Dimensioni 73cm*44cm*75cm",
+      "spec15": "Alimentazione 220V AC 50Hz. 110V AC 60Hz (disponibile come ordine personalizzato)"
+    }
+  },
+  "getYourBooster": "Ottieni il tuo Booster",
+  "dermaProduct": {
+    "caption1": "Acqua Micellare One-Step, un composto di olio di Argan e molti altri ingredienti amici della pelle. Aumenta il termoshock della pelle, allevia efficacemente i sintomi della pelle e le infezioni come l'acne e altre infezioni cutanee",
+    "caption2": "L'olio di Argan lenisce, idrata e mantiene la pelle fresca anche dopo il trattamento ottimo per eliminare eventuali borse. Fa parte del metodo di trattamento brevettato X°Cryo™. Tra gli ingredienti speciali figurano l'estratto di fieno, l'estratto di carne di maiale, l'estratto di ferro di betulla, l'estratto di salvia, lo zinco e la vitamina C."
+  },
+  "fysioProduct": {
+    "caption1": "Un prodotto sviluppato per i trattamenti di crioterapia legati alla fisioterapia. Oltre agli ingredienti di base, questo prodotto include ad esempio pantenolo, olio di menta piperita, estratto di ginepro, estratto di luppolo, estratto di terra, estratto di fiori, vitamina C e retinolo",
+    "caption2": "Questo prodotto è specificamente destinato al trattamento dei dolori muscolari e articolari"
+  },
+  "hairProduct": {
+    "caption1": "Prodotto studiato per ripristinare e rivitalizzare il business dell'acconciatura",
+    "caption2": "Migliora in modo evidente il ritmo e la durata del trattamento del cuoio capelluto. Include ingredienti tipici, tra cui i seguenti booster: Olio di ricino, estratto di radice di bardana, estratto di zenzero ed estratto di ortica, tutti ottimi ingredienti noti per stimolare e promuovere la crescita dei capelli."
+  }
+}

@@ -1,0 +1,124 @@
+{
+    "metaData": {
+      "title": "Kryolipolyysikone on kryolopolyysia suorittava kone, joka on suunniteltu vähentämään rasvan määrää",
+      "description": "Cryolipo-kone on rasvan jäädyttämiseen tarkoitettu laite, joka auttaa sinua luomaan ihanteellisen kehon ilman vakavia ponnistuksia ja leikkauksia. Tämä ei-kirurginen hoito on erittäin tehokas, jos sitä käytetään oikein."
+    },
+    "productName": "X°Tone",
+    "heading": "X°Tone",
+    "subHeading": "Aito pelinmuuttaja vartalon muotoilussa",
+    "whatIs": {
+      "imageAlt": "Xtone-tuote",
+      "slides": {
+        "slide1": {
+          "title": "Täydellinen vartalo rasvan jäädyttämisen kryokoneen avulla",
+          "content": "Sinun ei tarvitse ryhtyä tuskalliseen kamppailuun luodaksesi ihanteellisen vartalon, koska X°Tonen avulla sen rakentaminen ei kestä kauan! Kryolipolyysi-laitteen tarjoamat nykyaikaiset ja tehokkaat ei-kirurgiset rasvanvähennyshoidot auttavat sinua saavuttamaan täydellisen muodon vain muutamassa hoitokerrassa.",
+          "content2": "Rasvan jäädyttäminen on lähes kivuton toimenpide, vaikka kipukynnyksesi olisi alhainen. Laitteen paikallisen tai totaalisen vaikutuksen avulla voit polttaa rasvaa tietyillä alueilla, sekä harrastaa urheilua että noudattaa terveellistä elämäntapaa."
+        },
+        "slide2": {
+          "title": "Terveellinen laihtuminen kryolipo-koneella",
+          "content": "Unohda uuvuttavat liikuntaharjoitukset, dieetit ja plastiikkakirurgin vastaanotolla käynti. Et tarvitse niitä enää, sillä rasvan jäädyttämisen avulla voit saavuttaa halutut volyymit lantioilla, jaloissa, käsivarsissa ja vyötäröllä ilman suurempia ponnistuksia. Sinun pitää vain valita oikea X°Tone-laite!",
+          "content2": "Tarjoamme teille erilaisia malleja, joista jokaisella on omat ominaisuutensa ja käyttöetunsa. Kaikkia niitä voi käyttää kotona, yksityisklinikoilla ja esteettisen kauneuden ja lääketieteen keskuksissa."
+        },
+        "slide3": {
+          "title": "Kehon nuorentaminen",
+          "content": "Jos olet etsimässä nuoruuden salaisuuksia, X°Tone on valmis löytämään yhden niistä. Kylmälle altistumisen ansiosta laite nopeuttaa solujen uusiutumisprosessia ja vaikuttaa aktiivisesti kollageenin tuotantoon ja muihin ihmiskehon sisältämiin \"nuorentaviin\" tekijöihin.",
+          "content2": "Käyttämällä hoitokuuria yhdessä anti-aging-kasvohoidon kanssa saat täydellisen ja pitkäaikaisen tuloksen. Kun pelkästään anti-aging-kasvovoiteilla ensimmäinen kohottava vaikutus näkyy 3 viikon kuluttua, X°Tone-kurssilla sen näkee jo 2 viikossa!"
+        },
+        "slide4": {
+          "title": "Vauhditettu haavojen paraneminen ja nopea toipuminen",
+          "content": "X°Tonea voidaan käyttää leikkausten ja traumojen jälkeiseen kuntoutukseen. Ainutlaatuisen kudosten uusiutumista kiihdyttävän menetelmän ansiosta kryolipo-laitteella tehtävät toimenpiteet poistavat kivun ja parantavat yleistä hyvinvointia.",
+          "content2": "Turvallisella ja tehokkaalla menetelmällä on erittäin myönteinen vaikutus lihaksistoon, mikä vähentää kipua kahden ensimmäisen hoitokerran jälkeen!\". Paikallisella kylmähoidolla ja lääkityksellä voit myös nopeuttaa lääkkeen imeytymisprosessia parantamalla yleistä tonusta."
+        }
+      },
+      "specs": {
+        "spec1": "tuuman HD-kosketusnäyttö",
+        "spec2": "Pieni hoitoputki Φ12mm (halkaisija)",
+        "spec3": "Suuri hoitoputki Φ20mm",
+        "spec4": "Hoitolaitteiden valinta",
+        "spec5": "Ilman nopeustasot 1-3",
+        "spec6": "Toiminta-aika 0-60 minuuttia",
+        "spec7": "Lähtevän virran lämpötila -20 °C, kun varsinainen lämmöntuotantokyky on -60 °C",
+        "spec8": "Kompressorin teho 500W",
+        "spec9": "Lämmönhäviöteho 2000W",
+        "spec10": "Jäähdytysteho 1800W",
+        "spec11": "Suurin ilmavirta 75m3/tunti",
+        "spec12": "Tehon kulutus 1 KVA",
+        "spec13": "Paino 65kg",
+        "spec14": "Mitat 73cm*44cm*75cm",
+        "spec15": "Virtalähde 220V AC 50Hz. 110V AC 60Hz (saatavana tilauksesta)"
+      }
+    },
+    "showCase": {
+      "card1": {
+        "title": "Lihasten kasvatus",
+        "caption": "Tämä tekniikka kiinteyttää ja rakentaa lihaskudosta käsitellyn alueen alla erittäin tehokkaasti."
+      },
+      "card2": {
+        "title": "Ajan säästäminen",
+        "caption": "Yksi 30 minuutin hoito vastaa 10x40 minuuttia kuntosalilla."
+      },
+      "card3": {
+        "title": "Työkalut",
+        "caption": "Cryo sculpt -laite on varustettu kahdella suurella hoitoapplikaattorilla."
+      },
+      "card4": {
+        "title": "Turvallisuus",
+        "caption": "100-prosenttinen tehokkuus ja turvallisuus on osoitettu käytännössä."
+      }
+    },
+    "gainingResult": {
+      "caption": "Äärimmäinen vartalon muotoilu",
+      "header": "Parhaiden tulosten saavuttaminen",
+      "point1": {
+        "title": "Stimulointi",
+        "caption": "Cryolipolysis X°Tone -hoitoa voidaan käyttää stimuloimaan lihaskuntoa ja vähentämään ei-toivottua rasvaa samanaikaisesti."
+      },
+      "point2": {
+        "title": "Kivunlievitys",
+        "caption": "X°Tonea voidaan käyttää kivun lievittämiseen. Tämä voidaan tehdä muuntelemalla aivoihin tulevien kipusignaalien määrää tai vapauttamalla endorfiineiksi kutsuttuja luonnollisia kipulääkkeitä ja rentouttamalla hermoa painavaa puristuneita lihaksia."
+      },
+      "point3": {
+        "title": "Toipuminen ilman häiriötekijöitä",
+        "caption": "Nopeampi toipuminen leikkauksista ja vammoista. Cryolipo-kone X°Tone voi auttaa lihasten stimuloinnissa lisäämällä lihasvoimaa vammoista, leikkauksista jne. johtuvien pitkien toimettomuusjaksojen jälkeen."
+      }
+    },
+    "howDoesItWorkCards": {
+      "card1": "Korkean intensiteetin sähkömagneettinen stimulaatio tarjoaa jatkuvia ja korkeataajuisia lihassupistuksia ilman lihaksen rentoutumista, mikä pakottaa lihaksen työskentelemään maksimikapasiteetillaan.",
+      "card2": "MMS:n käyttö johtaa poikkeuksellisiin hoitotuloksiin, jotka parantavat lihaskuntoa nopeammin kuin perinteinen fyysinen harjoittelu. MMS-tekniikalla saavutettu voimakas lihassupistus käynnistää myös huomattavan rasvan hajoamisen.",
+      "card3": "Suurimmalla 4D-järjestelmällä (jokaisessa laitetyypissä on sama tekniikka) rasva jäädytetään ja poltetaan 30 kertaa tehokkaammin kuin tavallisessa kuntosaliharjoittelussa."
+    },
+    "rolledByPartner": {
+      "caption": "Todellinen pelinmuuttaja vartalon muotoilussa",
+      "heading": "Yhteistyökumppanimme CTN:n tuottama",
+      "subHeading": "Tämä kulttituote auttaa sinua laihtumaan ilman suuria ponnisteluja, sillä se vaikuttaa paikallisesti kehon rasvaan ja nopeuttaa verenkiertoa. Sillä ei ole käytännössä mitään vasta-aiheita, mutta on suositeltavaa neuvotella lääkärin kanssa ennen toimenpiteiden aloittamista.",
+      "point1": {
+        "title": "Ainutlaatuisuus",
+        "caption": "X°Tone on ammattikäyttöön tarkoitettu laite, jolla laihdutetaan vartalon eri osissa. Se toimii paljon paremmin kuin klassinen tyhjiöhieronta, koska siinä yhdistyvät kylmä muotoilu ja tyhjiövaikutus ihoon samanaikaisesti."
+      },
+      "point2": {
+        "title": "Erikoinen kokemus",
+        "caption": "X°Tonen avulla saat laajan hyvinvointivaikutuksen ihon viilentämisestä ja rasvan jäädyttämisestä verisuonten ja koko imunestejärjestelmän toiminnan stimuloimiseen. Voit olla varma, että tämä kryolipolyysitekniikka on paras, ei-invasiivinen menetelmä, joka sekä suojaa ihoa että tarjoaa täydellisen kryovaikutuksen."
+      },
+      "point3": {
+        "title": "Erinomaiset tulokset",
+        "caption": "Potilaat, joilla on vain vähän rasvaa, toteavat tuloksen säilyvän 6 kuukauden kuluessa kylmähoitojaksosta. Lopputulos riippuu hyvin pitkälle myös muista tekijöistä kuten ravitsemuksesta, elämäntavoista, alkoholinkäytöstä jne."
+      }
+    },
+    "muscleImpact": {
+      "heading": "Lihasvaikutus",
+      "card1": {
+        "title": "Magneettinen lihasstimulaatio",
+        "caption": "MMS-teknologian avulla omat lihakset voivat saavuttaa ainutlaatuisia harjoitustuloksia edellyttäen jatkuvaa laajentumista ja supistumista, mikä vaikuttaa tehokkaasti lihaskudoksen sisäiseen rakenteeseen ja muokkaa sitä. MMS edistää myofibrillien kasvua (lihaksen kasvu) ja tuottaa uusia proteiiniketjuja ja lihassyitä (lihaksen hyperplasia) sekä lisää lihaksen tiiviyttä ja kokoa."
+      },
+      "card2": {
+        "title": "Tulos",
+        "caption": "Kun käytetään MMS-tekniikkaa, tehostetut lihassupistukset aiheuttavat myös rasvahappojen nopeutettua hajoamista ja lipidien poistumista tuhoutuneista rasvasoluista. Vapautuneet lipidit muuttuvat seuraavien viikkojen aikana verensokeriksi ja poistuvat näin normaalin aineenvaihdunnan avulla. MMS vahvistaa ja kasvattaa lihaskudosta, samalla kun se tuhoaa ei-toivottuja rasvakertymiä käsitellyltä alueelta. Tämä on ensimmäinen kerta, kun meillä on tällainen hoitovaihtoehto saatavilla."
+      }
+    },
+    "beforeAfter": {
+      "heading": "Ennen / jälkeen -tulokset",
+      "imageAlt": "Ennen / jälkeen tulosten tausta",
+      "comparison": "Vertailu"
+    }
+  }
+

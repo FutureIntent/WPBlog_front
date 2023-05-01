@@ -1,0 +1,24 @@
+{
+  "metaData": {
+    "title": "FAQ | Crio°Centro"
+  },
+  "preHeading": "Info",
+  "heading": "FAQ",
+  "caption": "Domande e risposte più frequenti",
+  "q1": {
+    "q": "La x°cryo è sicura?",
+    "a": "Il principio di base della terapia del freddo è semplice: l'aria raffreddata viene indirizzata su un'area lesa. In pratica, funziona come un impacco freddo, ma in modo molto più efficace. L'applicazione di aria fredda su un'area infiammata è un metodo ben noto ed è completamente sicuro"
+  },
+  "q2": {
+    "q": "Ho bisogno di azoto liquido?",
+    "a": "La tecnologia non si basa sull'utilizzo di azoto liquido per eseguire la crioterapia. Non ne avrai bisogno perché in questo dispositivo l'aria viene raffreddata con l'aiuto dell'elettricità. Il principio di funzionamento si basa su un elevato volume di aria raffreddata: non è necessario l'azoto liquido"
+  },
+  "q3": {
+    "q": "Quali sono i costi di gestione?",
+    "a": "Non ci saranno costi di gestione, a parte le bollette per l'elettricità. Tutto ciò che serve è una presa di corrente per collegarlo. Questo tipo di apparecchiatura può essere utilizzata in qualsiasi momento della giornata. Non è necessario acquistare parti o componenti aggiuntivi per far funzionare il dispositivo"
+  },
+  "q4": {
+    "q": "Di cosa ho bisogno per farlo funzionare?",
+    "a": "Non è necessario nient'altro che il dispositivo. Accendere l'apparecchio tramite l'interruttore verde e scegliere la zona del corpo da trattare. Questo apparecchio è stato progettato per un utente comune: non sono necessarie competenze particolari per eseguire la procedura."
+  }
+}

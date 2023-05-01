@@ -1,0 +1,37 @@
+{
+    "localTherapy": {
+      "title": "Paikallinen + kasvoterapia",
+      "headline": "Paranna suorituskykyä, palautumista ja kauneutta.",
+      "description": " Paikallinen hoito kylmähoitolaitteilla on paras kehon muotoilumenetelmä. Se vaikuttaa kehoon paikallisesti, korjaa ihon epätasaisuuksia ja stimuloi solujen uusiutumista. Se on täysin turvallista ja erittäin tehokasta. Vain sen avulla pääset eroon yksittäisistä epätäydellisyyksistä 99 prosentissa tapauksista ja annat keholle täysin uuden - terveen ja houkuttelevan ilmeen! X°Cryon avulla voit taistella paikallista rasvaa vastaan ja ottaa ensimmäisen askeleen kohti täydellistä kehoa!"
+    },
+    "faceTherapy": {
+      "title": "Maski",
+      "headline": "",
+      "description": ""
+    },
+    "bodyTherapy": {
+      "title": "Kehoterapia",
+      "headline": "Paranna lihaskuntoa",
+      "description": "Kehoterapia X°Tone on järjestelmä, joka on suunniteltu kehon osiin kohdistuvaa paikallista vaikutusta varten. Parannetun kaavan ja patentoidun tekniikan ansiosta, joka perustuu syvään vaikutukseen ihoon, jossa on rasvakertymiä, menetelmät mahdollistavat kiinteän ja terveen kehon muodostamisen. Vain yksi terapiakurssi voi korvata 3 kuukautta kuntosalilla!"
+    },
+    "fullBodyTherapy": {
+      "title": "Kokovartalohoito",
+      "headline": "Nopeuta kehosi luonnollista palautumista",
+      "description": "Täysvartalohoito X°Cabin on täydellinen väline, joka voi auttaa sinua saavuttamaan kaikki hyvinvointitavoitteesi. Sillä saat taloosi todellisen työhevosen! Se ei tarvitse suurta tilaa sijoittelua varten - se voidaan helposti sijoittaa kodin eteiseen, autotalliin tai ullakolle. Se voi helposti korvata useita vartalonmuotoilulaitteita, jolloin siitä tulee todellinen esteettisen kauneuden ja lääketieteen minikeskus kotiisi."
+    },
+    "skinTherapy": {
+      "title": "Ihohoito",
+      "headline": "Vahvista ja nuorenna ihoasi",
+      "description": "Skin Therapy eacryocabins X° on innovatiivinen ratkaisu, joka ansaitsee huomiota. Se sopii kaikille niille, jotka haluavat toteuttaa nopean ja tehokkaan muutoksen kehossaan tai sen osissa. Sen avulla voit päästä eroon 88 %:sta visuaalisista puutteista ja kehon ensimmäisistä ikääntymisen merkeistä jo yhden täyden hoitojakson jälkeen. Aluksi riittää, että valitset sopivan laitteen ja tutkit sen kuvauksen - vaikutuksen ominaisuudet ja lopputulos."
+    },
+    "aboutDevice": "Tietoja laitteesta",
+    "includeAllApplicators": "Sisältää kaikki applikaattorit ja koulutuksen",
+    "leaveApplication": "Jätä hakemus",
+    "services": "Palvelut",
+    "prices": "Hinnat",
+    "wantToLearn": "Haluatko oppia lisää siitä, miten Cryo-franchise toimii? Mene sivulle:",
+    "business&Cryo": "Liiketoiminta & kryo",
+    "about": "Tietoja meistä"
+
+  }
+

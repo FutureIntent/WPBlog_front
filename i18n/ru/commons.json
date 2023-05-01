@@ -1,0 +1,62 @@
+{
+  "products": {
+    "localTherapy": "X˚Cryo",
+    "faceTherapy": "X˚Cryo Mask",
+    "bodyTherapy": "X˚Tone",
+    "fullBodyTherapy": "X˚Cabin",
+    "skinTherapy": "X˚Boosters"
+  },
+  "getStarted": "Get Started",
+  "watchVideo": "Watch Video",
+  "features": "Features",
+  "viewTechSpecs": "View Tech Specs",
+  "viewPrices": "View Prices",
+  "technicalSpecification": "Technical Specifications",
+  "galleryImage": "Gallery image",
+  "browseGallery": "Browse gallery",
+  "browsePrices": "Browse prices",
+  "goToPrices": "Go to Prices",
+  "opportunities": {
+    "heading": "Opportunities",
+    "card1": {
+      "title": "Training",
+      "caption": "We provide all our customers with all the necessary materials and training to run the X°Cryo nitrogen."
+    },
+    "card2": {
+      "title": "Right to your doorstep",
+      "caption": "'We deliver the X°Cryo right to your doorstep in Sweden, Norway, Denmark and Iceland."
+    },
+    "card3": {
+      "title": "Trust & safety",
+      "caption": "Our cryo-machine holds the highest standard when it comes to product safety."
+    },
+    "card4": {
+      "title": "Need help?",
+      "caption": "Any questions regarding the cryomachine X°Cryo are just a phone call away. Diagnostics and service can be done via Remote Connection over the Internet."
+    }
+  },
+  "delivery": {
+    "heading": "Delivery",
+    "slide1": "We deliver X°Cryo, X°Tone and Cryocabin right to your doorstep in Sweden, Norway, Denmark and Iceland.",
+    "slide2": "We take full responsibility during the delivery process. The equipment will not be subjected to any damage.",
+    "slide3": "Our company values every customer and that is why we deliver the product as fast as it is possible.",
+    "slide4": "Just state your name, e-mail and the prone. Our operator will contact you to organize a delivery process."
+  },
+  "howDoesItWork": "How does it work...",
+  "gotQuestions": "Got questions?",
+  "orYouCanSendUsMessage": "Or you can send us a message",
+  "feelFreeToCallUs": " Feel free to call us",
+  "iAgreeCryo": "I agree that my personal data is processed in accordance with CryoCenter's",
+  "privacyPolicy": "Privacy Policy",
+  "form": {
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "message": "Message",
+    "optional": "Optional",
+    "send": "Send"
+  },
+  "order": "order",
+  "getStartedCaption": "Place your order in queue. We will contact you as soon as we are ready to ship our products.",
+  "contactUs": "Contact Us"
+}

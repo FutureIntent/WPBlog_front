@@ -1,0 +1,26 @@
+{
+    "metaData": {
+      "title": "FAQ | Cryo°Center"
+    },
+    "preHeading": "Info",
+    "heading": "FAQ",
+    "caption": "Yleisimmät kysymykset ja vastaukset",
+    "q1": {
+      "q": "Onko x°cryo turvallinen?",
+      "a": "Kylmähoidon perusperiaate on yksinkertainen - jäähdytettyä ilmaa ohjataan loukkaantuneelle alueelle. Periaatteessa se toimii kuten kylmäkompressi, mutta paljon tehokkaammin. Kylmän ilman kohdistaminen tulehtuneelle alueelle on tunnettu ja täysin turvallinen menetelmä."
+    },
+    "q2": {
+      "q": "Tarvitsenko nestemäistä typpeä?",
+      "a": " Kyseinen teknologia ei perustu nestemäisen typen käyttöön kylmähoidon suorittamiseksi. Et tarvitse sitä ensin, koska tässä laitteessa ilma jäähdytetään sähkön avulla. Toimintaperiaate perustuu jäähdytetyn ilman suureen tilavuuteen - nestemäistä typpeä ei tarvita."
+    },
+    "q3": {
+      "q": "Mitkä ovat käyttökustannukset?",
+      "a": "Käyttökustannuksia ei synny kuin sähkölaskut. Tarvitaan vain pistorasia, johon se kytketään. Tällaisia laitteita voidaan käyttää mihin vuorokaudenaikaan tahansa. Sinun ei tarvitse ostaa ylimääräisiä osia tai komponentteja laitteen käyttämiseksi."
+    },
+    "q4": {
+      "q": "Mitä tarvitsen sen käyttämiseen?",
+      "a": "Et tarvitse mitään muuta kuin laitteen. Kytke se päälle vihreällä kytkimellä ja valitse kehon alue, jota aiot hoitaa. Laite on suunniteltu tavalliselle käyttäjälle - et tarvitse mitään erityisiä taitoja toimenpiteen suorittamiseen."
+    }
+  }
+  
+  

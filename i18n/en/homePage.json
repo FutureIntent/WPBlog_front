@@ -1,0 +1,117 @@
+{
+  "metaData": {
+    "title": "Cryotherapy machine for sale | Buy cryomachine from THEC",
+    "description": "Cryosculptor is a reliable company that works in the cryo machine provision sphere. There are 5 kinds of cryotherapy machines you can buy. Boost your performance and recovery with Cryosculptor!"
+  },
+  "subHeader": "Live your life to the fullest.",
+  "services": {
+    "title": "Services",
+    "localTherapy": {
+      "category": "Local therapy",
+      "headline": "Boost your performance, recovery and beauty.",
+      "description": "Local therapy with cryotherapy machines is the best method of body sculpting. It has a local impact on the body, correcting the unevenness of the skin and stimulating cell renewal. It is absolutely safe and extremely effective. Only with its help you'll get rid of individual imperfections in 99% of cases and give the body a completely new — healthy and attractive look! With X°Cryo you can fight localized fat and take the first step towards a perfect body!"
+    },
+    "faceTherapy": {
+      "category": "Face therapy",
+      "headline": "Enhance your overall beauty & esthetics",
+      "description": "Face therapy with X°Cryo Mask is the latest method of rejuvenation and stimulation of cell renewal, thanks to which you can slow down aging and get an incredibly lifting effect. It has safe and high-precision sensors that regulate the temperature of the cryo components to achieve the best rejuvenation result. With constant use, the cryomask helps to narrow the pores, remove toxins and renew the skin!"
+    },
+    "bodyTherapy": {
+      "category": "Body therapy",
+      "headline": "Improve your muscle toning",
+      "description": "Body therapy X°Tone is a system designed for local impact on body parts. Thanks to the improved formula and the patented technology of deep action on the skin with fatty deposits, the methods allow you to form a hard and healthy body. Just one course of therapy can replace 3 months in the gym!"
+    },
+    "fullBodyTherapy": {
+      "category": "Full-body therapy",
+      "headline": "Accelerate your body’s natural recovery",
+      "description": "Full-body therapy X°Cabin is a complete facility that can help you achieve all your wellness goals. With it, you can buy a real workhorse for your house! It does not need a large space for placement — it can easily be placed in a home hall, garage, or attic. It can easily replace several body shaping devices, becoming a real mini-center of aesthetic beauty and medicine in your home."
+    },
+    "skinTherapy": {
+      "category": "Skin therapy",
+      "headline": "Boost and rejuvenate your skin",
+      "description": "Skin Therapy eacryocabins X° is an innovative solution that deserves attention. It is ideal for all those who want to carry out a quick and effective correction of their body or its parts. With its help, you can get rid of 88% of visual imperfections and the initial signs of aging of the body, after just one full course of therapy. To begin with, it is enough to choose a suitable device and study its description — the features of the impact and the final result."
+    }
+  },
+  "cryotherapy": {
+    "title": "Cryotherapy",
+    "general": {
+      "title": "General",
+      "description": "Cryotherapy is based on the rapid and controlled cooling of tissue. The process increases the body’s own blood circulation as well as the release of feel-good endorphins and the anti-inflammatory protein norepinephrine. The technique is a very efficient and fully safe method of producing the therapeutic thermal shock to the treated area without risk of frostbite or other side effects."
+    },
+    "beauty": {
+      "title": "Beauty",
+      "description": "Accelerates muscle recovery, reduces lactic acid, and improves muscle mobility and overall elasticity. Helps with all sports injuries, back, neck, and shoulder pains, sprains, strains, and other soft tissue pains."
+    },
+    "sports": {
+      "title": "Sports",
+      "description": "Promotes rapid weight loss, can be used for recovery after hard training or before preparing for a competition."
+    },
+    "health": {
+      "title": "Health",
+      "description": "Stimulates the work of blood vessels, promotes the removal of toxins and renewal of the body. It has an extremely positive effect, has a minimum of contraindications for use."
+    },
+    "wellness": {
+      "title": "Wellness",
+      "description": "Improves overall well-being by renewing the body at the cellular level. It has a significant impact on the functioning of internal organs, preventing and preventing obesity."
+    },
+    "recovery": {
+      "title": "Recovery",
+      "description": "Recommended for athletes and people who have had serious illnesses. Helps to recover through effective and rapid rehabilitation."
+    }
+  },
+  "cryotherapyBenefits": {
+    "title": "Cryotherapy benefits",
+    "efficiency": {
+      "title": "Efficiency",
+      "description": "Cryotherapy equipment is highly effective — 99 out of 100 customers consider it the best in the fight for a healthy body!"
+    },
+    "safety": {
+      "title": "Safety",
+      "description": "Cryo chamber and its other varieties have been tested in the laboratory — the high efficiency of its work does not harm health"
+    },
+    "noAge": {
+      "title": "No age restrictions",
+      "description": "It is recommended to carry out manipulations from 5 years (previously contraindicated), since the body may not respond correctly to a sharp temperature drop."
+    },
+    "easySetup": {
+      "title": "Easy setup",
+      "description": "The kit comes with an instruction manual, following which the setup and installation of the equipment will not take more than 10 minutes!"
+    },
+    "minimum": {
+      "title": "Minimum contraindications",
+      "description": "Cryotherapy is not recommended for pregnant and lactating women, as well as people with cancer and serious autoimmune diseases."
+    }
+  },
+  "industries": {
+    "title": "Industries",
+    "physicalTherapy": "Physical Therapy",
+    "athletics": "Athletics",
+    "gyms": "Gyms",
+    "military": "Military",
+    "sportsMedicine": "Sports Medicine",
+    "spa": "Medical SPAs",
+    "plastic": "Plastic Surgery",
+    "strength": "Strength Training",
+    "wellness": "Wellness centers"
+  },
+  "ourVision": "Our vision is to help people enjoy their lives to the fullest. We do it through groundbreaking innovation focusing mainly on the safe and efficient cooling method, cryotherapy. Our cryo treatments have proven effects of reducing inflammation and pain, preventing injuries and increasing the ability of the muscle to regenerate. Not to mention, the beauty aspect which includes getting rid of acne, slowing down ageing, promoting weight loss, reducing cellulites and other others. Our treatments are liquid nitrogen-free, hundred per cent safe any without any side effects. By making THEC part of your every day life, you invest in yourself and your overall health making sure to live your life to the fullest.",
+  "aboutUs": [
+    "THEC was founded in 2021 of serial entrepreneur who has had a long life interest in finding solutions to improve people’s overall health. When he was introduced to CTN’s founder, J.P. Martins, he felt that this would be the perfect match to carry out his vision for people to enjoy their lives to the fullest. The partnership is the starting point of many new inventions to come.",
+    "THEC only works with therapists who have gone through our training program and received a certificate in order to operate our machines You can find our licensed practitioners at selected physical therapist clinics, fitness centers, medical clinics and beauty clinics. Would you like to become a practitioner yourself, please contact us at"
+  ],
+  "contact": {
+    "forSales": "For sales inquires - please call",
+    "forOther": "For other inquires - please call"
+  },
+  "warranty": {
+    "titleLeft": "Warranty & Support",
+    "textLeft": "All equipment has a manufacturer's warranty, so you can always repair or exchange cryo saunas for another, identical one. Almost all units are on sale and available for order in the coming days.",
+    "titleRight": "We provide",
+    "list": {
+      "item1": "Manual & Documentations",
+      "item2": "Tutorial and instructions",
+      "item3": "Service works and repairs",
+      "item4": "24/7 online support"
+    }
+  }
+}

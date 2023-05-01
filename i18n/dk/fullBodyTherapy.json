@@ -1,0 +1,159 @@
+{
+  "metaData": {
+    "title": "En cryosauna maskine er ideel til naturlig restitution. Køb cryosauna fra THEC",
+    "description": "Mange hospitaler ønsker at købe cryosauna, fordi det er ekstremt populært blandt klienter. Det giver mulighed for naturlig restitution med superkøling. Du kan også forbrænde kalorier og øge det generelle velvære."
+  },
+  "productName": "X˚Cabin",
+  "heading": "CRYO°CABIN",
+  "caption": "Fremskynd din krops naturlige restitution med superkøling.",
+  "stats": {
+    "minute": "Minut session",
+    "calories": "Kalorier",
+    "degree": "Grader Celsius",
+    "display": "Tommer HD-skærm"
+  },
+  "whatIs": {
+    "heading": "Hvad er Cryo°Cabin?",
+    "imageAlt": "Helkropsterapi produkt",
+    "slide1": "Helkropscryoterapi er en tre-minutters behandling med ekstrem kulde, via flydende nitrogen-tåge, på kroppens overflade, hvilket igen forstærker positive effekter på sundhed og velvære, sportsrestitution, smertebehandling og endda skønhed.",
+    "slide2": "Denne kabine vil behandle hele kroppen ved at udsætte den for temperaturer under -100C. Kroppen vil instinktivt reagere ved at øge sine egne helbredende evner. Hormonerne og enzymerne vil blive frigivet, så kroppen ville komme sig på en mere effektiv måde.",
+    "slide3": "Dette er unikt udstyr med et nordisk design og en enorm 10\" skærm til termiske billeder. Udvendige og indvendige farver kan tilpasses. Denne maskine er designet til alle, der ønsker at blive sundere og reducere smerter i alle dele af kroppen.",
+    "slide4": "Brug omkring 3 minutter på at få mange sundhedsfremmende fordele. Du kan bruge denne maskine til postkirurgisk heling, astmabehandling, forskellige former for inflammationer og endda depression. Niveauet af mælkesyre vil også blive drastisk reduceret.",
+    "specs": {
+      "spec1": "tommer HD touch screen",
+      "spec2": "Lille behandlingsrør Φ12mm (diameter)",
+      "spec3": "Stort behandlingsrør Φ20mm",
+      "spec4": "Udvalg af behandlingsapplikatorer",
+      "spec5": "Lufthastighedsniveauer 1-3",
+      "spec6": "Arbejdstid 0-60 minutter",
+      "spec7": "Udløbstemperatur -20°C med faktisk varmeudvindingskapacitet på -60°C",
+      "spec8": "Kompressoreffekt 500W",
+      "spec9": "Varmeafledningseffekt 2000W",
+      "spec10": "Køleeffekt 1800W",
+      "spec11": "Maksimal luftstrøm 75m3/time",
+      "spec12": "Strømforbrug 1 KVA",
+      "spec13": "Vægt 65 kg",
+      "spec14": "Dimension 73cm*44cm*75cm",
+      "spec15": "Strømforsyning 220V AC 50Hz. 110V AC 60Hz (tilgængelig som specialbestilling)"
+    }
+  },
+  "showCase": {
+    "card1": {
+      "title": "Patenteret teknologi",
+      "caption": "Vortex-køling får dampen til at flyde rundt om kroppen, i stedet for direkte på kroppen."
+    },
+    "card2": {
+      "title": "Gaseffektiv",
+      "caption": "Reguleret ventilstyringssystem betyder mindre forbrug for den gennemsnitlige session."
+    },
+    "card3": {
+      "title": "Trådløs",
+      "caption": "Support, vedligeholdelse og fjerndiagnostik via trådløst internet."
+    },
+    "card4": {
+      "title": "Avanceret sikkerhed",
+      "caption": "Ultralydshovedsensor, dobbelt nødstop, aktiv cirkulation og aktiv ventilation."
+    }
+  },
+  "ultimateEnhancement": {
+    "caption": "Komplet løsning",
+    "heading": "Ultimativ Forbedring",
+    "point1": {
+      "title": "Sundhed & Velvære",
+      "caption": "De ekstremt lave temperaturer i et cryoterapikammer for hele kroppen udløser en fantastisk fysiologisk reaktion på kroppen."
+    },
+    "point2": {
+      "title": "Sport & Fitness",
+      "caption": "Cryoterapi for hele kroppen virker på et muskulært og kardiovaskulært niveau, og derfor øger den fysiske ydeevne og modstand, når det anvendes før intens træning."
+    },
+    "point3": {
+      "title": "Skønhed og vægttab",
+      "caption": "En helkrops cryo-session kan forbrænde fra 300 til 800 kalorier, afhængigt af hver persons fysiologiske karakteristika."
+    }
+  },
+  "buyToday": "Køb Cryo°Cabin i dag",
+  "healthSupport": {
+    "title": "Sundhedsstøtte",
+    "caption": "Udsætter hele kroppen for temperaturer under nul, der når ned til -160 grader Celsius. Denne 3 minutters session giver mange sundhedsfremmende fordele, såsom:",
+    "card1": "Postkirurgisk heling, astma, ledbetændelse, hormonmangel, depression, træthed",
+    "card2": "Reducerer niveauet af mælkesyre i blodet næsten øjeblikkeligt til de normale niveauer",
+    "card3": "Hudlidelser som allergi og psoriasis"
+  },
+  "cryoBenefits": {
+    "heading": "Fordele ved Cryoterapi",
+    "tab1": "Sundhed & velvære",
+    "tab2": "Sport og fitness",
+    "tab3": "Skønhed & vægttab",
+    "healthBenefits": {
+      "card1": {
+        "title": "Restitution efter træning",
+        "description": "Da helkropscryoterapi hjælper med at reducere betændelse, reduceres smerter, og kroppen er bedre i stand til at helbrede sig selv og fremme muskelrestitution. I modsætning til med isbade kan du også genoptage træningen umiddelbart efter en cryoterapi-session."
+      },
+      "card2": {
+        "title": "Få ro og fred",
+        "description": "Cryoterapi påvirker det autonome nervesystem, så en person kan føle afslapning. Dette er et godt værktøj til at håndtere angst og depression. Du kan udsætte din krop for behandlingen på daglig basis blot for at reducere stress eller kurere hovedpine."
+      },
+      "card3": {
+        "title": "Føl dig opfrisket",
+        "description": "Hvis cryoterapisessioner påføres en krop på daglig basis, ville denne person føle varige positive effekter på grund af fald i niveauet for stresshormonet kortisol. Jo flere cryoterapisessioner, jo bedre vil du føle dig efter hver behandling."
+      },
+      "card4": {
+        "title": "Mere energi",
+        "description": "Når kroppen har været udsat for lave temperaturer, vil den fysiologisk reagere på det ved at forsøge at holde en gennemsnitstemperatur. Nervesystemet vil aktivere en vasokonstriktionsproces, så smerterne fra inflammationerne ville blive reduceret."
+      }
+    },
+    "sportBenefits": {
+      "card1": {
+        "title": "Opnå bedre resultater",
+        "description": "Cryoterapi hjælper musklerne til at blive mere tilpasset til den kommende træning. Efter en kort cryo-session øges blodgennemstrømningen. Hormoner frigives i blodsystemet, så atleten kan blive stærkere og hurtigere."
+      },
+      "card2": {
+        "title": "Hurtigere restitution efter træning",
+        "description": "Efter næsten hver træning oplever visse områder af en krop inflammationer. Men smerten kan reduceres dramatisk - cryoterapi hjælper også musklerne til at komme sig. Den næste dag vil du føle dig mere energisk og sund."
+      },
+      "card3": {
+        "title": "Hurtigere bedring efter traume",
+        "description": "Næsten i enhver sport er der en chance for at få et traume. Cryobehandlingssessionen vil reducere den tid, der er nødvendig for at lindre inflammationen, markant. Smerten vil være væk på et minut, og musklerne begynder at regenerere meget hurtigere."
+      },
+      "card4": {
+        "title": "Følelsesmæssig stabilitet",
+        "description": "Når behandlingen er startet, genereres endorfiner og neuropeptider, så en person vil føle en følelse af ro, lettelse, glæde og tilfredshed. Det er meget vigtigt for atleten at skabe en positiv sindstilstand."
+      }
+    },
+    "beautyBenefits": {
+      "card1": {
+        "title": "Boost kalorieforbrændingen",
+        "description": "Selv efter den første session vil en gennemsnitlig person være i stand til at forbrænde 300-800 kalorier afhængigt af kroppens fysiologiske specifikationer. Hvis du vil kombinere cryoterapi med rigtig fysisk træning, vil resultatet være formidabelt."
+      },
+      "card2": {
+        "title": "Reducer cellulitis symptomer",
+        "description": "Efter at huden og hele kroppen har været udsat for den kølige luft, øges blodcirkulationen. Vævsskylningen vil blive forbedret, så fedtniveauet fra lymfesystemet langsomt falder. Bare udfør proceduren dagligt."
+      },
+      "card3": {
+        "title": "Reduktion af toksinniveauet",
+        "description": "Forøgelse af blodcirkulationen vil fremme cellulær udveksling, så toksinerne vil blive elimineret hurtigere og mere effektivt. Du bliver sundere bare ved at udsætte dig selv for cryoterapi-behandling dagligt. Den helende effekt er stor."
+      },
+      "card4": {
+        "title": "Hudregenerering",
+        "description": "De ekstreme temperaturer i cryoterapiudstyret vil øge blodcirkulationen og kollagendannelsen. Huden bliver fast og mere elastisk på grund af den naturlige fornyelsesproces. Efter nogle få behandlingsprocedurer vil du se lidt yngre ud."
+      }
+    }
+  },
+  "businessSolutions": {
+    "heading": "Virksomhedsløsninger",
+    "line1": "Vi tilbyder din virksomhed en komplet løsning, når du køber din CTN Cryocabin hos os.",
+    "line2": "Vi leverer og installerer dit udstyr, og udover dette har vi fået hjælp fra vores egen indretningsdesigner for at give dig en komplet pakke med materialer til at skabe det rumlige rum, der skal til for den ægte Cryocabin-oplevelse. Vægge, Roll-ups, gulve, taburetter mm. Dette sammen med trykte informationsmapper for at give dine kunder førsteklasses information.",
+    "line3": "Alt er inkluderet i prisen og hjælper din virksomhed med at komme i gang og øge salget med det samme."
+  },
+  "studies": {
+    "heading": "Helkropscryoterapi studier",
+    "caption": "Historien om helkropscryoterapi (WBC) stammer fra Japan i 1978, da Dr. Yamaguchi begyndte at bruge frysebehandlinger af kort varighed på sin patients hud til at behandle leddegigt til smertelindringsformål. Det samme princip blev derefter brugt i Europa, hvor \"Cryocabins\" blev udviklet til at behandle hele kroppen mere effektivt.",
+    "browseStudies": "Gennemse links over studier",
+    "pdfs": {
+      "study1": "Effekter af Helkropscryoterapi vs. Fjerninfrarød vs. Passive Modaliteter på Restitution",
+      "study2": "Akutte virkninger af Helkropscryoterapi på Sit-and-Reach-amplitude hos Kvinder og Mænd.",
+      "study3": "Fem-dages Helkropscryostimulering af Højtrangerede Professionelle Tennisspillere.",
+      "study4": "Virkningen af 10 sessioner af Helkropscryostimulation på Aerob og Anaerob Kapacitet..."
+    }
+  }
+}

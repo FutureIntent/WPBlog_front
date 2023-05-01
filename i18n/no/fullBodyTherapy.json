@@ -1,0 +1,159 @@
+{
+  "metaData": {
+    "title": "En kryosaunamaskin er ideell for naturlig restitusjon. Kjøp kryosauna fra THEC",
+    "description": "Mange sykehus ønsker å kjøpe kryosauna fordi det er ekstremt populært blant klienter. Det gir mulighet for naturlig restitusjon med superkjøling. Du kan også forbrenne kalorier og øke generelt velvære."
+  },
+  "productName": "X˚Cabin",
+  "heading": "CRYO°CABIN",
+  "caption": "Fremskynd kroppens naturlige restitusjon med superkjøling.",
+  "stats": {
+    "minute": "Minutt økt",
+    "calories": "Kalorier",
+    "degree": "Grader Celsius",
+    "display": "Tommers HD-skjerm"
+  },
+  "whatIs": {
+    "heading": "Hva er Cryo°Cabin?",
+    "imageAlt": "Helkropps terapi produkt",
+    "slide1": "Helkroppskryoterapi er en tre-minutters behandling med ekstrem kulde, via flytende nitrogentåke, på kroppens overflate, som igjen forsterker positive effekter på helse og velvære, idrettsrestitusjon, smertebehandling og til og med skjønnhet.",
+    "slide2": "Denne hytta vil behandle hele kroppen ved å utsette den for temperaturer under -100C. Kroppen vil instinktivt reagere ved å øke sine egne helbredende evner. Hormonene og enzymene vil frigjøres slik at kroppen vil komme seg på en mer effektiv måte.",
+    "slide3": "Dette er unikt utstyr med nordisk design og en enorm 10'' display for termiske bilder. Eksteriør- og interiørfarger kan tilpasses. Denne maskinen er designet for alle som ønsker å bli sunnere og redusere smerte i alle deler av kroppen.",
+    "slide4": "Bruk rundt 3 minutter på å oppnå mange helsefremmende fordeler. Du kan bruke denne maskinen til postkirurgisk helbredelse, astmabehandling, forskjellige typer betennelser og til og med depresjon. Nivået av melkesyre vil også bli drastisk redusert.",
+    "specs": {
+      "spec1": "tommers HD-berøringsskjerm",
+      "spec2": "Lite behandlingsrør Φ12mm (diameter)",
+      "spec3": "Stort behandlingsrør Φ20mm",
+      "spec4": "Valg av behandlingsapplikatorer",
+      "spec5": "Air velocity levels 1-3",
+      "spec6": "Arbeidstid 0-60 minutter",
+      "spec7": "Utløpstemperatur -20°C med faktisk varmeavtrekkskapasitet på -60°C",
+      "spec8": "Kompressoreffekt 500W",
+      "spec9": "Varmeavledningseffekt 2000W",
+      "spec10": "Kjøleeffekt 1800W",
+      "spec11": "Maksimal luftmengde 75m3/time",
+      "spec12": "Strømforbruk 1 KVA",
+      "spec13": "Vekt 65 kg",
+      "spec14": "Dimensjon 73cm*44cm*75cm",
+      "spec15": "Strømforsyning 220V AC 50Hz. 110V AC 60Hz (tilgjengelig som spesialbestilling)"
+    }
+  },
+  "showCase": {
+    "card1": {
+      "title": "Patentert teknologi",
+      "caption": "Vortex-kjøling får dampen til å strømme rundt i kroppen, i stedet for direkte på kroppen."
+    },
+    "card2": {
+      "title": "Gass effektiv",
+      "caption": "Regulert ventilkontrollsystem betyr mindre forbruk for den gjennomsnittlige økten."
+    },
+    "card3": {
+      "title": "Trådløst",
+      "caption": "Støtte, vedlikehold og fjerndiagnostikk gjennom WIFI."
+    },
+    "card4": {
+      "title": "Avansert sikkerhet",
+      "caption": "Ultrasonisk hodesensor, dobbel nødavstengning, aktiv sirkulasjon og aktiv ventilasjon."
+    }
+  },
+  "ultimateEnhancement": {
+    "caption": "Komplett Løsning",
+    "heading": "Ultimativ Forbedring",
+    "point1": {
+      "title": "Helse & Velvære",
+      "caption": "De ekstremt lave temperaturene i et kryoterapikammer for hele kroppen gir en fantastisk fysiologisk respons på kroppen."
+    },
+    "point2": {
+      "title": "Sport & Fitness",
+      "caption": "Kryoterapi for hele kroppen virker på muskulært og kardiovaskulært nivå, og når den brukes før intens trening, øker den fysisk ytelse og motstand."
+    },
+    "point3": {
+      "title": "Skjønnhet & Vekttap",
+      "caption": "En WBC-økt kan forbrenne fra 300 til 800 kalorier, avhengig av de fysiologiske egenskapene til hver person."
+    }
+  },
+  "buyToday": "Kjøp Cryo°Cabin i dag",
+  "healthSupport": {
+    "title": "Helsefordeler",
+    "caption": "Utsetter hele kroppen for minusgrader som når ned til -160 grader Celsius. Denne 3 minutters økten gir mange helsefremmende fordeler, som f.eks:",
+    "card1": "Etter kirurgisk helbredelse, astma, leddbetennelse, hormonmangel, depresjon, tretthet",
+    "card2": "Reduserer nivåene av melkesyre i blodet nesten umiddelbart til normale nivåer",
+    "card3": "Hudsykdommer som allergier og psoriasis"
+  },
+  "cryoBenefits": {
+    "heading": "Fordeler med Kryoterapi",
+    "tab1": "Helse & Velvære",
+    "tab2": "Sport & Fitness",
+    "tab3": "Skjønnhet & Vekttap",
+    "healthBenefits": {
+      "card1": {
+        "title": "Restitusjon etter trening",
+        "description": "Ettersom kryoterapi for hele kroppen bidrar til å redusere betennelse, reduseres smerte og kroppen er bedre i stand til å helbrede seg selv og fremme muskelgjenoppretting. I motsetning til isbad kan du også gjenoppta treningen umiddelbart etter en kryoterapiøkt."
+      },
+      "card2": {
+        "title": "Få sinnsro og indre fred",
+        "description": "Kryoterapi påvirker det autonome nervesystemet ditt slik at en person kan føle avslapning. Dette er et flott verktøy for å håndtere angst og depresjon. Du kan utsette kroppen din for behandlingen på daglig basis bare for å redusere stress eller pleie hodepiner."
+      },
+      "card3": {
+        "title": "Føl deg uthvilt",
+        "description": "Hvis kryoterapiøkter påføres en kropp på daglig basis, vil denne personen føle varige positive effekter på grunn av reduksjonen i stresshormonet kortisolnivå. Jo flere kryoterapiøkter, jo bedre vil du føle deg etter hver behandling."
+      },
+      "card4": {
+        "title": "Mer energi",
+        "description": "Etter at kroppen har blitt utsatt for lave temperaturer vil den fysiologisk reagere på det ved å prøve å holde en gjennomsnittstemperatur. Nervesystemet vil aktivere en vasokonstriksjonsprosess slik at smertene fra betennelsene reduseres."
+      }
+    },
+    "sportBenefits": {
+      "card1": {
+        "title": "Oppnå bedre resultater",
+        "description": "Kryoterapi hjelper musklene til å bli mer tilpasset den kommende treningen. Etter en kort kryoøkt vil blodstrømmen økes. Enzymer, næringsstoffer og hormoner vil frigjøres til blodsystemet slik at idrettsutøveren kan bli sterkere og raskere."
+      },
+      "card2": {
+        "title": "Raskere restitusjon etter trening",
+        "description": "Etter nesten hver trening opplever visse områder av kroppen betennelser. Men smerten kan reduseres dramatisk - kryoterapi hjelper også musklene til å komme seg. Neste dag vil du føle deg mer energisk og sunn."
+      },
+      "card3": {
+        "title": "Raskere utvinning av traumer",
+        "description": "Nesten i alle idretter er det en sjanse for å få en skade. Kryobehandlingsøkten vil redusere tiden som trengs for å lindre betennelsen betydelig. Smertene vil forsvinne i løpet av et minutt og musklene begynner å regenerere mye raskere."
+      },
+      "card4": {
+        "title": "Følelsesmessig stabilitet",
+        "description": "Etter at behandlingen har startet blir endorfinene og nevropeptidene generert slik at en person vil føle en følelse av ro, lettelse, glede og tilfredshet. Det er veldig viktig for idrettsutøveren å skape en positiv sinnstilstand."
+      }
+    },
+    "beautyBenefits": {
+      "card1": {
+        "title": "Øk kalori forbrenningen din",
+        "description": "Selv etter den første økten vil en gjennomsnittlig person kunne forbrenne 300-800 kalorier avhengig av kroppens fysiologiske spesifikasjoner. Skal du kombinere kryoterapi med riktig fysisk trening, vil resultatet bli formidabelt."
+      },
+      "card2": {
+        "title": "Reduser symptomer på cellulitt",
+        "description": "Etter at huden og hele kroppen har blitt utsatt for den kjølige luften vil blodsirkulasjonen øke. Vevsskyllingen vil bli forbedret slik at fettnivået fra lymfesystemet sakte reduseres. Bare utfør prosedyren på daglig basis."
+      },
+      "card3": {
+        "title": "Reduksjon av toksinnivå",
+        "description": "Økning i blodsirkulasjonen vil fremme cellulær utveksling slik at giftstoffene vil bli eliminert raskere og mer effektivt. Du vil bli sunnere bare ved å utsette deg for kryoterapibehandling på daglig basis. Den helbredende effekten er stor."
+      },
+      "card4": {
+        "title": "Helbreding av hud",
+        "description": "De ekstreme temperaturene på kryoterapiutstyret vil øke blodsirkulasjonen og kollagengenereringen. Huden vil bli fast og mer elastisk på grunn av den naturlige fornyelsesprosessen. Etter noen få behandlingsprosedyrer vil du se litt yngre ut."
+      }
+    }
+  },
+  "businessSolutions": {
+    "heading": "Forretningsløsninger",
+    "line1": "Vi tilbyr din bedrift en komplett løsning når du kjøper din CTN Cryocabin hos oss.",
+    "line2": "Vi leverer og installerer utstyret ditt, og i tillegg til dette har vi fått hjelp fra vår egen interiørdesigner for å gi deg en komplett pakke med materialer for å skape det romlige rommet som trengs for den sanne Cryocabin-opplevelsen. Vegger, Roll-ups, gulv, krakker etc. Dette sammen med trykte informasjonsmapper for å gi kundene dine førsteklasses informasjon.",
+    "line3": "Alt inkludert i prisen og hjelpe din bedrift å komme i gang og øke salget, med en gang."
+  },
+  "studies": {
+    "heading": "Helkroppskryoterapistudier",
+    "caption": "Historien om helkropps kryoterapi (WBC) stammer fra Japan i 1978 da Dr Yamaguchi begynte å bruke frysebehandlinger av kort varighet på pasientens hud for å behandle revmatoid artritt for smertelindringsformål. Det samme prinsippet ble da brukt i Europa der ”Cryocabins” ble utviklet for å behandle hele kroppen mer effektivt.",
+    "browseStudies": "Bla gjennom studielenker",
+    "pdfs": {
+      "study1": "Effekter av Kryoterapi for hele kroppen vs.Fjerninfrarød vs. Passive Modaliteter på Restitusjon",
+      "study2": "Akutte Effekter av Kryoterapi for hele kroppen på Sit-and-Reach Amplitude hos Kvinner og Menn.",
+      "study3": "Fem-dagers Helkroppskryostimulering av Høyt Rangerte Profesjonelle Tennisspillere.",
+      "study4": "Effekten av 10 Økter med Kryostimulering av hele kroppen på Aerob og Anaerob Kapasitet..."
+    }
+  }
+}

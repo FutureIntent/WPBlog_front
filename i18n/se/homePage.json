@@ -1,0 +1,117 @@
+{
+  "metaData": {
+    "title": "Kryoterapimaskin till salu | Köp kryomaskin från THEC",
+    "description": "Cryosculptor är ett pålitligt företag som arbetar inom kryomaskinssfären. Det finns 5 sorters kryoterapimaskiner man kan köpa. Öka din prestation och återhämtning med Cryosculptor!"
+  },
+  "subHeader": "Lev ditt liv fullt ut.",
+  "services": {
+    "title": "Tjänster",
+    "localTherapy": {
+      "category": "Lokal terapi",
+      "headline": "Öka din prestation, återhämtning och skönhet.",
+      "description": "Lokal terapi med kryoterapimaskiner är den bästa metoden för kroppsskulptering. Det har en lokal påverkan på kroppen, korrigerar ojämnheter i huden och stimulerar cellförnyelsen. Det är absolut säkert och extremt effektivt. Endast med dess hjälp blir man av med individuella brister i 99% av fallen och har hälsosamt och attraktivt utseende! Med X°Cryo kan man bekämpa lokaliserat fett och ta första steget mot en perfekt kropp!"
+    },
+    "faceTherapy": {
+      "category": "Ansiktsterapi",
+      "headline": "Förbättra din övergripande skönhet och estetik",
+      "description": "Ansiktsterapi med X°Cryo Mask är den senaste metoden att föryngra och stimulera cellförnyelse, tack vare vilken man kan bromsa åldrandet och få en otroligt lyftande effekt. Den har säkra och har speciella sensorer som reglerar temperaturen på kryokomponenterna för att uppnå bästa resultat. Med konstant användning hjälper kryomasken till att smalna av porerna, ta bort gifter och förnya huden!"
+    },
+    "bodyTherapy": {
+      "category": "Kroppsterapi",
+      "headline": "Förbättra din muskeltoning",
+      "description": "Kroppsterapi X°Tone är ett system för lokal påverkan på kroppsdelar. Tack vare den förbättrade formeln och patenterade teknologin att påverka huden, kan man forma en hård och frisk kropp. Bara en behandlingskur kan ersätta 3 månader i gymmet!"
+    },
+    "fullBodyTherapy": {
+      "category": "Helkroppsterapi",
+      "headline": "Påskynda din kropps naturliga återhämtning",
+      "description": "Helkroppsterapi X°Cabin är en komplett anläggning som kan hjälpa dig att uppnå alla dina friskvårdsmål. Du får är en riktig arbetshäst till hemma! Du behöver inte ett stort utrymme för placering - maskinen kan enkelt placeras i hörnet, garage eller vind. Den kan  ersätta flera kroppsformande enheter och bli ett riktigt minicenter för estetisk skönhet och medicin i ditt hem."
+    },
+    "skinTherapy": {
+      "category": "Hudterapi",
+      "headline": "Boosta och föryngra din hud",
+      "description": "Hudterapi cryocabins X° är en innovativ lösning som förtjänar uppmärksamhet. Den är idealisk för alla som vill utföra en snabb och effektiv korrigering av sin kropp eller dess delar. Med dess hjälp kan du bli av med 88% av visuella brister och de första tecknen på åldrande, efter bara en behandlingskur. Till att börja med räcker det att välja en lämplig enhet och studera dess beskrivning — egenskaperna och det slutliga resultatet."
+    }
+  },
+  "cryotherapy": {
+    "title": "Kryoterapi",
+    "general": {
+      "title": "Allmän",
+      "description": "Kryoterapi bygger på snabb och kontrollerad kylning av vävnad. Processen ökar kroppens egen blodcirkulation samt frigörandet av må-bra endorfiner och det antiinflammatoriska proteinet noradrenalin. Det är en mycket effektiv och helt säker metod för att producera den terapeutiska termiska chocken till det behandlade området utan risk för köldskador eller andra biverkningar."
+    },
+    "beauty": {
+      "title": "Skönhet",
+      "description": "Accelererar muskelåterhämtning, minskar mjölksyra och förbättrar muskelrörlighet och elasticitet. Hjälper med alla idrottsskador, rygg-, nacke- och axelsmärtor, stukningar, spänningar och andra mjukdelssmärtor."
+    },
+    "sports": {
+      "title": "Idrott",
+      "description": "Främjar snabb viktminskning, kan användas att återhämta efter hård träning eller inför tävlingar."
+    },
+    "health": {
+      "title": "Hälsa",
+      "description": "Stimulerar blodkärlens arbete, främjar gift avlägsnande och förnyelse av kroppen. Det har en extremt positiv effekt och har ett minimum av kontraindikationer att använda."
+    },
+    "wellness": {
+      "title": "Wellness",
+      "description": "Förbättrar det övergripande välbefinnandet genom att förnya kroppen på cellnivå. Det har en betydande inverkan på funktionen hos inre organ och förebygger fetma."
+    },
+    "recovery": {
+      "title": "Återhämtning",
+      "description": "Rekommenderas för idrottare och personer som har haft allvarliga sjukdomar. Hjälper till att återhämta sig genom effektiv och snabb rehabilitering."
+    }
+  },
+  "cryotherapyBenefits": {
+    "title": "Kryoterapifördelar",
+    "efficiency": {
+      "title": "Effektivitet",
+      "description": "Kryoterapiutrustning är mycket effektiv — 99 av 100 kunder anser att den är den bästa i kampen för en frisk kropp!"
+    },
+    "safety": {
+      "title": "Säkerhet",
+      "description": "Kryokammaren och dess andra sorter har testats i laboratoriet och det har bevisats att de skadar inte hälsan"
+    },
+    "noAge": {
+      "title": "Inga åldersbegränsningar",
+      "description": "Man kan utföra manipulationer från 5 år gammal och inte tidigare på grund av ett kraftigt temperaturfall."
+    },
+    "easySetup": {
+      "title": "Enkel installation",
+      "description": "Utrustningen kommer tillsammans med bruksanvisning. Installationen tar inte mer än 10 minuter!"
+    },
+    "minimum": {
+      "title": "Minsta kontraindikationer",
+      "description": "Kryoterapi rekommenderas inte för gravida och ammande kvinnor, samt personer med cancer och allvarliga autoimmuna sjukdomar."
+    }
+  },
+  "industries": {
+    "title": "Industrier",
+    "physicalTherapy": "Sjukgymnastik",
+    "athletics": "Friidrott",
+    "gyms": "Gym",
+    "military": "Militär",
+    "sportsMedicine": "Sportmedicin",
+    "spa": "Medicinska SPA",
+    "plastic": "Plastikkirurgi",
+    "strength": "Styrketräning",
+    "wellness": "Friskvårdscenter"
+  },
+  "ourVision": "Vår vision är att hjälpa människor att njuta av sina liv till fullo. Vi gör det genom banbrytande innovation med fokus på den säkra och effektiva kylmetoden, kryoterapi. Våra kryobehandlingar har bevisade effekter för att minska inflammation och smärta, förebygga skador och öka muskelns förmåga att regenerera. För att inte tala om skönhetsaspekten som inkluderar att bli av med akne, bromsa åldrandet, främja viktminskning, minska celluliter, osv. Våra behandlingar är fria från flytande kväve, hundra procent säkra utan biverkningar. Genom att göra THEC till en del av din vardag investerar du i dig själv och din hälsa att leva ditt liv till fullo.",
+  "aboutUs": [
+    "THEC grundades 2021 av serieentreprenör som har haft ett långt livs intresse av att hitta lösningar för att förbättra människors hälsa. När han introducerades för CTN:s grundare, J.P. Martins, kände han att detta skulle vara den perfekta matchen för att förverkliga sin vision om att människor ska kunna njuta av sina liv till fullo. Partnerskapet är startpunkten för många nya uppfinningar som kommer.",
+     "THEC arbetar endast med terapeuter som har gått igenom vårt utbildningsprogram och fått ett certifikat för att kunna använda våra maskiner. Du kan hitta våra legitimerade utövare på utvalda sjukgymnastkliniker, fitnesscenter, medicinska kliniker och skönhetskliniker. Vill du bli en allmänpraktiker själv, vänligen kontakta oss"
+  ],
+  "contact": {
+    "forSales": "För försäljningsförfrågningar - ring",
+    "forOther": "För övriga frågor - ring"
+  },
+  "warranty": {
+    "titleLeft": "Garanti & Stöd",
+    "textLeft": "All utrustning har tillverkargaranti, så du kan alltid reparera eller byta ut kryobastur mot en annan, identisk. Nästan alla enheter är till rea och tillgängliga att beställa under de kommande dagarna.",
+    "titleRight": "Vi tillhandahåller",
+    "list": {
+      "item1": "Manual & Dokumentation",
+      "item2": "Handledning och instruktioner",
+      "item3": "Servicearbeten och reparationer",
+      "item4": "24/7 online stöd"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "metaData": {
+    "title": "Preguntas frecuentes | Cryo°Center"
+  },
+  "preHeading": "Información",
+  "heading": "Preguntas frecuentes",
+  "caption": "Preguntas y respuestas más frecuentes",
+  "q1": {
+    "q": "¿Es seguro x°cryo?",
+    "a": "El principio básico de la terapia con frío es simple: el aire enfriado se dirige a un área lesionada. Básicamente, funciona como una compresa fría pero de una manera mucho más efectiva. La aplicación de aire frío en un área inflamada es un método bien conocido y es completamente seguro."
+  },
+  "q2": {
+    "q": "¿Necesito nitrógeno líquido?",
+    "a": "La tecnología no está basada en el uso de nitrógeno líquido para realizar la crioterapia. No lo necesitará porque en este dispositivo el aire se enfría con la ayuda de electricidad. El principio de funcionamiento se basa en un gran volumen de aire frio, sin necesidad de nitrógeno líquido."
+  },
+  "q3": {
+    "q": "¿Cuáles son los costos de funcionamiento?",
+    "a": "No hay costos de funcionamiento, excepto las facturas de electricidad. Todo lo que necesita es una toma de corriente para conectarlo. Esta clase de equipo se puede utilizar en cualquier momento del día. No necesitará comprar piezas o componentes adicionales para hacer funcionar el dispositivo."
+  },
+  "q4": {
+    "q": "¿Qué necesito para operarlo?",
+    "a": "No necesitará nada más que el dispositivo. Enciéndalo usando el interruptor verde y elija el área del cuerpo que va a tratar. Este equipo ha sido diseñado para un usuario normal: no necesitará ninguna habilidad especial para realizar el procedimiento."
+  }
+}

@@ -1,0 +1,132 @@
+{
+    "products": {
+      "localTherapy": "X˚Cryo",
+      "faceTherapy": "X˚Cryo Mask",
+      "bodyTherapy": "X˚Tone",
+      "fullBodyTherapy": "X˚Cabin",
+      "skinTherapy": "X˚Boosters"
+    },
+    "getStarted": "Aloita",
+    "watchVideo": "Katso video",
+    "features": "Ominaisuudet",
+    "viewTechSpecs": "Katso teknisiä tietoja",
+    "viewPrices": "Katso hinnat",
+    "technicalSpecification": "Tekniset tiedot",
+    "galleryImage": "Kuvagalleria",
+    "browseGallery": "Selaa galleriaa",
+    "browsePrices": "Selaa hinnat",
+    "goToPrices": "Siirry hintoihin",
+    "opportunities": {
+      "heading": "Mahdollisuudet",
+      "card1": {
+        "title": "Koulutus",
+        "caption": "Tarjoamme kaikille asiakkaillemme kaikki tarvittavat materiaalit ja koulutuksen X°Cryo-typen käyttöön."
+      },
+      "card2": {
+        "title": "Aivan kotiovellesi",
+        "caption": "Toimitamme X°Cryon suoraan kotiovellesi Ruotsissa, Norjassa, Tanskassa ja Islannissa."
+      },
+      "card3": {
+        "title": "Luotettavuus ja turvallisuus",
+        "caption": "Kryokoneemme täyttää korkeimmat tuoteturvallisuuden vaatimukset."
+      },
+      "card4": {
+        "title": "Tarvitsetko apua?",
+        "caption": "Kaikki X°Cryo-kryokoneeseen liittyvät kysymykset ovat vain puhelinsoiton päässä. Diagnostiikka ja huolto voidaan tehdä etäyhteyden avulla Internetissä."
+      }
+    },
+    "delivery": {
+      "heading": "Toimitus",
+      "slide1": "Toimitamme X°Cryon, X°Tonen ja Cryocabinin suoraan kotiovellesi Ruotsissa, Norjassa, Tanskassa ja Islannissa.",
+      "slide2": " Vastaamme täysin koko toimitusprosessista. Laitteisiin ei kohdistu mitään vahinkoa.",
+      "slide3": "Yrityksemme arvostaa jokaista asiakasta, ja siksi toimitamme tuotteen niin nopeasti kuin se on mahdollista.",
+      "slide4": "Ilmoita vain nimesi, sähköpostiosoitteesi ja puhelinnumero. Operaattorimme ottaa sinuun yhteyttä järjestääkseen toimitusprosessin."
+    },
+    "howDoesItWork": "Miten se toimii...",
+    "gotQuestions": "Onko kysyttävää?",
+    "orYouCanSendUsMessage": "Tai voit lähettää meille viestin",
+    "feelFreeToCallUs": "Soita meille vapaasti",
+    "iAgreeCryo": "Suostun siihen, että henkilötietojani käsitellään CryoCenterin Tietosuojakäytännön mukaisesti",
+    "privacyPolicy": "Tietosuojakäytäntö",
+    "form": {
+      "name": "Nimi",
+      "email": "Sähköposti",
+      "phone": "Puhelin",
+      "message": "Viesti",
+      "optional": "Valinnainen",
+      "send": "Lähetä",
+      "required": {
+        "name": "Nimi on pakollinen",
+        "email": "Sähköposti on pakollinen"
+      },
+      "error": {
+        "name": "Nimessä tulisi olla vähintään 2 merkkiä",
+        "email": "Väärä sähköpostimuoto",
+        "phone": "Väärä puhelinnumeron muoto",
+        "message": "Kirjainten määrä ei saisi ylittää 200:aa symbolia",
+        "policy": "Sinun on hyväksyttävä tietosuojakäytäntömme jatkaaksesi"
+      }
+    },
+    "order": "tilaus",
+    "getStartedCaption": "Laita tilauksesi jonoon. Otamme sinuun yhteyttä heti, kun olemme valmiita lähettämään tuotteemme.",
+    "contactUs": "Ota yhteyttä",
+    "gallery": "galleria",
+  "studiesTopics": "Studies & Topics",
+  "contacts": "Contacts",
+  "makeACall": "Make a call",
+  "cta": {
+    "title": "",
+    "button": "Visit page"
+  },
+  "copyright": "On our website you can find the entire range of cryolipolysis devices. Each of them is guaranteed to be surprised with its functionality, price, and will be an extremely successful purchase. With it, your business will attract the attention of many hi-tech connoisseurs. Make sure of it right now by leaving a request and announcing the sale or purchase of equipment for aesthetic procedures.",
+  "workingHours": {
+    "title": "We work on:",
+    "weekdays": "Monday to Friday"
+  },
+  "termsOfUse": "Terms of use",
+  "backToTop": "Back to top",
+  "navigation": {
+    "home": "Home",
+    "cryotherapy": {
+      "title": "Cryotherapy",
+      "localTherapy": "Local Therapy – X˚Cryo",
+      "faceTherapy": "Face Therapy – X˚Cryo Mask",
+      "bodyTherapy": "Body Therapy - X Tone",
+      "skinTherapy": "Skin Therapy - X˚Cryo Boosters",
+      "fullBodyTherapy": "Full Body Therapy - XCabin"
+    },
+    "services": {
+      "title": "Services",
+      "markets": "Markets",
+      "businessAndCryo": "Business & Cryo",
+      "prices": "Prices",
+      "costOf": "Cost of a coolsculpting machine",
+      "startupCost": "Cryotherapy startup cost"
+    },
+    "info": {
+      "title": "Info",
+      "blog": "Blog",
+      "faq": "FAQ",
+      "press": "Press",
+      "gallery": "Gallery"
+    },
+    "aboutUs": "About us",
+    "contacts": "Contacts"
+  },
+  "pricesPlan": {
+    "planA": "Plan A",
+    "planB": "Plan B",
+    "planC": "Plan C",
+    "month": "Month",
+    "royalty": "Royalty"
+  },
+  "buyToday": {
+    "heading": "Osta x°cryo tänään",
+    "startingFrom": "Starting from",
+    "includesAll": "Includes all applicators and training",
+    "browseFaq": "Browse FAQ",
+    "or": "Or",
+    "sendQuestion": "Send question"
+  }
+  }
+

@@ -1,0 +1,158 @@
+{
+  "metaData": {
+    "title": "Una máquina de criosauna resulta ideal para una recuperación natural. Compre un criosauna desde THEC",
+    "description": "Muchos sanatorios quieren comprar criosaunas porque son muy populares entre los clientes. Ofrece la oportunidad para una recuperación natural con supercooling. También usted puede quemar calorías y aumentar su bienestar general."
+  },
+  "productName": "X˚Cabin",
+  "heading": "CRYO°CABIN",
+  "caption": "Acelere la recuperación natural de su cuerpo con un super cooling.",
+  "stats": {
+    "minute": "Sesión de un minuto",
+    "calories": "Calorías",
+    "degree": "Grados Celsius",
+    "display": "Pulgadas de Pantalla HD"
+  },
+  "whatIs": {
+    "heading": "Qué es Cryo°Cabin?",
+    "imageAlt": "Producto de terapia de cuerpo entero",
+    "slide1": "La crioterapia de cuerpo entero es un tratamiento de tres minutos que utiliza frío extremo, a través de una niebla de nitrógeno líquido, en la superficie del cuerpo, que a su vez favorece los efectos positivos en la salud y el bienestar, la recuperación deportiva, el manejo del dolor e incluso la belleza.",
+    "slide2": "Esta cabina tratará el cuerpo entero exponiéndolo a temperaturas inferiores a-100C. El cuerpo reaccionará instintivamente aumentando sus propias capacidades curativas. Las hormonas y enzimas se liberarán para que el cuerpo se recupere de una manera más eficiente.",
+    "slide3": "Se trata de un equipo único con un diseño Nórdico y una enorme pantalla de 10\" para imágenes térmicas. Los colores exteriores e interiores se pueden personalizar. Esta máquina ha sido diseñada para todas las personas que desean estar más saludables y reducir el dolor en cualquier parte del cuerpo.",
+    "slide4": "Dedique alrededor de 3 minutos para conseguir muchos beneficios para mejorar su salud. Usted puede utilizar esta máquina para una recuperación postquirúrgica, el tratamiento del asma, diferentes tipos de inflamaciones e incluso la depresión. El nivel de ácido láctico también disminuirá drásticamente.",
+    "specs": {
+      "spec1": "pulgadas de pantalla táctil HD",
+      "spec2": "Tubo de tratamiento pequeño Φ12mm (diámetro)",
+      "spec3": "Tubo de tratamiento grande Φ20mm",
+      "spec4": "Selección de cabezales de tratamiento",
+      "spec5": "Niveles de velocidad del aire 1-3",
+      "spec6": "Tiempo de trabajo 0-60 minutos",
+      "spec7": "Temperatura de salida -20°C con capacidad de extracción de calor real de -60°C",
+      "spec8": "Potencia del compresor 500W",
+      "spec9": "Potencia de disipación de calor 2000W",
+      "spec10": "Salida de refrigeración 1800W",
+      "spec11": "Flujo de aire máximo 75m3/hora",
+      "spec12": "Consumo de energía 1 KVA",
+      "spec13": "Peso 65kg",
+      "spec14": "Dimensión 73cm*44cm*75cm",
+      "spec15": "Fuente de alimentación 220V AC 50Hz. 110V AC 60Hz (Disponible como orden de encargo)"
+    }
+  },
+  "showCase": {
+    "card1": {
+      "title": "Tecnología patentada",
+      "caption": "El enfriamiento por vórtice hace que el vapor fluya alrededor del cuerpo, en lugar de ir directamente al cuerpo."
+    },
+    "card2": {
+      "title": "Gas eficiente",
+      "caption": "El sistema de control de válvula regulado significa menos consumo para una sesión promedio."
+    },
+    "card3": {
+      "title": "Wireless",
+      "caption": "Soporte, mantenimiento y diagnóstico remoto a través de WIFI."
+    },
+    "card4": {
+      "title": "Seguridad avanzada",
+      "caption": "Sensor de cabezal ultrasónico, apagado de emergencia dual, circulación activa y ventilación activa."
+    }
+  },
+  "ultimateEnhancement": {
+    "caption": "Solución completa",
+    "heading": "Mejora Definitiva",
+    "point1": {
+      "title": "Salud y Bienestar",
+      "caption": "Las temperaturas extremadamente bajas en una cámara de crioterapia de cuerpo entero producen una respuesta fisiológica increíble en el cuerpo."
+    },
+    "point2": {
+      "title": "Deportes y Fitness",
+      "caption": "La crioterapia de cuerpo entero actúa a nivel muscular y cardiovascular, por lo tanto, cuando se aplica antes del ejercicio intenso aumenta el rendimiento físico y la resistencia."
+    },
+    "point3": {
+      "title": "Belleza y pérdida de peso",
+      "caption": "Una sesión de WBC puede quemar de 300 a 800 calorías, dependiendo de las características fisiológicas de cada persona."
+    }
+  },
+  "healthSupport": {
+    "title": "Asistencia a favor de la salud",
+    "caption": "Exponiendo todo el cuerpo a temperaturas bajo cero que alcanzan los -160 grados centígrados. Esta sesión de 3 minutos ofrece muchos beneficios para mejorar la salud, como:",
+    "card1": "Recuperación postquirúrgica, asma, inflamación de las articulaciones, deficiencias hormonales, depresión, fatiga",
+    "card2": "Reduce los niveles de ácido láctico en la sangre casi de inmediato a los niveles normales",
+    "card3": "Trastornos de la piel como alergias y psoriasis"
+  },
+  "cryoBenefits": {
+    "heading": "Beneficios de la crioterapia",
+    "tab1": "Salud y bienestar",
+    "tab2": "Deportes y fitness",
+    "tab3": "Belleza y pérdida de peso",
+    "healthBenefits": {
+      "card1": {
+        "title": "Recuperación después del ejercicio",
+        "description": "Como la crioterapia de cuerpo entero ayuda a reducir la inflamación, el dolor se reduce y el cuerpo es capaz de curarse a sí mismo y favorecer la recuperación muscular. A diferencia de los baños de hielo, usted puede reanudar el ejercicio inmediatamente después de una sesión de crioterapia."
+      },
+      "card2": {
+        "title": "Sentirse tranquilo y en calma",
+        "description": "La crioterapia influye en el sistema nervioso autónomo para que una persona pueda sentir relajación. Esta es una gran herramienta para lidiar con la ansiedad y la depresión. Usted puede someter su cuerpo a un tratamiento diario, solo para reducir el estrés o curar un dolor de cabeza."
+      },
+      "card3": {
+        "title": "Sentirse renovado",
+        "description": "Si las sesiones de crioterapia se aplican al cuerpo a diario, esta persona sentiría efectos positivos y duraderos, debido a la disminución en el nivel de cortisol, la hormona del estrés. Mientras más sesiones de crioterapia tenga, mejor se sentirá después de cada tratamiento."
+      },
+      "card4": {
+        "title": "Más energía",
+        "description": "Después de que el cuerpo ha estado expuesto a bajas temperaturas, este responderá fisiológicamente a ella tratando de mantener una temperatura promedio. El sistema nervioso activará un proceso de vasoconstricción, por lo que los dolores de las inflamaciones se reducirán."
+      }
+    },
+    "sportBenefits": {
+      "card1": {
+        "title": "Consiga mejores resultados",
+        "description": "La crioterapia ayuda a los músculos a adaptarse mejor para el próximo entrenamiento. Después de una breve sesión de Crio, aumentará el flujo sanguíneo. Enzimas, nutrientes y hormonas serán liberados en el sistema sanguíneo, por tanto el atleta podrá hacerse más fuerte y más rápido."
+      },
+      "card2": {
+        "title": "Recuperación más rápida después del entrenamiento",
+        "description": "Después de casi cada entrenamiento, ciertas áreas del cuerpo experimentan inflamaciones. Pero el dolor se puede reducir considerablemente: la crioterapia también ayuda a los músculos a recuperarse. Al día siguiente, usted se sentirá más enérgico y saludable."
+      },
+      "card3": {
+        "title": "Recuperación de traumatismos más rápida",
+        "description": "Casi en todos los deportes, existe la posibilidad de sufrir un traumatismo. Una sesión de tratamiento criogénico reducirá significativamente el tiempo necesario para calmar la inflamación. El dolor desaparecerá en un minuto y los músculos comenzarán a regenerarse mucho más rápido."
+      },
+      "card4": {
+        "title": "Estabilidad emocional",
+        "description": "Una vez iniciado el tratamiento, se generan endorfinas y neuropéptidos, que hacen que una persona sienta una sensación de calma, alivio, alegría y satisfacción. Es muy importante para el deportista crear un estado mental positivo."
+      }
+    },
+    "beautyBenefits": {
+      "card1": {
+        "title": "Aumente la quema de calorías",
+        "description": "Incluso después de la primera sesión, una persona en promedio podrá quemar de 300 a 800 calorías, dependiendo de las especificaciones fisiológicas de su cuerpo. Si combina la crioterapia con un entrenamiento físico adecuado, el resultado será formidable."
+      },
+      "card2": {
+        "title": "Reducir los síntomas de la celulitis",
+        "description": "Después de que la piel y todo el cuerpo hayan sido sometidos al aire frío, la circulación sanguínea aumentará. La irrigación de los tejidos mejorará, por lo que el nivel de grasa del sistema linfático disminuirá lentamente. Simplemente realice el procedimiento a diario."
+      },
+      "card3": {
+        "title": "Reducción del nivel de toxinas",
+        "description": "El aumento de la circulación sanguínea promoverá el intercambio celular, por lo tanto, las toxinas se eliminan de manera más rápida y eficiente. Tendrá una vida más saludable con solo someterte a un tratamiento de crioterapia a diario. El efecto curativo es excelente."
+      },
+      "card4": {
+        "title": "Regeneración cutánea",
+        "description": "Las temperaturas extremas del equipo de crioterapia aumentaran la circulación sanguínea y la generación de colágeno. La piel se volverá más firme y elástica debido al proceso de renovación natural. Después de algunos procedimientos terapéuticos, usted se verá un poco más joven."
+      }
+    }
+  },
+  "businessSolutions": {
+    "heading": "Soluciones de Negocio",
+    "line1": "Le ofrecemos a su negocio una solución completa cuando nos compra su CTN Cryocabin.",
+    "line2": "Entregamos e instalamos su equipo y, además, hemos contado con la ayuda de nuestro propio diseñador de interiores para proporcionarle un paquete completo con materiales para crear una sala espacial, necesaria para tener una verdadera experiencia con Cryocabin. Paredes, Roll-ups, pisos,taburetes, etc. Esto junto a folletos de información impresos, para dar a sus clientes información de primera clase.",
+    "line3": "Todo incluido en el precio y ayuda a que su negocio comience y aumente las ventas de forma inmediata."
+  },
+  "studies": {
+    "heading": "Estudios de crioterapia de cuerpo entero",
+    "caption": "La historia de la crioterapia de cuerpo entero (WBC) se origina en Japón en 1978, cuando el Dr. Yamaguchi comenzó a utilizar tratamientos de congelación de corta duración, en la piel de sus pacientes, para tratar la artritis reumatoide con fines paliativos. El mismo principio se utilizó en Europa, donde se desarrollaron las ”Cryocabins” para tratar el cuerpo entero de manera más eficiente.",
+    "browseStudies": "Consulte enlaces de estudio",
+    "pdfs": {
+      "study1": "Efectos de la crioterapia de Cuerpo Entero, frente a las Modalidades de Infrarrojo Lejano y, frente a las Modalidades Pasivas en la Recuperación",
+      "study2": "Efectos Agudos de la crioterapia de Cuerpo Entero en la Amplitud del test Sit-and-Reach en Mujeres y Hombres.",
+      "study3": "Cinco Días de Estimulación Criogénica de Cuerpo Entero en Tenistas Profesionales de Alto Rendimiento.",
+      "study4": "Impacto de 10 Sesiones de  Estimulación Criogénica de Cuerpo Entero en la Capacidad Aeróbica y Anaeróbica..."
+    }
+  }
+}

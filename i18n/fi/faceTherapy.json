@@ -1,0 +1,38 @@
+{
+    "metaData": {
+      "title": "Cryo-kasvohoitokone - ihanteellinen kylmähoitokone kasvojen ihonhoitoon",
+      "description": "Kryofacial-laite on suunniteltu valohoitojen toteuttamiseen. Se saa ihon näyttämään ja tuntumaan virkistyneeltä joka kerta, kun käytät kasvojen kylmähoitokonetta. Sininen valo parantaa aknen ja tappaa kaikki bakteerit."
+    },
+    "productName": "X°Cryo mask",
+    "heading": "X°CRYO Esthetic",
+    "subHeading": "Paranna X°Cryo-kokemustasi",
+    "whatIsEsthetic": {
+      "heading": "Mikä on X°Cryo Esthetic?",
+      "line1": "X°Cryo Estethic sisältää erityisesti Cryo-kasvohoitoon suunnitellun LED-valohoitonaamion.",
+      "line2": "Erityisesti kehitetyn sinisen valon avulla X°Cryo hoitaa yhdessä maskin kanssa useita eri sairauksia. Maski voidaan mukauttaa jokaiseen tarpeeseen sopivaksi."
+    },
+    "cryomask": {
+      "preHeading": "Valmistettu Suomessa",
+      "heading": "Cryomask",
+      "line1": "Sinisellä valolla on erinomainen vaikutus aknen parantamiseen, bakteerien tappamiseen ja herkän ihon terveyden kohentamiseen. Noin 0,5 mm:n läpäisevällä sinisellä valolla on rauhoittava vaikutus ihottumaa vastaan; sopii iholle, joka on herkkä, rasvainen ja jolla on ihottumaa.",
+      "line2": "Se voi säätää ihon talineritystä, auttaa tehokkaasti pääsemään eroon aknesta ja pahanlaatuisista oireista, jolloin saavutetaan kauneudenhoitotavoite. Sininen valo voi myös tiivistää ja kiinteyttää löystynyttä ihoa."
+    },
+    "treatment": {
+      "preHeading": "Viileä ja esteettinen",
+      "heading": "Hoito on olemassa",
+      "line1": "Hoito on nopea, tehokas ja täysin turvallinen. Maski käyttää vain LED-valoa, eikä UV-valon aiheuttama ihovaurio ole koskaan riski.",
+      "line2": "X°Cryo ja maski toimivat ilman nestemäistä typpeä!"
+    },
+    "cryomaskIs": {
+      "heading": "Cryomaski on...",
+      "point1": "Turvallinen ja helppokäyttöinen",
+      "point2": "Virtalähteenä X°Cryo-yksikkö",
+      "point3": "Suunniteltu ja valmistettu Suomessa"
+    },
+    "buyToday": {
+      "heading": "Osta X°Cryo Esthetic tänään",
+      "disclaimer": "X°Cryo Estethic sisältää erityisesti suunnitellun Cryofacial LED -maskin, jonka on suunnitellut CTN."
+    }
+  }
+  
+  

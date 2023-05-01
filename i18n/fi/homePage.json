@@ -1,0 +1,120 @@
+{
+    "metaData": {
+      "title": "Kylmähoitokone myytävänä | Osta kylmäkone THEC:ltä",
+      "description": "Cryosculptor on luotettava yritys, joka toimii kryokoneiden toimittamisen alalla. Voit ostaa 5 erilaista kylmähoitokonetta. Tehosta suorituskykyäsi ja palautumistasi Cryosculptorin avulla!"
+    },
+    "subHeader": "Elä elämääsi täysillä.",
+    "services": {
+      "title": "Palvelut",
+      "localTherapy": {
+        "category": "Paikallinen hoito",
+        "headline": "Paranna suorituskykyä, palautumista ja kauneutta.",
+        "description": "Paikallishoito kylmähoitolaitteilla on paras kehon muotoilumenetelmä. Se vaikuttaa kehoon paikallisesti, korjaa ihon epätasaisuudet ja stimuloi solujen uusiutumista. Se on täysin turvallista ja erittäin tehokasta. Vain sen avulla pääset eroon yksittäisistä epätäydellisyyksistä 99 prosentissa tapauksista ja annat keholle täysin uuden - terveen ja houkuttelevan ilmeen! X°Cryon avulla voit taistella paikallista rasvaa vastaan ja ottaa ensimmäisen askeleen kohti täydellistä kehoa!"
+      },
+      "faceTherapy": {
+        "category": "Kasvohoito",
+        "headline": "Paranna yleistä kauneuttasi ja estetiikkaasi",
+        "description": "Kasvohoito X°Cryo Maskilla on uusin menetelmä nuorentamiseen ja solujen uusiutumisen stimulointiin, jonka ansiosta voit hidastaa ikääntymistä ja saada uskomattoman kohottavan vaikutuksen. Siinä on turvalliset ja erittäin tarkat anturit, jotka säätelevät kryokomponenttien lämpötilaa parhaan nuorennustuloksen saavuttamiseksi. Jatkuvalla käytöllä kryomaski auttaa kaventamaan ihohuokosia, poistamaan toksiineja ja uudistamaan ihoa!"
+      },
+      "bodyTherapy": {
+        "category": "Kehoterapia",
+        "headline": "Paranna lihaskuntoa",
+        "description": "Kehoterapia X°Tone on järjestelmä, joka on suunniteltu kehon osiin kohdistuvaa paikallista vaikutusta varten. Parannetun kaavan ja patentoidun tekniikan ansiosta, joka perustuu syvään vaikutukseen ihoon, jossa on rasvakertymiä, menetelmät mahdollistavat kiinteän ja terveen kehon muodostamisen. Vain yksi terapiakurssi voi korvata 3 kuukautta kuntosalilla!"
+  
+      },
+      "fullBodyTherapy": {
+        "category": "Kokovartalohoito",
+        "headline": "Nopeuta kehosi luonnollista palautumista",
+        "description": "Täysvartalohoito X°Cabin on täydellinen väline, joka voi auttaa sinua saavuttamaan kaikki hyvinvointitavoitteesi. Sillä saat taloosi todellisen työhevosen! Se ei tarvitse suurta tilaa sijoittelua varten - se voidaan helposti sijoittaa kodin eteiseen, autotalliin tai ullakolle. Se voi helposti korvata useita vartalonmuotoilulaitteita, jolloin siitä tulee todellinen esteettisen kauneuden ja lääketieteen minikeskus kotiisi."
+      },
+      "skinTherapy": {
+        "category": "Ihohoito",
+        "headline": "Vahvista ja nuorenna ihoasi",
+        "description": "Skin Therapy eacryocabins X° on innovatiivinen ratkaisu, joka ansaitsee huomiota. Se sopii kaikille niille, jotka haluavat toteuttaa nopean ja tehokkaan muutoksen kehossaan tai sen osissa. Sen avulla voit päästä eroon 88 %:sta visuaalisista puutteista ja kehon ensimmäisistä ikääntymisen merkeistä jo yhden täyden hoitojakson jälkeen. Aluksi riittää, että valitset sopivan laitteen ja tutkit sen kuvauksen - vaikutuksen ominaisuudet ja lopputulos."
+      }
+    },
+    "cryotherapy": {
+      "title": "Kylmähoito",
+      "general": {
+        "title": "Yleistä",
+        "description": "Kylmähoito eli kryoterapia perustuu kudoksen nopeaan ja hallittuun jäähdyttämiseen. Prosessi tehostaa kehon omaa verenkiertoa sekä hyvän olon endorfiinien ja tulehdusta ehkäisevän noradrenaliinin vapautumista. Kyseessä on erittäin tehokas ja täysin turvallinen menetelmä terapeuttisen lämpöshokin tuottamiseksi hoidettavalle alueelle ilman paleltumisen tai muiden sivuvaikutusten riskiä."
+      },
+      "beauty": {
+        "title": "Kauneus",
+        "description": "Nopeuttaa lihasten palautumista, vähentää maitohappoa ja parantaa lihasten liikkuvuutta ja yleistä kimmoisuutta\". Auttaa kaikissa urheiluvammoissa, selkä-, niska- ja hartiakivuissa, nyrjähdyksissä, venähdyksissä ja muissa pehmytkudoskivuissa."
+      },
+      "sports": {
+        "title": "Urheilu",
+        "description": "Edistää nopeaa painonpudotusta, voidaan käyttää palautumiseen kovan harjoittelun jälkeen tai ennen kilpailuun valmistautumista."
+      },
+      "health": {
+        "title": "Terveys",
+        "description": "Stimuloi verisuonten toimintaa, edistää myrkkyjen poistumista ja kehon uudistumista. Sillä on erittäin positiivinen vaikutus, sillä on vain vähän vasta-aiheita käytölle."
+      },
+      "wellness": {
+        "title": "Hyvinvointi",
+        "description": "Parantaa yleistä hyvinvointia uudistamalla kehoa solutasolla. Se vaikuttaa merkittävästi sisäelinten toimintaan, ehkäisee ja torjuu liikalihavuutta."
+      },
+      "recovery": {
+        "title": "Toipuminen",
+        "description": "Suositellaan urheilijoille ja vakavasti sairaille ihmisille. Auttaa toipumaan tehokkaan ja nopean kuntoutuksen avulla."
+      }
+    },
+    "cryotherapyBenefits": {
+      "title": "Kylmähoidon hyödyt",
+      "efficiency": {
+        "title": "Tehokkuus",
+        "description": "Kylmähoitolaitteet ovat erittäin tehokkaita - 99 asiakasta sadasta pitää sitä parhaana taistelussa terveen kehon puolesta!"
+      },
+      "safety": {
+        "title": "Turvallisuus",
+        "description": "Kryokammio ja sen muut lajikkeet on testattu laboratoriossa - sen korkea hyötysuhde ei vahingoita terveyttä"
+      },
+      "noAge": {
+        "title": "Ei ikärajoituksia",
+        "description": "On suositeltavaa suorittaa käsittelyjä 5 vuoden iästä alkaen (aiemmin oli vasta-aiheista), koska keho ei välttämättä reagoi oikein jyrkkään lämpötilan laskuun."
+      },
+      "easySetup": {
+        "title": "Helppo käyttöönotto",
+        "description": "Pakkauksen mukana tulee käyttöopas, jonka noudattamisen jälkeen laitteen käyttöönotto ja asennus vie enintään 10 minuuttia!"
+      },
+      "minimum": {
+        "title": "Vähän vasta-aiheita",
+        "description": "Kylmähoitoa ei suositella raskaana oleville ja imettäville naisille eikä syöpää tai vakavia autoimmuunisairauksia sairastaville."
+      }
+    },
+    "industries": {
+      "title": "Toimialat",
+      "physicalTherapy": "Fysioterapia",
+      "athletics": "Yleisurheilu",
+      "gyms": "Kuntosalit",
+      "military": "Armeija",
+      "sportsMedicine": "Urheilulääketiede",
+      "spa": "Terveydenhuoltoalan kylpylät",
+      "plastic": "Plastiikkakirurgia",
+      "strength": "Voimaharjoittelu",
+      "wellness": "Hyvinvointikeskukset"
+    },
+    "ourVision": "Visiomme on auttaa ihmisiä nauttimaan elämästään täysillä. Teemme sen uraauurtavan innovaation avulla, joka keskittyy pääasiassa turvalliseen ja tehokkaaseen jäähdytysmenetelmään, kylmähoitoon eli kryoterapiaan. Kylmähoidoillamme on todistetusti vaikutuksia, jotka vähentävät tulehdusta ja kipua, ehkäisevät vammoja ja lisäävät lihasten kykyä uudistua. Puhumattakaan kauneusnäkökohdista, joihin kuuluu aknesta eroon pääseminen, ikääntymisen hidastaminen, painonpudotuksen edistäminen, selluliitin vähentäminen ja muut. Hoidot eivät edellytä nestemäisen typen käyttöä. Ne ovat sataprosenttisen turvallisia ja ilman sivuvaikutuksia. Ottamalla THEC osaksi jokapäiväistä elämääsi investoit itseesi ja yleiseen terveyteesi varmistaen, että elät elämääsi täysillä.",
+    "aboutUs": [
+      "THEC on perustettu vuonna 2021 sarjayrittäjän toimesta, joka on jo pitkään ollut kiinnostunut löytämään ratkaisuja ihmisten yleisen terveyden parantamiseksi. Kun hänet esiteltiin CTN:n perustajalle J.P. Martinsille, hänestä tuntui, että tämä olisi täydellinen kumppani toteuttamaan hänen visiotaan siitä, että ihmiset voisivat nauttia elämästään täysillä. Kumppanuus on lähtökohta monille tuleville uusille keksinnöille.",
+      "THEC toimii vain sellaisten terapeuttien kanssa, jotka ovat käyneet läpi koulutusohjelmamme ja saaneet sertifikaatin, jonka perusteella he voivat käyttää laitteitamme. Löydät lisensoidut terapeuttimme valituilta fysioterapeuttiklinikoilta, kuntokeskuksista, lääkäriasemilta ja kauneusklinikoilta. Jos haluat itse tulla harjoittelijaksi, ota meihin yhteyttä osoitteessa"
+    ],
+    "contact": {
+      "forSales": "Myyntiä koskevat tiedustelut - soita",
+      "forOther": "Muut tiedustelut - soita"
+    },
+    "warranty": {
+      "titleLeft": "Takuu ja tuki",
+      "textLeft": "Kaikilla laitteilla on valmistajan takuu, joten voit aina korjata tai vaihtaa kryosaunan toiseen samanlaiseen. Lähes kaikki laitteet ovat myynnissä ja tilattavissa lähipäivinä.",
+      "titleRight": "Me tarjoamme",
+      "list": {
+        "item1": "Käsikirja ja dokumentaatio",
+        "item2": "Opas ja ohjeet",
+        "item3": "Huoltotyöt ja korjaukset",
+        "item4": "24/7 online-tuki"
+      }
+    }
+  }
+  
+  

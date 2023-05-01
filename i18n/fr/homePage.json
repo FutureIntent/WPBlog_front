@@ -1,0 +1,118 @@
+{
+    "metaData": {
+      "title": "Machine de cryothérapie à vendre | Acheter cryomachine de THEC",
+      "description": "Cryosculptor est une entreprise fiable qui travaille dans le domaine de la fourniture de machines cryogéniques. Il existe 5 types de machines de cryothérapie que vous pouvez acheter. Poussez vos performances et votre récupération avec Cryosculptor!"
+    },
+    "subHeader": "Vivre votre vie au maximum.",
+    "services": {
+      "title": "Services",
+      "localTherapy": {
+        "category": "Thérapie locale ",
+        "headline": "Poussez vos performances, votre récupération et votre beauté.",
+        "description": "La thérapie locale avec des appareils de cryothérapie est la meilleure méthode de modelage corporel. Il agit localement sur l'organisme en corrigeant les irrégularités de la peau et en stimulant le renouvellement cellulaire. Il est absolument sûr et extrêmement efficace. Ce n'est qu'avec son aide que vous vous débarrasserez des imperfections individuelles dans 99% des cas et donnerez au corps un aspect complètement nouveau - sain et attrayant ! Avec X°Cryo, vous pouvez combattre les graisses localisées et faire le premier pas vers un corps parfait!"
+      },
+      "faceTherapy": {
+        "category": "Thérapie faciale",
+        "headline": " Améliorez votre beauté et votre esthétique globales",
+        "description": "La thérapie faciale avec X°Cryo Mask est la dernière méthode de rajeunissement et de stimulation du renouvellement cellulaire, grâce à laquelle vous pouvez ralentir le vieillissement et obtenir un effet incroyablement lifting. Il dispose de capteurs sûrs et de haute précision qui régulent la température des composants cryogéniques pour obtenir le meilleur résultat de rajeunissement. Avec une utilisation constante, le cryomasque aide à rétrécir les pores, à éliminer les toxines et à renouveler la peau!"
+      },
+      "bodyTherapy": {
+        "category": "Thérapie corporelle",
+        "headline": "Améliorez votre tonicité musculaire ",
+        "description": "Thérapie corporelle X°Tone est un système conçu pour un impact local sur les parties du corps. Grâce à la formule améliorée et à la technologie brevetée d'action en profondeur sur la peau avec des dépôts graisseux, les méthodes vous permettent de former un corps dur et sain. Un seul cours de thérapie peut remplacer 3 mois de gym!"
+      },
+      "fullBodyTherapy": {
+        "category": "Thérapie du corps entier",
+        "headline": "Accélérez la récupération naturelle de votre corps",
+        "description": "Thérapie complète du corps X°Cabin est une installation complète qui peut vous aider à atteindre tous vos objectifs de bien-être. Avec lui, vous pouvez acheter un véritable bourreau de travail pour votre maison! Il n'a pas besoin d'un grand espace pour le placement - il peut facilement être placé dans un hall d'accueil, un garage ou un grenier. Il peut facilement remplacer plusieurs appareils de mise en forme du corps, devenant un véritable mini-centre de beauté esthétique et de médecine dans votre maison."
+      },
+      "skinTherapy": {
+        "category": "Thérapie cutanée",
+        "headline": "Poussez et rajeunissez votre peau",
+        "description": "Skin Therapy cryocabines X° est une solution innovante qui mérite attention. Il est idéal pour tous ceux qui souhaitent effectuer une correction rapide et efficace de leur corps ou de ses parties. Avec son aide, vous pouvez vous débarrasser de 88% des imperfections visuelles et des premiers signes de vieillissement du corps, après un seul traitement complet. Pour commencer, il suffit de choisir un appareil approprié et d'étudier sa description - les caractéristiques de l'impact et le résultat final."
+      }
+    },
+    "cryotherapy": {
+      "title": "Cryothérapie",
+      "general": {
+        "title": "Generalités",
+        "description": "La cryothérapie est basée sur le refroidissement rapide et contrôlé des tissus. Le processus augmente la circulation sanguine du corps ainsi que la libération d'endorphines de bien-être et de noradrénaline, une protéine anti-inflammatoire. La technique est une méthode très efficace et totalement sûre pour produire le choc thermique thérapeutique sur la zone traitée sans risque de gelure ou d'autres effets secondaires."
+      },
+      "beauty": {
+        "title": "Beauté",
+        "description": "Accélère la récupération musculaire, réduit l'acide lactique et améliore la mobilité musculaire et l'élasticité globale. Aide à toutes les blessures sportives, douleurs au dos, au cou et aux épaules, entorses, foulures et autres douleurs des tissus mous."
+      },
+      "sports": {
+        "title": "Sports",
+        "description": "Favorise une perte de poids rapide, peut être utilisé pour la récupération après un entraînement intensif ou avant la préparation d'une compétition."
+      },
+      "health": {
+        "title": "Santé",
+        "description": "Stimule le travail des vaisseaux sanguins, favorise l'élimination des toxines et le renouvellement de l'organisme. Il a un effet extrêmement positif, a un minimum de contre-indications d'utilisation."
+      },
+      "wellness": {
+        "title": "Bien-être",
+        "description": "Améliore le bien-être général en renouvelant le corps au niveau cellulaire. Il a un impact significatif sur le fonctionnement des organes internes, prévenant l'obésité."
+      },
+      "recovery": {
+        "title": "Récupération",
+        "description": "Recommandé pour les sportifs et les personnes ayant eu des maladies graves. Aide à récupérer grâce à une rééducation efficace et rapide."
+      }
+    },
+    "cryotherapyBenefits": {
+      "title": "Bienfaits de la cryothérapie",
+      "efficiency": {
+        "title": "Efficacité",
+        "description": "L'équipement de cryothérapie est très efficace - 99 clients sur 100 le considèrent comme le meilleur dans la lutte pour un corps sain !"
+      },
+      "safety": {
+        "title": "Sécurité",
+        "description": "La chambre Cryo et ses autres variétés ont été testées en laboratoire - la grande efficacité de son travail ne nuit pas à la santé "
+      },
+      "noAge": {
+        "title": "Pas de limite d'âge",
+        "description": "Il est recommandé d'effectuer des manipulations à partir de 5 ans (auparavant contre-indiquées), car le corps peut ne pas réagir correctement à une forte baisse de température."
+      },
+      "easySetup": {
+        "title": "Installation facile",
+        "description": "Le kit est livré avec un manuel d'instructions, à la suite de quoi la configuration et l'installation de l'équipement ne prendront pas plus de 10 minutes !"
+      },
+      "minimum": {
+        "title": "Contre-indications minimales",
+        "description": "La cryothérapie est déconseillée aux femmes enceintes et allaitantes, ainsi qu'aux personnes atteintes de cancer et de maladies auto-immunes graves."
+      }
+    },
+    "industries": {
+      "title": "Industries",
+      "physicalTherapy": "Thérapie physique",
+      "athletics": "Athlétisme",
+      "gyms": "Gyms",
+      "military": "Militaire",
+      "sportsMedicine": "Médecine du sport",
+      "spa": "SPA médicaux",
+      "plastic": "Chirurgie esthetique",
+      "strength": "Entraînement en force ",
+      "wellness": "Centres de bien-être"
+    },
+    "ourVision": "Notre vision est d'aider les gens à profiter pleinement de leur vie. Nous le faisons grâce à une innovation révolutionnaire axée principalement sur la méthode de refroidissement sûre et efficace, la cryothérapie. Nos traitements cryogéniques ont des effets prouvés sur la réduction de l'inflammation et de la douleur, la prévention des blessures et l'augmentation de la capacité du muscle à se régénérer. Sans oublier l'aspect beauté qui comprend se débarrasser de l'acné, ralentir le vieillissement, favoriser la perte de poids, réduire la cellulite et bien d'autres. Nos traitements sont sans azote liquide, sûrs à cent pour cent et sans aucun effet secondaire. En intégrant THEC à votre vie quotidienne, vous investissez en vous-même et en votre santé globale en vous assurant de vivre pleinement votre vie.",
+    "aboutUs": [
+      "THEC a été fondée en 2021 par un entrepreneur en série qui s'intéresse depuis longtemps à la recherche de solutions pour améliorer la santé globale des gens. Lorsqu'il a été présenté au fondateur de CTN, J.P. Martins, il a estimé que ce serait le match parfait pour réaliser sa vision pour que les gens profitent pleinement de leur vie. Le partenariat est le point de départ de nombreuses nouvelles inventions à venir.",
+      "THEC ne travaille qu'avec des thérapeutes qui ont suivi notre programme de formation et ont reçu un certificat pour utiliser nos machines. Vous pouvez trouver nos praticiens agréés dans certaines cliniques de physiothérapie, centres de fitness, cliniques médicales et cliniques de beauté. Si vous voulez devenir vous-même un praticien, contactez-nous"
+    ],
+    "contact": {
+      "forSales": "Pour les demandes de renseignements sur les ventes - veuillez appeler",
+      "forOther": "Pour d'autres demandes - veuillez appeler"
+    },
+    "warranty": {
+      "titleLeft": "Garantie et assistance",
+      "textLeft": "Tous les équipements ont une garantie du fabricant, vous pouvez donc toujours réparer ou échanger des saunas cryogéniques contre un autre identique. Presque toutes les unités sont en vente et disponibles à la commande dans les prochains jours.",
+      "titleRight": "Nous fournissons",
+      "list": {
+        "item1": "Manuel et documentations",
+        "item2": "Tutoriel et instructions",
+        "item3": "Travaux de maintenance et réparations",
+        "item4": "24/7 support en ligne"
+      }
+    }
+  }
+  

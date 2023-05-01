@@ -1,0 +1,24 @@
+{
+  "metaData": {
+    "title": "FAQ | Cryo°Center"
+  },
+  "preHeading": "Info",
+  "heading": "FAQ",
+  "caption": "Häufigste Fragen und Antworten",
+  "q1": {
+    "q": "Ist der X°Cryo sicher?",
+    "a": "Das Grundprinzip der Kältetherapie ist einfach: gekühlte Luft wird auf eine verletzte Stelle gerichtet. Im Grunde genommen funktioniert sie wie eine kalte Kompresse, aber auf eine viel effektivere Weise. Die Anwendung von kalter Luft auf eine entzündete Stelle ist eine bekannte Methode, die völlig sicher ist."
+  },
+  "q2": {
+    "q": "Brauche ich flüssigen Stickstoff?",
+    "a": "Die Technologie basiert nicht auf der Verwendung von Flüssigstickstoff zur Durchführung der Kryotherapie. Diesen brauchen Sie auch gar nicht, denn in diesem Gerät wird die Luft mit Hilfe von Strom gekühlt. Das Funktionsprinzip basiert auf einem hohen Volumen an gekühlter Luft - flüssiger Stickstoff ist nicht erforderlich."
+  },
+  "q3": {
+    "q": "Wie hoch sind die laufenden Kosten?",
+    "a": "Abgesehen von den Stromrechnungen fallen keine laufenden Kosten an. Alles, was Sie brauchen, ist eine Steckdose, an die Sie das Gerät anschließen können. Diese Art von Geräten kann zu jeder Tageszeit verwendet werden. Sie müssen keine zusätzlichen Teile oder Komponenten kaufen, um das Gerät zu betreiben."
+  },
+  "q4": {
+    "q": "Was brauche ich für den Betrieb?",
+    "a": "Außer dem Gerät brauchen Sie keine weiteren Utensilien. Schalten Sie es mit dem grünen Schalter ein und wählen Sie eine Körperstelle, die Sie behandeln möchten. Das Gerät ist für einen normalen Benutzer konzipiert - Sie benötigen keine besonderen Fähigkeiten, um die Prozedur durchzuführen."
+  }
+}

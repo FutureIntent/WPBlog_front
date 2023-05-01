@@ -1,0 +1,24 @@
+{
+  "metaData": {
+    "title": "FAQ | Cryo°Center"
+  },
+  "preHeading": "Info",
+  "heading": "Ofte stillede spørgsmål",
+  "caption": "Hyppigste spørgsmål og svar",
+  "q1": {
+    "q": "Er x°cryo sikker?",
+    "a": "Grundprincippet for kuldeterapi er enkelt - afkølet luft rettes mod et skadet område. Grundlæggende fungerer det som en kold forbinding, men på en meget mere effektiv måde. At påføre kold luft på et inflammeret område er en velkendt metode, og det er helt sikkert."
+  },
+  "q2": {
+    "q": "Har jeg brug for flydende nitrogen ?",
+    "a": "Teknologien er ikke baseret på at bruge flydende nitrogen til at udføre cryoterapi. Du får ikke brug for det først, fordi i denne enhed afkøles luften ved hjælp af elektricitet. Driftsprincippet er baseret på en stor mængde afkølet luft - der er ikke behov for flydende nitrogen."
+  },
+  "q3": {
+    "q": "Hvad er driftsomkostningerne ?",
+    "a": "Der ville ikke være driftsomkostninger bortset fra regningerne for elektricitet. Alt hvad du behøver er en stikkontakt for at tilslutte den. Denne type udstyr kan bruges på enhver tid på dagen. Du behøver ikke købe ekstra dele eller komponenter for at køre enheden."
+  },
+  "q4": {
+    "q": "Hvad skal jeg bruge for at betjene den ?",
+    "a": "Du behøver ikke andet end enheden. Tænd den ved hjælp af en grøn kontakt, og vælg et område af kroppen, du vil behandle. Dette udstyr er designet til en almindelig bruger – du behøver ingen specielle færdigheder til at udføre proceduren."
+  }
+}

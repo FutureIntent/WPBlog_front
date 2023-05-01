@@ -1,0 +1,123 @@
+{
+  "metaData": {
+    "title": "Máquina de criolipólisis: una máquina diseñada para reducir el nivel de grasa",
+    "description": "La máquina de criolipólisis es un equipo de aplicación de frio sobre la grasa, que le ayudará a crear un cuerpo ideal sin esfuerzo y cirugía. Este tratamiento no quirúrgico es muy eficaz si es aplicado correctamente."
+  },
+  "productName": "X°Tone",
+  "heading": "X°Tone",
+  "subHeading": "Un elemento de cambio real en la escultura del cuerpo",
+  "whatIs": {
+    "imageAlt": "Producto Xtone",
+    "slides": {
+      "slide1": {
+        "title": "Un cuerpo perfecto con la máquina criogénica de congelación de grasa",
+        "content": "¡Usted no necesita martirizarse para formar un cuerpo ideal, porque con X°Tone el proceso de desarrollo no le tomará mucho tiempo! Los tratamientos de reducción de grasa no quirúrgicos modernos y efectivos que ofrece la máquina de criolipólisis lo ayudarán a lograr la figura perfecta en solo unos pocos tratamientos.",
+        "content2": "El congelamiento de la grasa es un procedimiento casi indoloro, incluso si usted tiene un umbral de dolor bajo. Con un efecto localizado o total del dispositivo, usted puede quemar grasa en ciertas áreas, y al mismo tiempo practicar deportes y llevar un estilo de vida saludable."
+      },
+      "slide2": {
+        "title": "Pérdida de peso saludable con la máquina de criolipólisis ",
+        "content": "Olvídese de los agotadores entrenamientos, las dietas y las visitas al cirujano plástico. No necesitará nada de eso, porque al someter la grasa al congelamiento controlado, usted logrará los volúmenes deseados en las caderas, piernas, brazos y cintura, sin mucho esfuerzo. ¡Todo lo que tiene que hacer es elegir el equipo X°Tone adecuado!",
+        "content2": "Presentamos modelos de diversas configuraciones, a su elección, en las que cada uno tiene sus propias características y ventajas de uso. Todos ellos se pueden utilizar en el hogar, en clínicas privadas y en centros de belleza y medicina estética."
+      },
+      "slide3": {
+        "title": "Rejuvenecimiento del cuerpo",
+        "content": "Si está buscando los secretos de la juventud, X°Tone está a punto de descubrir uno de ellos. Debido a la exposición al frío, el dispositivo acelerará el proceso de regeneración celular y tendrá un efecto activo en la producción de colágeno y otras materias \"rejuvenecedoras\" contenidas en el cuerpo humano.",
+        "content2": "A través de un curso, junto con un tratamiento facial anti-envejecimiento, obtendrá un resultado perfecto y duradero. Si con cremas faciales anti-envejecimiento usted obtiene un primer efecto lifting después de 3 semanas, con el curso X°Tone puede verlo en tan solo 2 semanas."
+      },
+      "slide4": {
+        "title": "Aceleración de la curación de heridas y rápido proceso de recuperación",
+        "content": "X°Tone se puede utilizar para la rehabilitación post-operatoria y pos-traumática. Con un método único de exposición que estimula la aceleración de la regeneración de tejidos, los procedimientos con aparatos de criolipólisis eliminarán el dolor y aumentarán el bienestar general.",
+        "content2": "¡Un método de exposición seguro y eficaz tendrá un efecto extremadamente positivo en el sistema muscular, reduciendo el dolor después de los dos primeros procedimientos! Con una crioterapia localizada y medicación, también se puede acelerar el proceso de absorción del medicamento aumentando el tono general."
+      }
+    },
+    "specs": {
+      "spec1": "pulgadas de pantalla táctil HD",
+      "spec2": "Tubo de tratamiento pequeño Φ12mm (diámetro)",
+      "spec3": "Tubo de tratamiento grande Φ20mm",
+      "spec4": "Selección de cabezales de tratamiento",
+      "spec5": "Niveles de velocidad del aire 1-3",
+      "spec6": "Tiempo de trabajo 0-60 minutos",
+      "spec7": "Temperatura de salida -20°C con capacidad de extracción de calor real de -60°C",
+      "spec8": "Potencia del compresor 500W",
+      "spec9": "Potencia de disipación de calor 2000W",
+      "spec10": "Salida de refrigeración 1800W",
+      "spec11": "Flujo de aire máximo 75m3/hora",
+      "spec12": "Consumo de energía 1 KVA",
+      "spec13": "Peso 65kg",
+      "spec14": "Dimensión 73cm*44cm*75cm",
+      "spec15": "Fuente de alimentación 220V AC 50Hz. 110V AC 60Hz (Disponible como orden de encargo)"
+    }
+  },
+  "showCase": {
+    "card1": {
+      "title": "Desarrollo muscular",
+      "caption": "Esta tecnología tonifica y desarrolla el tejido muscular debajo del área tratada de manera muy eficiente."
+    },
+    "card2": {
+      "title": "Ahorro de tiempo",
+      "caption": "Una sesión de 30 minutos equivale a 10x40 minutos en el gimnasio."
+    },
+    "card3": {
+      "title": "Herramientas",
+      "caption": "La máquina de escultura criogénica viene con dos grandes cabezales de tratamiento."
+    },
+    "card4": {
+      "title": "Seguridad",
+      "caption": "En la práctica se ha demostrado una eficiencia y seguridad del 100%."
+    }
+  },
+  "gainingResult": {
+    "caption": "Lo último en escultura del cuerpo",
+    "header": "Obtenga los mejores resultados",
+    "point1": {
+      "title": "Estimulación",
+      "caption": "X°Tone Criolipólisis se puede utilizar para estimular el tono muscular y reducir la grasa corporal no deseada al mismo tiempo."
+    },
+    "point2": {
+      "title": "Alivio",
+      "caption": "X°Tone se puede utilizar para reducir el dolor. Esto se puede hacer modulando la cantidad de señales de dolor al cerebro o liberando analgésicos naturales llamados endorfinas y relajando los músculos inmovilizados que presionan un nervio."
+    },
+    "point3": {
+      "title": "Recuperación sin pausas",
+      "caption": "Recuperación más rápida de cirugías y lesiones. La máquina de criolipólisis X°Tone puede ayudar con la estimulación de los músculos para aumentar la fuerza muscular después de largos períodos de inactividad debido a lesiones, cirugías, etc."
+    }
+  },
+  "howDoesItWorkCards": {
+    "card1": "La estimulación electromagnética de alta intensidad ofrece contracciones musculares continuas y de alta frecuencia, sin relajación muscular, lo que obliga al músculo a trabajar a su máxima capacidad.",
+    "card2": "El uso de Estimulación Muscular Magnética da como resultado un entrenamiento extremo, mejorando el tono muscular más rápido que con el ejercicio físico tradicional. La intensa contracción muscular lograda por la tecnología de Estimulación Muscular Magnética provoca también una gran cantidad de descomposición de grasa.",
+    "card3": "Con el gran sistema 4D (cada tipo de máquina tiene la misma tecnología), las grasas se congelan y queman 30 veces más, de forma efectiva, que durante el entrenamiento regular en el gimnasio."
+  },
+  "rolledByPartner": {
+    "caption": "Un elemento de cambio real en la escultura del cuerpo",
+    "heading": "Lanzado por nuestro socio CTN",
+    "subHeading": "Este producto de culto le ayudará a perder peso sin mucho esfuerzo, ejerciendo un efecto localizado sobre la grasa corporal y acelerando la circulación sanguínea. Prácticamente no tiene contraindicaciones, pero se recomienda consultar a su médico antes de comenzar los procedimientos.",
+    "point1": {
+      "title": "Particularidad",
+      "caption": "X°Tone es un dispositivo profesional para reducir volúmenes en diversas partes del cuerpo. Funciona mucho mejor que el masaje de vacío clásico, porque combina el CoolSculpting y el efecto de vacío en la piel al mismo tiempo."
+    },
+    "point2": {
+      "title": "Experiencia inusual",
+      "caption": "Con X°Tone, usted puede obtener un efecto de bienestar integral, desde el enfriamiento de la piel y la congelación de la grasa, hasta estimular el trabajo de los vasos sanguíneos y todo el sistema linfático. Puede estar seguro de que esta técnica de criolipólisis será el mejor método no invasivo que puede proteger su piel y proporcionar un efecto criogénico perfecto."
+    },
+    "point3": {
+      "title": "Excelentes resultados",
+      "caption": "Los pacientes con un mínimo porcentaje de grasa corporal se dan cuenta de que el resultado se mantiene dentro de los 6 meses posteriores al curso de la crioterapia. Un impacto importante en el resultado final está influenciado, no solo por la calidad del efecto del frío en el cuerpo, sino también por otros factores como: nutrición, estilo de vida, consumo de alcohol, etc."
+    }
+  },
+  "muscleImpact": {
+    "heading": "Impacto Muscular",
+    "card1": {
+      "title": "Estimulación Muscular Magnética",
+      "caption": "A través de la tecnología  de Estimulación Muscular Magnética, los músculos autólogos pueden obtener resultados de ejercicio sin precedentes con expansión y contracción continuas, lo que impacta y remodela de manera eficiente la estructura interna del tejido muscular. La Estimulación Muscular Magnética promueve el crecimiento de miofibrillas (agrandamiento muscular) y produce nuevas cadenas de proteínas y fibras musculares (hiperplasia muscular), así como también aumenta la densidad y el volumen muscular."
+    },
+    "card2": {
+      "title": "Resultado",
+      "caption": "Cuando se utiliza la tecnología de Estimulación Muscular Magnética, las contracciones musculares intensificadas también provocan una descomposición acelerada de los ácidos grasos y la salida de lípidos de las células grasas destruidas. Los lípidos liberados se convertirán en azúcar en la sangre durante las siguientes semanas, y de esta manera serán evacuados por el metabolismo normal. La Estimulación Muscular Magnética fortalece y aumenta el tejido muscular, al tiempo que destruye los depósitos de grasa no deseados de la zona tratada. Esta es la primera vez que tenemos una opción de tratamiento de este tipo disponible."
+    }
+  },
+  "beforeAfter": {
+    "heading": "Antes / Después de los resultados",
+    "imageAlt": "Antes de / Después de los resultados de fondo",
+    "comparison": "Comparativa"
+  }
+}

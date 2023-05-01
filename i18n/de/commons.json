@@ -1,0 +1,132 @@
+{
+  "products": {
+    "localTherapy": "X˚Cryo",
+    "faceTherapy": "X˚Cryo-Maske",
+    "bodyTherapy": "X˚Tone",
+    "fullBodyTherapy": "X˚Kabine",
+    "skinTherapy": " X˚Booster"
+  },
+  "getStarted": "Starten",
+  "watchVideo": "Video ansehen",
+  "features": "Merkmale",
+  "viewTechSpecs": "Technische Daten anzeigen",
+  "viewPrices": "Preise anzeigen",
+  "technicalSpecification": "Technische Spezifikationen",
+  "galleryImage": "Galeriebild",
+  "browseGallery": "Galerie durchsuchen",
+  "browsePrices": "Preise durchsuchen",
+  "goToPrices": "Zu den Preisen gehen",
+  "opportunities": {
+    "heading": "Möglchkeiten",
+    "card1": {
+      "title": "Schulung",
+      "caption": "Wir stellen allen unseren Kunden alle notwendigen Materialien und Schulungen zur Verfügung, um den X°Cryo-Stickstoff zu verwenden."
+    },
+    "card2": {
+      "title": "Direkt an Ihre Haustür",
+      "caption": "Wir liefern den X°Cryo in Schweden, Norwegen, Dänemark und Island direkt an Ihre Haustür."
+    },
+    "card3": {
+      "title": "Vertrauen & Sicherheit",
+      "caption": "Unsere Kryo-Maschine hat den höchsten Standard, wenn es um die Produktsicherheit geht."
+    },
+    "card4": {
+      "title": "Brauchen Sie Hilfe?",
+      "caption": "Alle Fragen bezüglich der Kryo-Maschine X°Cryo lassen sich einfach per Telefon klären. Diagnose und Service können per Fernverbindung über das Internet durchgeführt werden."
+    }
+  },
+  "delivery": {
+    "heading": "Lieferung",
+    "slide1": "Wir liefern X°Cryo, X°Tone und Cryocabin direkt an Ihre Haustür in Schweden, Norwegen, Dänemark und Island.",
+    "slide2": "Wir übernehmen die volle Verantwortung während des Lieferprozesses. Die Geräte werden nicht beschädigt.",
+    "slide3": "Unser Unternehmen schätzt jeden Kunden und deshalb liefern wir das Produkt so schnell wie möglich.",
+    "slide4": "Geben Sie einfach Ihren Namen, Ihre E-Mail-Adresse und Ihre Telefonnumer an. Unser Mitarbeiter wird sich mit Ihnen in Verbindung setzen, um die Lieferung zu organisieren."
+  },
+  "howDoesItWork": "Wie funktioniert es...",
+  "gotQuestions": "Haben Sie Fragen?",
+  "orYouCanSendUsMessage": "Oder Sie können uns eine Nachricht schicken",
+  "feelFreeToCallUs": "Sie können uns problemlos anrufen",
+  "iAgreeCryo": "Ich stimme zu, dass meine persönlichen Daten in Übereinstimmung mit den Datenschutzbestimmungen von CryoCenter verarbeitet werden",
+  "privacyPolicy": "Datenschutzrichtlinie",
+  "form": {
+    "name": "Name",
+    "email": "E-Mail",
+    "phone": "Telefon",
+    "message": "Nachricht",
+    "optional": "Optional",
+    "send": "Senden",
+    "required": {
+      "name": "Name ist erforderlich",
+      "email": "E-Mail ist erforderlich"
+    },
+    "error": {
+      "name": "Der Name sollte mindestens 2 Zeichen lang sein",
+      "email": "Falsches E-Mail-Format",
+      "phone": "Ungültiges Telefonnummernformat",
+      "message": "Zeichen sollten 200 Symbole nicht überschreiten",
+      "policy": "Sie sollten unserer Datenschutzrichtlinie zustimmen, um fortzufahren"
+    }
+  },
+  "order": "order",
+  "getStartedCaption": "Stellen Sie Ihre Bestellung in die Warteschlange. Wir werden Sie kontaktieren, sobald wir bereit sind, unsere Produkte zu versenden.",
+  "contactUs": "Kontaktieren Sie uns",
+  "gallery": "Galerie",
+
+  "studiesTopics": "Studies & Topics",
+  "contacts": "Contacts",
+  "makeACall": "Make a call",
+  "cta": {
+    "title": "",
+    "button": "Visit page"
+  },
+  "copyright": "On our website you can find the entire range of cryolipolysis devices. Each of them is guaranteed to be surprised with its functionality, price, and will be an extremely successful purchase. With it, your business will attract the attention of many hi-tech connoisseurs. Make sure of it right now by leaving a request and announcing the sale or purchase of equipment for aesthetic procedures.",
+  "workingHours": {
+    "title": "We work on:",
+    "weekdays": "Monday to Friday"
+  },
+  "termsOfUse": "Terms of use",
+  "backToTop": "Back to top",
+  "navigation": {
+    "home": "Home",
+    "cryotherapy": {
+      "title": "Cryotherapy",
+      "localTherapy": "Local Therapy – X˚Cryo",
+      "faceTherapy": "Face Therapy – X˚Cryo Mask",
+      "bodyTherapy": "Body Therapy - X Tone",
+      "skinTherapy": "Skin Therapy - X˚Cryo Boosters",
+      "fullBodyTherapy": "Full Body Therapy - XCabin"
+    },
+    "services": {
+      "title": "Services",
+      "markets": "Markets",
+      "businessAndCryo": "Business & Cryo",
+      "prices": "Prices",
+      "costOf": "Cost of a coolsculpting machine",
+      "startupCost": "Cryotherapy startup cost"
+    },
+    "info": {
+      "title": "Info",
+      "blog": "Blog",
+      "faq": "FAQ",
+      "press": "Press",
+      "gallery": "Gallery"
+    },
+    "aboutUs": "About us",
+    "contacts": "Contacts"
+  },
+  "pricesPlan": {
+    "planA": "Plan A",
+    "planB": "Plan B",
+    "planC": "Plan C",
+    "month": "Month",
+    "royalty": "Royalty"
+  },
+  "buyToday": {
+    "heading": "Kaufen Sie X°cryo heute",
+    "startingFrom": "Starting from",
+    "includesAll": "Includes all applicators and training",
+    "browseFaq": "Browse FAQ",
+    "or": "Or",
+    "sendQuestion": "Send question"
+  }
+}

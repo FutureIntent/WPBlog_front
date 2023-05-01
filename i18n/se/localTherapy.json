@@ -1,0 +1,110 @@
+{
+  "metaData": {
+    "title": "Lokaliserad kryoterapimaskin – en lokal kryoterapimaskin för att bota din kropp",
+    "description": "En lokal kryoterapimaskin är en effektiv apparat som kan bota nästan vilken del av kroppen som helst. Detta är en helt säker metod som ger fantastiska resultat. Lokala kryoterapiapparater kan användas utan risk för köldskador."
+  },
+  "heroBanner": {
+    "heading": "Upplev lokaliserad kryoterapi"
+  },
+  "productName": "X˚Cryo",
+  "whatIs": {
+    "imageAlt": "Lokal terapiprodukt",
+    "heading": "Vad är CTN X°Cryo?",
+    "slide1": "Funktionsprincipen X°Cryo är baserad på hög volym och hastighet av den kylda luften. Det är en effektiv och helt säker metod för att producera termisk chock till det behandlade området utan risk för köldskador eller andra biverkningar.",
+    "slide2": "Detta är en elektrisk, kompakt och mobil enhet med flera behandlingshuvuden. Det är en enkel och effektiv lösning som skulle hjälpa till att minska smärta och göra återhämtningsprocessen snabbare. Det är idealisk att behandla hud, leder och muskler runt om i kroppen.",
+    "slide3": "Allt du behöver är ett eluttag tillgängligt. Det skulle inte behövas någon speciell installation. Maskinen har fyra hjul vilket gör den mobil. Om du vill öka atletisk prestation och återhämta efter en skada eller stretch är den här maskinen för dig.",
+    "slide4": "Kryoterapi hjälper att påskynda muskelåterhämtning och förbättra dess elasticitet. Det är mycket användbart när det kommer till behandling av rygg-, nacke- och axelsmärtor. Den kylda luften minskar svullnad och vätskeretention, ledvärk och inflammation.",
+    "specs": {
+      "spec1": "tums HD-pekskärm",
+      "spec2": "Litet behandlingsrör 12mm (diameter)",
+      "spec3": "Stort behandlingsrör 20mm",
+      "spec4": "Val av behandlingsapplikatorer",
+      "spec5": "Lufthastighetsnivåer 1-3",
+      "spec6": "Arbetstid 0-60 minuter",
+      "spec7": "Utloppstemperatur -20°C med faktisk värmeuttagskapacitet på -60°C",
+      "spec8": "Kompressoreffekt 500W",
+      "spec9": "Värmeavledningseffekt 2000W",
+      "spec10": "Kyleffekt 1800W",
+      "spec11": "Max luftflöde 75m3/timme",
+      "spec12": "Strömförbrukning 1 KVA",
+      "spec13": "Vikt 65 kg",
+      "spec14": "Mått 73cm*44cm*75cm",
+      "spec15": "Strömförsörjning 220V AC 50Hz. 110V AC 60Hz (tillgänglig att beställa)"
+    }
+  },
+  "showCase": {
+    "card1": {
+      "title": "Design",
+      "caption": "Tillverkad och producerad i Norden"
+    },
+    "card2": {
+      "title": "Kvävefri",
+      "caption": "Vi introducerar kryoterapibehandlingar utan flytande kväve"
+    },
+    "card3": {
+      "title": "Ansluten",
+      "caption": "Alltid online över wifi. X°Cryo uppdateras automatiskt"
+    },
+    "card4": {
+      "title": "Kyla",
+      "caption": "Effekten av X°Cryo är -60° celsius på huden"
+    }
+  },
+  "meetAllYourNeeds": {
+    "preHeading": "Lokal kryoterapi",
+    "heading": "Att tillgodose alla dina behov",
+    "wellness": {
+      "title": "Wellness",
+      "caption": "Kryoterapi kan öka välbefinnande och fördelaktiga neurotransmittorer"
+    },
+    "sport": {
+      "title": "Friidrott och idrott",
+      "caption": "X°Cryo minskar återhämtningstiden och man kan få bättre resultat snabbare"
+    },
+    "health": {
+      "title": "Hälsa och återhämtning",
+      "caption": "Perfekt för allmänna muskelspänningar och ömma muskler var som helst på kroppen"
+    }
+  },
+  "howItWork": {
+    "card1": "Producerar kontinuerligt luftflöde med hög hastighet och med utmärkt värmeutvinningsförmåga.",
+    "card2": "Kylsystemet är baserat på avancerad elektrisk kompressor och värmeväxlingsteknik som ger underhållsfri kontinuerlig drift.",
+    "card3": "Hög luftflödeshastighet möjliggör kryokylning av behandlingsområdena vid högre lufttemperatur än tidigare vilket gör behandlingarna 100 % säkra.",
+    "card4": "En typisk behandlingssession per område varar från 3 till 5 minuter. 8 tums pekskärm med lättanvänt användargränssnitt."
+  },
+  "showCaseTreatment": {
+    "card1": "Knäbehandling",
+    "card2": "Lokal behandling",
+    "card3": "Armbågsbehandling",
+    "card4": "Behandling av axelområdet"
+  },
+  "treatments": {
+    "fast": {
+      "title": "Snabba behandlingar",
+      "caption": "En behandling med The X°Cryo tar bara 3 enkla minuter"
+    },
+    "low": {
+      "title": "Låga driftskostnader",
+      "caption": "X°Cryo kräver inget flytande kväve vid användning"
+    }
+  },
+  "bodyBenefits": {
+    "heading": "Kroppsfördelar",
+    "tab1": {
+      "title": "Skönhet",
+      "content": "Reverserar tecken på åldrande, främjar hudtonen, minskar celluliter, ökar kollagenproduktionen och ger effektiv behandling av olika hudsjukdomar. Kryoterapi är också idealisk för att minska svullnader, slapp hud och akne."
+    },
+    "tab2": {
+      "title": "Idrott",
+      "content": "Kryoterapi är en bekväm allt-i-ett-lösning som kan användas inom sport för att behandla skador. Tekniken kan öka välbefinnande, minska smärta och förbättra blodcirkulationen. Kyld luft lindrar smärtsamma symtom efter rygg-, nacke- och axelsträckning."
+    },
+    "tab3": {
+      "title": "Hälsa",
+      "content": "Med hjälp av denna maskin kan man påskynda återhämtningsprocessen efter en skada eller medicinsk operation. Det ger lindring från kroniska smärtor och ledvärk, minskar återhämtningstiden, vilket gör att man kan återuppta fysisk aktivitet när som helst."
+    },
+    "tab4": {
+      "title": "Wellness",
+      "content": "Maskinen ökar det övergripande välbefinnandet för idrottare och personer som väljer en aktiv livsstil. En apparat är utmärkt för att minska muskelspänningar och ömma muskler. Du kan fortsätta din dagliga träningsrutin utan begränsningar."
+    }
+  }
+}

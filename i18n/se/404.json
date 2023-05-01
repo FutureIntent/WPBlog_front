@@ -1,0 +1,10 @@
+{
+  "metaData": {
+    "title": "Sidan hittades inte"
+  },
+    "error": "Fel",
+    "notFound": "Kan inte hittas",
+  "message": "Sidan hittades inte. Besök vår Hemsida eller navigera på menyn.",
+  "goToHomepage": "Gå till Hemsidan",
+  "showNavigation": "Visa sajtnavigering"
+}

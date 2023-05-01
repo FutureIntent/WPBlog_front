@@ -1,0 +1,10 @@
+{
+    "metaData": {
+      "title": "Sivua ei löydetty"
+    },
+    "error": "Virhe",
+    "notFound": "Ei löydetty",
+    "message": "Sivua ei löydetty. Voit vierailla kotisivulla tai navigoida valikoissa.",
+    "goToHomepage": "Siirry kotisivulle",
+    "showNavigation": "Näytä sivuston navigointi"
+  }

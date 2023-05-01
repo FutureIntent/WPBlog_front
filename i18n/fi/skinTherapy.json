@@ -1,0 +1,48 @@
+{
+    "metaData": {
+      "title": "X˚Boosters | Kryokeskus"
+    },
+    "productName": "Boosters",
+    "heading": "X°Cryo™ boosterit",
+    "subHeading": "Tehosta X˚Cryo-hoitoasi",
+    "whatIs": {
+      "imageAlt": "Boosters-tuotteen kuva",
+      "heading": "Mikä on X°Cryo Booster?",
+      "slide1": "X°Cryon toimintaperiaate perustuu jäähdytetyn ilman suureen tilavuuteen ja nopeuteen, mikä tarjoaa erittäin tehokkaan mutta täysin turvallisen menetelmän lämpöshokin tuottamiseksi hoidettavalle alueelle ilman paleltumien tai muiden sivuvaikutusten riskiä.",
+      "slide2": "Tämä on sähköinen, kompakti ja siirrettävä laite, jossa on useita hoitopäitä. Se on helppo ja tehokas ratkaisu, joka auttaa vähentämään kipua ja nopeuttamaan toipumisprosessia. Se on suunniteltu hoitamaan ihoa, niveliä ja lihaksia koko kehossa.",
+      "slide3": "Tarvitset vain sähköpistorasian. Erityistä asennusta ei tarvita. Koneessa on neljä pyörää, mikä tekee siitä siirrettävän. Tämä tekniikka on ihanteellinen urheilusuorituksen tehostamiseen ja palautumiseen loukkaantumisen tai venytysten jälkeen.",
+      "slide4": "Kylmähoito auttaa sinua nopeuttamaan lihasten palautumista ja parantamaan niiden kimmoisuutta. Se on erittäin hyödyllinen selkä-, niska- ja hartiakipujen hoidossa. Jäähdytetty ilma vähentää turvotusta ja nesteen kertymistä, nivelkipua ja tulehdusta.",
+      "specs": {
+        "spec1": "tuuman HD-kosketusnäyttö",
+        "spec2": "Pieni hoitoputki Φ12mm (halkaisija)",
+        "spec3": "Suuri hoitoputki Φ20mm",
+        "spec4": "Hoitolaitteiden valinta",
+        "spec5": "Ilman nopeustasot 1-3",
+        "spec6": "Toiminta-aika 0-60 minuuttia",
+        "spec7": "Lähtevän virran lämpötila -20 °C, kun varsinainen lämmöntuotantokyky on -60 °C",
+        "spec8": "Kompressorin teho 500W",
+        "spec9": "Lämmönhäviöteho 2000W",
+        "spec10": "Jäähdytysteho 1800W",
+        "spec11": "Suurin ilmavirta 75m3/tunti",
+        "spec12": "Tehon kulutus 1 KVA",
+        "spec13": "Paino 65kg",
+        "spec14": "Mitat 73cm*44cm*75cm",
+        "spec15": "Virtalähde 220V AC 50Hz. 110V AC 60Hz (saatavana tilauksesta)"
+      }
+    },
+    "getYourBooster": "Hanki Boosterisi",
+    "dermaProduct": {
+      "caption1": "One-Step Micellar Water, Arganöljyn ja monien muiden ihoystävällisten ainesosien yhdistelmä. Tehostaa ihon lämpöshokkia, lievittää tehokkaasti iho-oireita ja tulehduksia, kuten aknea ja muita infektioita.",
+      "caption2": "Arganöljy rauhoittaa, kosteuttaa ja pitää ihon viileänä myös hoidon jälkeen, ja se poistaa turvotusta. Osa patentoitua X°Cryo™-hoitomenetelmää. Erityisiä ainesosia ovat Heinäuute, Sianlihauute, Rauduskoivuuute, Salviauute, Sinkki ja C-vitamiini."
+    },
+    "fysioProduct": {
+      "caption1": "Fysioterapian kylmähoitoja varten kehitetty tuote. Perusaineiden lisäksi tuote sisältää mm. pantenolia, piparminttuöljyä, katajauutetta, humalauutetta, maaauutetta, kukkauutetta, C-vitamiinia ja retinolia.",
+      "caption2": "Tämä tuote on tarkoitettu erityisesti lihas- ja nivelkipujen hoitoon."
+    },
+    "hairProduct": {
+      "caption1": "Tuote, joka on suunniteltu uudistamaan ja elvyttämään kampaamoalan liiketoimintaa.",
+      "caption2": "Parantaa selvästi hiuspohjan hoidon nopeutta ja kestoa. Sisältää tavanomaisia ainesosia, muun muassa seuraavia tehostajia: Risiiniöljy, takiaisjuuriuute, inkivääriuute ja nokkosuute, jotka kaikki ovat erinomaisia ainesosia, jotka tunnetaan hiusten kasvun tehostamisesta ja edistämisestä."
+    }
+  }
+  
+  

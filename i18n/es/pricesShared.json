@@ -1,0 +1,35 @@
+{
+  "localTherapy": {
+    "title": "Terapia Local + Facial",
+    "headline": "Mejore su rendimiento, recuperación y belleza.",
+    "description": "La terapia localizada con máquinas de crioterapia es el mejor método para esculpir el cuerpo. Tiene un impacto localizado en el cuerpo, corrigiendo las irregularidades de la piel y estimulando la renovación celular. Es absolutamente seguro y extremadamente efectivo. Solo con su ayuda, se librará de un tipo de imperfecciones en el 99% de los casos y le dará al cuerpo un aspecto completamente nuevo, ¡saludable y atractivo! ¡Con X°Cryo puede combatir la grasa localizada y dar el primer paso hacia un cuerpo perfecto!"
+  },
+  "faceTherapy": {
+    "title": "Máscara",
+    "headline": "",
+    "description": ""
+  },
+  "bodyTherapy": {
+    "title": "Terapia corporal",
+    "headline": "Mejore su tonificación muscular",
+    "description": "La terapia corporal X°Tone es un sistema diseñado para un impacto localizado en las partes del cuerpo. Gracias a una fórmula mejorada y la tecnología patentada de acción profunda sobre la piel con depósitos de grasa, los métodos le permiten formar un cuerpo fuerte y saludable. ¡Solo un curso de terapia puede reemplazar 3 meses en el gimnasio!"
+  },
+  "fullBodyTherapy": {
+    "title": "Terapia corporal completa",
+    "headline": "Acelere la recuperación natural de su cuerpo",
+    "description": "La terapia corporal completa X°Cabin es un servicio completo que puede ayudarle a alcanzar todos sus objetivos de bienestar. ¡Con él, usted tendrá un verdadero caballo de batalla en su casa! No necesita un gran espacio para instalarlo, se puede situar fácilmente en el pasillo de una casa, en el garaje o en el ático. Puede colocar fácilmente varios dispositivos para moldear el cuerpo, convirtiéndose en un verdadero mini centro de belleza estética y medicina en su hogar."
+  },
+  "skinTherapy": {
+    "title": "Terapia cutánea",
+    "headline": "Mejore y rejuvenezca su piel",
+    "description": "La Terapia Cutánea eacryocabins X° es una solución innovadora que merece atención. Es ideal para todas aquellas personas que quieran llevar a cabo una corrección rápida y eficaz de su cuerpo o de alguna parte de su cuerpo. Con su ayuda, puede deshacerse del 88% de las imperfecciones visuales y los signos iniciales de envejecimiento del cuerpo, después de un solo curso completo de terapia. Para empezar, basta con elegir un dispositivo adecuado y estudiar su descripción: características del impacto y el resultado final."
+  },
+  "aboutDevice": "Acerca del dispositivo",
+  "includeAllApplicators": "Incluye todos los cabezales e instrucciones",
+  "leaveApplication": "Solicitud de licencia",
+  "services": "Servicios",
+  "prices": "Precios",
+  "wantToLearn": "¿Desea obtener más información sobre cómo funciona la franquicia Cryo? Ir a:",
+  "business&Cryo": "Negocios y Crio",
+  "about": "Acerca de"
+}

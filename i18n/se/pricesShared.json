@@ -1,0 +1,36 @@
+{
+  "localTherapy": {
+    "title": "Lokal + Ansiktsterapi",
+    "headline": "Öka din prestation, återhämtning och skönhet.",
+    "description": "Lokal terapi med kryoterapimaskiner är den bästa metoden för kroppsskulptering. Den har en lokal påverkan på kroppen, korrigerar ojämnheter i huden och stimulerar cellförnyelsen. Den är absolut säker och extremt effektiv. Bara med dess hjälp blir man av med individuella brister i 99 % av fallen och får hälsosamt och attraktivt utseende! Med X°Cryo kan man bekämpa lokalt fett och ta det första steget mot en perfekt kropp!"
+  },
+  "faceTherapy": {
+    "title": "Mask",
+    "headline": "",
+    "description": ""
+  },
+  "bodyTherapy": {
+    "title": "Kroppsterapi",
+    "headline": "Förbättra din muskeltoning",
+    "description": "Kroppsterapi X°Tone är ett system designat för lokal påverkan på kroppsdelar. Tack vare den förbättrade formeln och patenterade teknologin att påverka fettavlagringar, kan man forma en hård och frisk kropp. Bara en behandlingskur kan ersätta 3 månader i gymmet!"
+  },
+  "fullBodyTherapy": {
+    "title": "Helkroppsterapi",
+    "headline": "Påskynda din kropps naturliga återhämtning",
+    "description": "Helkroppsterapi X°Cabin är en komplett anläggning som kan hjälpa dig att uppnå alla dina friskvårdsmål. Du får en riktig arbetshäst till hemma! Du behöver inte ett stort utrymme för placering - maskinen kan enkelt placeras i hörnet, garage eller vind. Den kan enkelt ersätta flera kroppsformande enheter och bli ett riktigt minicenter för estetisk skönhet och medicin i ditt hem."
+  },
+  "skinTherapy": {
+    "title": "Hudterapi",
+    "headline": "Boosta och föryngra din hud",
+    "description": "Hudterapi cryocabins X° är en innovativ lösning som förtjänar uppmärksamhet. Den är idealisk för alla som vill utföra en snabb och effektiv korrigering av sin kropp eller dess delar. Med dess hjälp kan du bli av med 88% av visuella brister och de första tecknen på åldrande, efter bara en behandlingskur. Till att börja med räcker det att välja en lämplig enhet och studera dess beskrivning — egenskaper och det slutliga resultatet."
+  },
+  "aboutDevice": "Om enhet",
+  "includeAllApplicators": "Inkluderar alla applikatorer och utbildning",
+  "leaveApplication": "Lämna ansökan",
+  "services": "Tjänster",
+  "prices": "Priser",
+  "wantToLearn": "Vill du lära dig mer om hur franchise fungerar? Gå till:",
+  "business&Cryo": "Business & Kryo",
+  "about": "Om"
+
+}

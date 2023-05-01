@@ -1,0 +1,110 @@
+{
+    "metaData": {
+      "title": "Machine de cryothérapie localisée – une machine de cryothérapie locale pour soigner votre corps",
+      "description": "Une machine de cryothérapie locale est un appareil efficace qui peut guérir presque n'importe quelle partie du corps. C'est une méthode totalement sûre qui donne d'excellents résultats. Les appareils de cryothérapie locaux peuvent être utilisés sans risque de gelures."
+    },
+    "heroBanner": {
+      "heading": "Découvrez la cryothérapie localisée "
+    },
+    "productName": "X˚Cryo",
+    "whatIs": {
+      "imageAlt": "Produit de thérapie locale",
+      "heading": "Qu'est-ce que CTN X°Cryo ?",
+      "slide1": "Le principe de fonctionnement de X°Cryo est basé sur un volume et une vitesse élevés de l'air refroidi, ce qui fournit une méthode très efficace mais totalement sûre pour produire un choc thermique sur la zone traitée sans aucun risque de gelures ou d'autres effets secondaires.",
+      "slide2": "Il s'agit d'un appareil électrique, compact et mobile avec plusieurs têtes de traitement. C'est une solution simple et efficace qui aiderait à réduire la douleur et à accélérer le processus de récupération. Il a été conçu pour traiter la peau, les articulations et les muscles du corps.",
+      "slide3": "Tout ce dont vous avez besoin est une prise électrique disponible. Il n'y aurait pas besoin d'installation spéciale. La machine a quatre roues ce qui la rend mobile. Cette technologie est idéale pour booster les performances sportives et la récupération après une blessure ou un étirement.",
+      "slide4": "La cryothérapie vous aidera à accélérer la récupération musculaire et à améliorer son élasticité. Il est très utile lorsqu'il s'agit de traiter les douleurs du dos, du cou et des épaules. L'air refroidi réduira l'enflure et la rétention de liquide, les douleurs articulaires et l'inflammation.",
+      "specs": {
+        "spec1": "Ecran tactile HD en pouces ",
+        "spec2": "Petit tube de traitement Φ12mm (diametre)",
+        "spec3": "Grand tube de traitement Φ20mm",
+        "spec4": "Sélection d'applicateurs de traitement",
+        "spec5": "Niveaux de vitesse de l'air 1-3",
+        "spec6": "Temps de travail 0-60 minutes ",
+        "spec7": "Température de refoulement -20°C avec une capacité d'extraction de chaleur réelle de -60°C",
+        "spec8": "Puissance du compresseur 500W",
+        "spec9": "Puissance de dissipation thermique 2000W",
+        "spec10": "Puissance frigorifique 1800W",
+        "spec11": "Débit d'air maximal 75m3/heure",
+        "spec12": "Consommation d'énergie 1 KVA",
+        "spec13": "Poids 65kg ",
+        "spec14": "Dimension 73cm*44cm*75cm",
+        "spec15": "Source de courant 220V AC 50Hz. 110V AC 60Hz (Disponible en commande personnalisée)"
+      }
+    },
+    "showCase": {
+      "card1": {
+        "title": "Désign",
+        "caption": "Fabriqué, conçu et produit dans les pays nordiques "
+      },
+      "card2": {
+        "title": "Sans azote",
+        "caption": "Présentation des traitements de cryothérapie sans azote liquide"
+      },
+      "card3": {
+        "title": "Lié",
+        "caption": " Toujours en ligne via le wifi intégré. X°Cryo se met à jour automatiquement sur Internet"
+      },
+      "card4": {
+        "title": "Froid",
+        "caption": "L'effet du X°Cryo est de -60° celsius sur la peau"
+      }
+    },
+    "meetAllYourNeeds": {
+      "preHeading": "Cryothérapie locale",
+      "heading": "Répondre à tous vos besoins",
+      "wellness": {
+        "title": "Bien-être",
+        "caption": "La cryothérapie peut augmenter votre bien-être général et augmenter les neurotransmetteurs bénéfiques"
+      },
+      "sport": {
+        "title": "Athlétisme et sports",
+        "caption": "X°Cryo réduit le temps de récupération des muscles, vous permettant d'obtenir de meilleurs résultats plus rapidement"
+      },
+      "health": {
+        "title": "Santé et récupération",
+        "caption": "Idéal pour les tensions musculaires générales et les muscles endoloris partout sur le corps"
+      }
+    },
+    "howItWork": {
+      "card1": "Produit un flux d'air continu à volume et vitesse élevés avec une excellente capacité d'extraction de chaleur.",
+      "card2": "Le système de refroidissement est basé sur un compresseur électrique avancé et une technologie d'échange de chaleur assurant un fonctionnement continu sans entretien.",
+      "card3": "La vitesse élevée du flux d'air permet le cryo-refroidissement des zones de traitement à une température de l'air plus élevée qu'auparavant, ce qui rend les traitements 100 % sûrs.",
+      "card4": "Une séance de traitement typique par zone dure de 3 à 5 minutes. Écran tactile de 8 pouces avec interface utilisateur facile à utiliser."
+    },
+    "showCaseTreatment": {
+      "card1": "Traitement du genou ",
+      "card2": "Traitement local ",
+      "card3": "Traitement du coude ",
+      "card4": "Traitement de la zone des épaules "
+    },
+    "treatments": {
+      "fast": {
+        "title": "Traitements rapides ",
+        "caption": "Un traitement avec The X°Cryo ne prend que 3 minutes simples "
+      },
+      "low": {
+        "title": "Faibles coûts de fonctionnement ",
+        "caption": "Le X°Cryo ne nécessite pas d'azote liquide pour être utilisé "
+      }
+    },
+    "bodyBenefits": {
+      "heading": "Avantages pour le corps",
+      "tab1": {
+        "title": "Beauté",
+        "content": "Inverse les signes du vieillissement, favorise le teint de la peau, réduit la cellulite, augmente la production de collagène et fournit un traitement efficace de divers troubles cutanés. Les soins du visage Cryo sont également idéaux pour réduire les poches, le relâchement cutané et l'acné."
+      },
+      "tab2": {
+        "title": "Sports",
+        "content": "La cryothérapie est une solution tout-en-un pratique qui peut être utilisée dans le sport pour traiter les blessures. La technologie peut augmenter votre bien-être, réduire la douleur et améliorer la circulation sanguine. L'air refroidi apaisera les symptômes douloureux après un étirement du dos, du cou et des épaules."
+      },
+      "tab3": {
+        "title": "Santé",
+        "content": "Avec l'aide de cette machine, vous pouvez accélérer le processus de récupération après une blessure ou une opération médicale. Il soulage les douleurs chroniques et articulaires. Il réduit le temps de récupération des muscles, ce qui vous permettra de reprendre une activité physique en un rien de temps."
+      },
+      "tab4": {
+        "title": "Bien-être",
+        "content": "La machine augmente le bien-être général des athlètes et des personnes qui choisissent un mode de vie actif. Un appareil est idéal pour réduire la tension musculaire et les muscles endoloris dans n'importe quelle partie du corps. Vous pourrez continuer votre routine d'entraînement quotidienne plus tôt."
+      }
+    }
+  }

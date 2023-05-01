@@ -1,0 +1,160 @@
+{
+    "metaData": {
+      "title": "Kryosaunakone on ihanteellinen laite luonnolliseen toipumiseen. Osta kryosauna THEC:ltä",
+      "description": "Monet sairaalat haluavat ostaa kryosaunan, koska se on erittäin suosittu asiakkaiden keskuudessa. Se tarjoaa mahdollisuuden luonnolliseen toipumiseen superjäähdytyksen avulla. Voit myös polttaa kaloreita ja lisätä yleistä hyvinvointia."
+    },
+    "productName": "X˚Cabin",
+    "heading": "CRYO°CABIN",
+    "caption": "Tehosta elimistön luonnollista palautumista superjäähdytyksellä.",
+    "stats": {
+      "minute": "Minuutin pituinen sessio",
+      "calories": "Kalorit",
+      "degree": "Celsius-asteita",
+      "display": "Tuuman HD-näyttö"
+    },
+    "whatIs": {
+      "heading": "Mikä on Cryo°Cabin?",
+      "imageAlt": "Koko kehon terapiatuote",
+      "slide1": "Koko kehon kylmähoito on kolmen minuutin pituinen hoito, jossa käytetään äärimmäistä kylmyyttä nestemäisen typpisumun avulla kehon pinnalla, mikä puolestaan lisää positiivista vaikutusta terveyteen ja hyvinvointiin, edistää urheilusta toipumisen, kivunhoidon ja kauneuden.",
+      "slide2": "Tämä kabiini hoitaa koko kehoa altistamalla sen alle -100 C:n lämpötiloille. Keho reagoi vaistomaisesti lisäämällä omia paranemiskykyjään. Hormoneja ja entsyymejä vapautuu, joten keho toipuu tehokkaammin.",
+      "slide3": "Tämä on ainutlaatuinen laite, jossa on pohjoismainen muotoilu ja iso 10 tuuman näyttö lämpökuvia varten. Ulko- ja sisävärit voidaan yksilöidä. Tämä laite on suunniteltu kaikille, jotka haluavat tulla terveellisemmiksi ja vähentää kipua missä tahansa kehon osassa.",
+      "slide4": "Käytä noin 3 minuuttia saadaksesi monia terveyttä edistäviä etuja. Voit käyttää tätä laitetta leikkauksen jälkeiseen paranemiseen, astman hoitoon, erilaisiin tulehduksiin ja jopa masennukseen. Myös maitohappotaso laskee olennaisesti.",
+      "specs": {
+        "spec1": "tuuman HD-kosketusnäyttö",
+        "spec2": "Pieni hoitoputki Φ12mm (halkaisija)",
+        "spec3": "Suuri hoitoputki Φ20mm",
+        "spec4": "Hoidon applikaattoreiden valinta",
+        "spec5": "Ilman nopeustasot 1-3",
+        "spec6": "Toiminta-aika 0-60 minuuttia",
+        "spec7": "Lähtevän virran lämpötila -20 °C, kun varsinainen lämmöntuotantokyky on -60 °C",
+        "spec8": "Kompressorin teho 500W",
+        "spec9": "Lämmönhäviöteho 2000W",
+        "spec10": "Jäähdytysteho 1800W",
+        "spec11": "Suurin ilmavirta 75m3/tunti",
+        "spec12": "Tehon kulutus 1 KVA",
+        "spec13": "Paino 65kg",
+        "spec14": "Mitat 73cm*44cm*75cm",
+        "spec15": "Virtalähde 220V AC 50Hz. 110V AC 60Hz (saatavana tilauksesta)"
+      }
+    },
+    "showCase": {
+      "card1": {
+        "title": "Patentoitu teknologia",
+        "caption": "Pyörrejäähdytys saa höyryn virtaamaan kehon ympärillä eikä suoraan kehoa kohti."
+      },
+      "card2": {
+        "title": "Kaasutehokas",
+        "caption": "Säädettävä venttiilien ohjausjärjestelmä tarkoittaa pienempää kulutusta keskimääräisellä sessiolla."
+      },
+      "card3": {
+        "title": "Langaton",
+        "caption": "Tuki, huolto ja etädiagnostiikka WIFI:n kautta."
+      },
+      "card4": {
+        "title": "Edistyksellinen turvallisuus",
+        "caption": "Ultraäänianturi, kaksoishätäpysäytys, aktiivinen kierto ja aktiivinen ilmanvaihto."
+      }
+    },
+    "ultimateEnhancement": {
+      "caption": "Kokonainen ratkaisu",
+      "heading": "Perimmäinen parannus",
+      "point1": {
+        "title": "Terveys ja hyvinvointi",
+        "caption": "Koko kehon kylmähoitokammion erittäin alhaiset lämpötilat saavat aikaan hämmästyttävän fysiologisen reagoinnin kehossa."
+      },
+      "point2": {
+        "title": "Urheilu ja kuntoilu",
+        "caption": "Koko kehon kylmähoito vaikuttaa lihasten ja sydän- ja verisuonijärjestelmän tasolla, joten kun sitä käytetään ennen intensiivistä liikuntaa, se lisää fyysistä suorituskykyä ja kestävyyttä."
+      },
+      "point3": {
+        "title": "Kauneus ja painonpudotus",
+        "caption": "WBC-harjoitus voi polttaa 300-800 kaloria kunkin henkilön fysiologisista ominaisuuksista riippuen."
+      }
+    },
+
+    "healthSupport": {
+      "title": "Terveyden tukeminen",
+      "caption": "Koko kehon altistaminen -160 celsiusasteen lämpötiloille. Tämä 3 minuutin sessio tarjoaa monia terveyttä edistäviä etuja, kuten:",
+      "card1": "Leikkauksen jälkeinen toipuminen, astma, niveltulehdus, hormonipuutteet, masennus, väsymys",
+      "card2": "Alentaa veren maitohappopitoisuutta lähes välittömästi normaalille tasolle",
+      "card3": "Ihosairaudet, kuten allergiat ja psoriaasi"
+    },
+    "cryoBenefits": {
+      "heading": "Kylmähoidon hyödyt",
+      "tab1": "Terveys ja hyvinvointi",
+      "tab2": "Urheilu ja kuntoilu",
+      "tab3": "Kauneus ja painonpudotus",
+      "healthBenefits": {
+        "card1": {
+          "title": "Palautuminen harjoituksen jälkeen",
+          "description": "Kun koko kehon kylmähoito auttaa vähentämään tulehdusta, kipu vähenee ja keho pystyy parantamaan itseään paremmin ja edistämään lihasten palautumista. Toisin kuin jääkylvyissä, voit myös jatkaa liikuntaa heti kylmähoitojakson jälkeen."
+        },
+        "card2": {
+          "title": "Tule rauhalliseksi ja rentoutuneeksi",
+          "description": "Kylmähoito vaikuttaa autonomiseen hermostoon niin, että henkilö voi tuntea rentoutumista. Tämä on loistava väline ahdistuksen ja masennuksen hoitoon. Voit altistaa kehosi hoidolle päivittäin vain vähentääkseen stressiä tai parantaaksesi päänsärkyä."
+        },
+        "card3": {
+          "title": "Virkistynyt olo",
+          "description": "Jos kylmähoitoa sovelletaan kehoon päivittäin, henkilö tuntee pysyviä myönteisiä vaikutuksia stressihormoni kortisolin tason laskun ansiosta. Mitä enemmän kylmähoitokertoja, sitä parempi olo tulee jokaisen hoidon jälkeen."
+        },
+        "card4": {
+          "title": "Lisää energiaa",
+          "description": "Kun keho on altistunut alhaisille lämpötiloille, se reagoi siihen fysiologisesti yrittämällä ylläpitää keskilämpötilaa. Hermosto aktivoi verisuonia supistavan prosessin, joten tulehdusten aiheuttamat kivut vähenevät."
+        }
+      },
+      "sportBenefits": {
+        "card1": {
+          "title": "Saavuta parempia tuloksia",
+          "description": "Kylmähoito auttaa lihaksia sopeutumaan paremmin tulevaan harjoitteluun. Lyhyen kryosession jälkeen verenkierto kiihtyy. Entsyymejä, ravintoaineita ja hormoneja vapautuu verenkiertoon, joten urheilijasta tulee vahvempi ja nopeampi."
+        },
+        "card2": {
+          "title": "Nopeampi palautuminen harjoittelun jälkeen",
+          "description": "Lähes jokaisen harjoittelun jälkeen kehon tietyillä alueilla ilmenee tulehduksia. Mutta kipua voidaan vähentää huomattavasti - kylmähoito auttaa myös lihasten palautumista. Seuraavana päivänä olo on virkeämpi ja terveellisempi."
+        },
+        "card3": {
+          "title": "Nopeampi traumasta toipuminen",
+          "description": "Lähes jokaisessa urheilulajissa on mahdollisuus saada traumoja. Kylmähoitosessio lyhentää merkittävästi tulehduksen lievittämiseen tarvittavaa aikaa. Kipu katoaa minuutissa ja lihakset alkavat uudistua paljon nopeammin."
+        },
+        "card4": {
+          "title": "Emotionaalinen vakaus",
+          "description": "Hoidon aloituksen jälkeen muodostuu endorfiineja ja neuropeptidejä, joten ihminen tuntee rauhallisuutta, helpotusta, iloa ja tyytyväisyyttä. Urheilijalle on erittäin tärkeää luoda positiivinen mielentila."
+        }
+      },
+      "beautyBenefits": {
+        "card1": {
+          "title": "Tehosta kalorienpolttoa",
+          "description": "Jo ensimmäisen hoitojakson jälkeen keskivertohenkilö pystyy polttamaan 300-800 kaloria kehon fysiologisista ominaisuuksista riippuen. Jos yhdistät kryoterapian oikeaan fyysiseen harjoitteluun, tulos on huikea."
+        },
+        "card2": {
+          "title": "Vähennä selluliitin oireita",
+          "description": "Kun iho ja koko keho on altistettu kylmälle ilmalle, verenkierto kiihtyy. Kudosten nesteytys paranee, joten imunestejärjestelmän rasvapitoisuus vähenee hitaasti. Suorita toimenpide päivittäin."
+        },
+        "card3": {
+          "title": "Toksiinien määrän vähentäminen",
+          "description": "Verenkierron kiihtyminen edistää solujen vaihtumista, joten toksiinit poistuvat nopeammin ja tehokkaammin. Sinusta tulee terveempi pelkästään altistamalla itsesi kylmähoitohoidolle päivittäin. Parantava vaikutus on suuri."
+        },
+        "card4": {
+          "title": "Ihon uudistaminen",
+          "description": "Kylmähoitolaitteen äärimmäiset lämpötilat tehostavat verenkiertoa ja kollageenin muodostumista. Ihosta tulee kiinteämpi ja kimmoisampi luonnollisen uusiutumisprosessin ansiosta. Muutaman hoitokerran jälkeen näytät hieman nuoremmalta."
+        }
+      }
+    },
+    "businessSolutions": {
+      "heading": "Liiketoimintaratkaisut",
+      "line1": "Tarjoamme yrityksellesi täydellisen ratkaisun, kun ostat meiltä CTN-kryokopin.",
+      "line2": "Toimitamme ja asennamme laitteesi, ja lisäksi meiltä saa suunnittelijamme apua. Hän pystyy suunnittelemaan sisätiloja ja voimme näin tarjota sinulle täydellisen paketin materiaaleineen. Voit luoda itsellesi sellaisen tilan, jota tarvitset aidon Cryocabin-kokemuksen saamiseksi. Seinät, roll-upit, lattia, istuimet jne. Tämä tulee yhdessä painettujen tietokansioiden kanssa, joten voit antaa asiakkaillesi ensiluokkaista tietoa.",
+      "line3": "Kaikki sisältyy hintaan ja se auttaa yritystäsi pääsemään alkuun ja kasvattamaan myyntiä heti."
+    },
+    "studies": {
+      "heading": "Koko kehon kylmähoitotutkimukset",
+      "caption": "Koko kehon kylmähoidon (WBC) historia on peräisin Japanista vuodelta 1978, jolloin tohtori Yamaguchi alkoi käyttää potilaittensa iholla lyhytaikaisia jäädytyskäsittelyjä nivelreuman hoitoon kivunlievitystarkoituksessa. Samaa periaatetta käytettiin sitten Euroopassa, jossa kehitettiin \"kryokammiot\" koko kehon tehokkaampaa hoitoa varten.",
+      "browseStudies": "Selaa tutkimuksiin liittyviä linkkejä",
+      "pdfs": {
+        "study1": "Koko kehon kylmähoidon, kaukoinfrapunahoidon ja passiivisten toipumisen menetelmien vaikutusten vertailu",
+        "study2": "Acute Effects of Whole-Body cryotherapy on Koko kehon kylmähoidon akuutit vaikutukset Sit-and-Reach-amplitudiin (eteenpäin kumartuminen istuma-asennossa) naisilla ja miehillä.",
+        "study3": "Viiden päivän kokovartalokryostimulaatio korkealle sijoittuneiden tenniksen ammattilaispelaajien joukossa.",
+        "study4": "Koko kehon kryostimulaation 10 hoitokerran vaikutus aerobiseen ja anaerobiseen toimintakykyyn..."
+      }
+    }
+  }
+

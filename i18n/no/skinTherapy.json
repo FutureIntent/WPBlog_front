@@ -1,0 +1,46 @@
+{
+  "metaData": {
+    "title": "X˚Boosters | Cryo°Center"
+  },
+  "productName": "Boosters",
+  "heading": "X°Cryo™ boosters",
+  "subHeading": "Øk din X˚Cryo-behandling",
+  "whatIs": {
+    "imageAlt": "Boosters produktbilde",
+    "heading": "Hva er X°Cryo Booster?",
+    "slide1": "X°Cryo-driftsprinsippet er basert på høyt volum og hastighet på den avkjølte luften, som gir en svært effektiv, men helt sikker metode for å produsere termisk sjokk til det behandlede området uten risiko for frostskader eller andre bivirkninger.",
+    "slide2": "Dette er en elektrisk, kompakt og mobil enhet med flere behandlingshoder. Det er en enkel og effektiv løsning som vil bidra til å redusere smerte og gjøre utvinningsprosessen raskere. Den ble designet for å behandle hud, ledd og muskler rundt i kroppen.",
+    "slide3": "Alt du trenger er en stikkontakt tilgjengelig. Det ville ikke være behov for spesiell installasjon. Maskinen har fire hjul som gjør den mobil. Denne teknologien er ideell for å øke atletisk ytelse og restitusjon etter en skade eller en strekk.",
+    "slide4": "Kryoterapi vil hjelpe deg å akselerere muskelgjenoppretting og forbedre elastisiteten. Det er veldig nyttig når det kommer til behandling av rygg-, nakke- og skuldersmerter. Den avkjølte luften vil redusere hevelse og væskeretensjon, leddsmerter og betennelser.",
+    "specs": {
+      "spec1": "tommers HD-berøringsskjerm",
+      "spec2": "Lite behandlingsrør Φ12mm (diameter)",
+      "spec3": "Stort behandlingsrør Φ20mm",
+      "spec4": "Valg av behandlingsapplikatorer",
+      "spec5": "Lufthastighetsnivåer 1-3",
+      "spec6": "Arbeidstid 0-60 minutter",
+      "spec7": "Utløpstemperatur -20°C med faktisk varmeavtrekkskapasitet på -60°C",
+      "spec8": "Kompressoreffekt 500W",
+      "spec9": "Varmeavledningseffekt 2000W",
+      "spec10": "Kjøleeffekt 1800W",
+      "spec11": "Maximum air flow 75m3/hour",
+      "spec12": "Strømforbruk 1 KVA",
+      "spec13": "Vekt 65 kg",
+      "spec14": "Dimensjon 73cm*44cm*75cm",
+      "spec15": "Strømforsyning 220V AC 50Hz. 110V AC 60Hz (tilgjengelig som spesialbestilling)"
+    }
+  },
+  "getYourBooster": "Få deg din Booster",
+  "dermaProduct": {
+    "caption1": "One-Step Micellar Water, en blanding av arganolje og mange andre hudvennlige ingredienser. Øker hudens termosjokk, lindrer effektivt hudsymptomer og infeksjoner som akne og andre hudinfeksjoner.",
+    "caption2": "Arganolje beroliger, fukter og holder huden kjølig selv etter behandling, perfekt for å fjerne hevelser. En del av den patenterte X°Cryo™ behandlingsmetoden. Spesielle ingredienser inkluderer Høysekstrakt, Grisekjøttekstrakt, Jernbjørkeekstrakt, Salvieekstrakt, Sink og Vitamin C."
+  },
+  "fysioProduct": {
+    "caption1": "Et produkt utviklet for fysioterapirelaterte kryoterapibehandlinger. I tillegg til basisingredienser inkluderer dette produktet bl.a. Pantenol, Peppermynteolje, Einerekstrakt, Humleekstrakt, Maltekstrakt, Blomsterekstrakt, Vitamin C og Retinol.",
+    "caption2": "Dette produktet er spesielt bra for behandling av muskel- og leddsmerter."
+  },
+  "hairProduct": {
+    "caption1": "Produkt designet for å gjenopprette og revitalisere frisyrebransjen.",
+    "caption2": "Forbedrer tydelig hastigheten og varigheten av behandlingen for hodebunnen. Inkluderer normale ingredienser, blant annet følgende boostere: Ricinusolje, Burdockrotekstrakt, Ingefærekstrakt og Brennesleekstrakt alle gode ingredienser kjent for å øke og fremme hårvekst."
+  }
+}
